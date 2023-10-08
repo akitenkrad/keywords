@@ -23,16 +23,16 @@ class KeywordCategory(Enum):
 
 @dataclass(frozen=True)
 class Keyword(object):
-    category: str
-    keyword: KeywordCategory
+    category: KeywordCategory
+    keyword: str
 
     @classmethod
     def load_keywords(cls) -> list[Keyword]:
         keywords = []
         with open(Path(__file__).parent / "rsc" / "ml_keywords.json", mode="rt", encoding="utf-8") as f:
-            keywords += [Keyword(item["keyword"], KeywordCategory.from_str(item["category"])) for item in json.load(f)]
+            keywords += [Keyword(KeywordCategory.from_str(item["category"]), item["keyword"]) for item in json.load(f)]
         with open(Path(__file__).parent / "rsc" / "nlp_keywords.json", mode="rt", encoding="utf-8") as f:
-            keywords += [Keyword(item["keyword"], KeywordCategory.from_str(item["category"])) for item in json.load(f)]
+            keywords += [Keyword(KeywordCategory.from_str(item["category"]), item["keyword"]) for item in json.load(f)]
         with open(Path(__file__).parent / "rsc" / "graph_keywords.json", mode="rt", encoding="utf-8") as f:
-            keywords += [Keyword(item["keyword"], KeywordCategory.from_str(item["category"])) for item in json.load(f)]
+            keywords += [Keyword(KeywordCategory.from_str(item["category"]), item["keyword"]) for item in json.load(f)]
         return keywords
