@@ -14,6 +14,11 @@ setuptools.setup(
     author="akitenkrad",
     author_email="akitenkrad@gmail.com",
     packages=setuptools.find_packages(),
+    package_data={
+        "keywords": [
+            "rsc/*.json",
+        ]
+    },
     classifiers=[
         "Programming Language :: Python :: 3",
     ]
