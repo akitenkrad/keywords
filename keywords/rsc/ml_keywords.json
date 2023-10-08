@@ -1,0 +1,74 @@
+[
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Transfer Learning"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Fine-Tuning"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "generative"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Self-supervised Learning"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Zero-shot"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Few-shot"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Few-shot Learning"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Pruning"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Model Pruning"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Quantization"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Quantize"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Model Quantization"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Distillation"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Knowledge Distillation"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Model Distillation"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Supervised Learning"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Unsupervised Learning"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Reinforcement Learning"
+    }
+]

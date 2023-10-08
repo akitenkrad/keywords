@@ -1,0 +1,110 @@
+[
+    {
+        "category": "Graph Topic",
+        "keyword": "Graph Embedding"
+    },
+    {
+        "category": "Graph Topic",
+        "keyword": "Node Embedding"
+    },
+    {
+        "category": "Graph Topic",
+        "keyword": "Edge Embedding"
+    },
+    {
+        "category": "Graph Topic",
+        "keyword": "Attributed Graph"
+    },
+    {
+        "category": "Graph Topic",
+        "keyword": "Static Graph"
+    },
+    {
+        "category": "Graph Topic",
+        "keyword": "Dynamic Graph"
+    },
+    {
+        "category": "Graph Topic",
+        "keyword": "Continuous Graph"
+    },
+    {
+        "category": "Graph Topic",
+        "keyword": "Homogeneous Graph"
+    },
+    {
+        "category": "Graph Topic",
+        "keyword": "Heterogeneous Graph"
+    },
+    {
+        "category": "Graph Task",
+        "keyword": "Node Classification"
+    },
+    {
+        "category": "Graph Task",
+        "keyword": "Edge Classification"
+    },
+    {
+        "category": "Graph Task",
+        "keyword": "Graph Classification"
+    },
+    {
+        "category": "Graph Task",
+        "keyword": "Edge Prediction"
+    },
+    {
+        "category": "Graph Task",
+        "keyword": "Graph Anomaly Detection"
+    },
+    {
+        "category": "Graph Task",
+        "keyword": "Node Anomaly Detection"
+    },
+    {
+        "category": "Graph Task",
+        "keyword": "Edge Anomaly Detection"
+    },
+    {
+        "category": "Graph Task",
+        "keyword": "Subgraph Anomaly Detection"
+    },
+    {
+        "category": "Graph Task",
+        "keyword": "Subgraph Anomaly Detection"
+    },
+    {
+        "category": "Graph Topic",
+        "keyword": "Graph Neural Network"
+    },
+    {
+        "category": "Graph Topic",
+        "keyword": "GNN"
+    },
+    {
+        "category": "Graph Model",
+        "keyword": "Graph Convolutional Network"
+    },
+    {
+        "category": "Graph Model",
+        "keyword": "GCN"
+    },
+    {
+        "category": "Graph Model",
+        "keyword": "Graph Attention Networks"
+    },
+    {
+        "category": "Graph Model",
+        "keyword": "GAT"
+    },
+    {
+        "category": "Graph Model",
+        "keyword": "Message-Passing"
+    },
+    {
+        "category": "Graph Model",
+        "keyword": "GraphSAGE"
+    },
+    {
+        "category": "Graph Model",
+        "keyword": "E-GraphSAGE"
+    }
+]

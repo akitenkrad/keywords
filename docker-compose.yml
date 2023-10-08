@@ -1,0 +1,17 @@
+version: '3'
+services:
+  python:
+    container_name: 'python.cpu.keywords'
+    image: akitenkrad/python.cpu.arm64:latest
+    user: root
+    tty: true
+    volumes:
+      - ./:/workplace
+      - data:/data
+    environment:
+      TZ: Asia/Tokyo
+    working_dir: /workplace
+volumes:
+  data:
+    name: data
+    external: true

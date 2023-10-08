@@ -1,0 +1,342 @@
+[
+    {
+        "category": "NLP Model",
+        "keyword": "BERT"
+    },
+    {
+        "category": "NLP Model",
+        "keyword": "N-gram"
+    },
+    {
+        "category": "NLP Model",
+        "keyword": "TF-IDF"
+    },
+    {
+        "category": "NLP Model",
+        "keyword": "Transformer"
+    },
+    {
+        "category": "NLP Model",
+        "keyword": "Bag-of-Words"
+    },
+    {
+        "category": "NLP Model",
+        "keyword": "GPT-3"
+    },
+    {
+        "category": "NLP Model",
+        "keyword": "GPT-3.5"
+    },
+    {
+        "category": "NLP Model",
+        "keyword": "GPT-4"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Information Extraction"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Intent Detection"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Intent Extraction"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Lemmatization"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Morphological Analysis"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Named Entity Disambiguation"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Neural Machine Translation"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Question Answering"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Sentiment Analysis"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Stemming"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Text Classification"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Text Clustering"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Text Generation"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Text Summarization"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Tokenization"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "In-context Learning"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "LLM"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Large Language Model"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "NER"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "POS Tagging"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Attention"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Contextual Embedding"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Corpus"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Cross-Lingual"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Dependency Parsing"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Hallucination"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Language Modeling"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Machine Translation"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Multilingual"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Named Entity Recognition"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Part-of-Speech Tagging"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Perplexity"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Scaling Law"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Stop Words"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Stopwords"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Text Embedding"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Text Understanding"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Topic Modeling"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Word Embedding"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Zero-shot Learning"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Textual Entailment"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Natural Language Inference"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Text Inference"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Off-Topic Detection"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Intent Recognition"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Dialogue System"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Text Mining"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Text Analysis"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Text Normalization"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Text Segmentation"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Text Transformation"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Sentence Embedding"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Document Classification"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Code Generation"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Information Retrieval"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Text Augmentation"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Chatbot"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Mixture-of-Memory Augmentation"
+    },
+    {
+        "category": "NLP Model",
+        "keyword": "Recurrent Neural Network"
+    },
+    {
+        "category": "NLP Model",
+        "keyword": "Word2vec"
+    },
+    {
+        "category": "NLP Model",
+        "keyword": "Doc2vec"
+    },
+    {
+        "category": "NLP Model",
+        "keyword": "Word2box"
+    },
+    {
+        "category": "NLP Model",
+        "keyword": "Box Embedding"
+    },
+    {
+        "category": "NLP Model",
+        "keyword": "GPT"
+    },
+    {
+        "category": "NLP Model",
+        "keyword": "PaLM"
+    },
+    {
+        "category": "NLP Model",
+        "keyword": "BLOOM"
+    },
+    {
+        "category": "NLP Model",
+        "keyword": "LaMDA"
+    },
+    {
+        "category": "NLP Model",
+        "keyword": "LLaMA"
+    },
+    {
+        "category": "NLP Model",
+        "keyword": "Alpaca"
+    },
+    {
+        "category": "NLP Model",
+        "keyword": "CodeGen"
+    },
+    {
+        "category": "NLP Model",
+        "keyword": "falcon"
+    },
+    {
+        "category": "NLP Model",
+        "keyword": "Bard"
+    },
+    {
+        "category": "NLP Model",
+        "keyword": "ChatGPT"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Fake News Detection"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Text Data Generation"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Language Model"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Corpora"
+    }
+]
