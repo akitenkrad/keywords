@@ -85,6 +85,14 @@
     },
     {
         "category": "NLP Task",
+        "keyword": "Textual Generation"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Natural Language Generation"
+    },
+    {
+        "category": "NLP Task",
         "keyword": "Text Summarization"
     },
     {
@@ -338,5 +346,77 @@
     {
         "category": "NLP Topic",
         "keyword": "Corpora"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Explainable Recommendation"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Dialogue State Tracking"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Dialogue Response Generation"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Multi-party Dialogue"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Two-party Dialogue"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Aspect Extraction"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Dialogue"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Summarization"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Text"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Token"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Scientific Text"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Scientific Paper"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Reasoning"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "QA"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Question-Answering"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Finantial Sentiment Analysis"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Speech Recognition"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Speech"
     }
 ]

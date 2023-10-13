@@ -16,7 +16,7 @@ class SpecializationFactor(object):
         count_all: dict[Keyword, float] = {}
         count_total = 0
         for keyword in kws:
-            ptn = re.compile(rf"(^|\s)+{keyword.keyword.lower()}($|\s)+")
+            ptn = keyword.get_keyword_ptn()
             count_all[keyword] = 0
             for text in texts:
                 count_all[keyword] += len(ptn.findall(text.lower()))
@@ -30,7 +30,7 @@ class SpecializationFactor(object):
             count_by_text[idx] = {}
             count_total_by_text = 0
             for keyword in kws:
-                ptn = re.compile(rf"(^|\s)+{keyword.keyword.lower()}($|\s)+")
+                ptn = keyword.get_keyword_ptn()
                 count_by_text[idx][keyword] = len(ptn.findall(text.lower()))
                 count_total_by_text += len(ptn.findall(text))
             for keyword in kws:

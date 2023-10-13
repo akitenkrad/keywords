@@ -1,0 +1,70 @@
+[
+    {
+        "category": "Security Topic",
+        "keyword": "Bot"
+    },
+    {
+        "category": "Security Topic",
+        "keyword": "Botnet"
+    },
+    {
+        "category": "Security Topic",
+        "keyword": "Zero Trust"
+    },
+    {
+        "category": "Security Task",
+        "keyword": "Bot Detection"
+    },
+    {
+        "category": "Security Task",
+        "keyword": "Botnet Detection"
+    },
+    {
+        "category": "Security Attack",
+        "keyword": "Mirai"
+    },
+    {
+        "category": "Security Attack",
+        "keyword": "ILOVEYOU"
+    },
+    {
+        "category": "Security Attack",
+        "keyword": "Anna Kournikova"
+    },
+    {
+        "category": "Security Attack",
+        "keyword": "Slammer"
+    },
+    {
+        "category": "Security Attack",
+        "keyword": "MyDoom"
+    },
+    {
+        "category": "Security Attack",
+        "keyword": "Sasser"
+    },
+    {
+        "category": "Security Attack",
+        "keyword": "Netsky"
+    },
+    {
+        "category": "Security Attack",
+        "keyword": "Storm Worm"
+    },
+    {
+        "category": "Security Attack",
+        "keyword": "CryptoLocker"
+    },
+    {
+        "category": "Security Attack",
+        "keyword": "Stuxnet"
+    },
+    {
+        "category": "Security Attack",
+        "keyword": "WannaCry"
+    },
+    {
+        "category": "Security Attack",
+        "keyword": "Petya"
+    }
+]

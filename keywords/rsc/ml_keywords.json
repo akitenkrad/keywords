@@ -70,5 +70,41 @@
     {
         "category": "Machine Learning Topic",
         "keyword": "Reinforcement Learning"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Explainable AI"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Recommendation"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Multiple Instance Learning"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Robustness"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Encoder"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Decoder"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Agent"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Continual Learning"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Machine Unlearning"
     }
 ]
