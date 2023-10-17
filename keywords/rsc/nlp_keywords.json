@@ -614,5 +614,9 @@
     {
         "category": "NLP Topic",
         "keyword": "Video-and-Language"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Vision-Language"
     }
 ]
