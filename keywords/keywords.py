@@ -21,6 +21,7 @@ class KeywordCategory(Enum):
     GRAPH_MODEL = "Graph Model"
     SECURITY_TOPIC = "Security Topic"
     SECURITY_ATTACK = "Security Attack"
+    SECURITY_TASK = "Security Task"
 
     @classmethod
     def from_str(cls, w: str) -> KeywordCategory:
