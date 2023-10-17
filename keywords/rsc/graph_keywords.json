@@ -106,5 +106,9 @@
     {
         "category": "Graph Model",
         "keyword": "E-GraphSAGE"
+    },
+    {
+        "category": "Graph Topic",
+        "keyword": "network"
     }
 ]

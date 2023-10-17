@@ -66,5 +66,13 @@
     {
         "category": "Security Attack",
         "keyword": "Petya"
+    },
+    {
+        "category": "Security Attack",
+        "keyword": "Adversarial Attack"
+    },
+    {
+        "category": "Security Topic",
+        "keyword": "Adversarial Purification"
     }
 ]

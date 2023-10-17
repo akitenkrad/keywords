@@ -1,5 +1,13 @@
 [
     {
+        "category": "NLP Topic",
+        "keyword": "Natural Language Processing"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "NLP"
+    },
+    {
         "category": "NLP Model",
         "keyword": "BERT"
     },
@@ -18,6 +26,10 @@
     {
         "category": "NLP Model",
         "keyword": "Bag-of-Words"
+    },
+    {
+        "category": "NLP Model",
+        "keyword": "GPT-2"
     },
     {
         "category": "NLP Model",
@@ -58,6 +70,10 @@
     {
         "category": "NLP Task",
         "keyword": "Neural Machine Translation"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "NMT"
     },
     {
         "category": "NLP Task",
@@ -125,6 +141,10 @@
     },
     {
         "category": "NLP Topic",
+        "keyword": "Self-Attention"
+    },
+    {
+        "category": "NLP Topic",
         "keyword": "Contextual Embedding"
     },
     {
@@ -145,7 +165,7 @@
     },
     {
         "category": "NLP Topic",
-        "keyword": "Language Modeling"
+        "keyword": "Language Model"
     },
     {
         "category": "NLP Topic",
@@ -206,6 +226,10 @@
     {
         "category": "NLP Task",
         "keyword": "Natural Language Inference"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "NLI"
     },
     {
         "category": "NLP Task",
@@ -341,10 +365,6 @@
     },
     {
         "category": "NLP Topic",
-        "keyword": "Language Model"
-    },
-    {
-        "category": "NLP Topic",
         "keyword": "Corpora"
     },
     {
@@ -418,5 +438,181 @@
     {
         "category": "NLP Topic",
         "keyword": "Speech"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Syntax"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "MLM"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Masked Language Model"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Masked Language Modeling"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Sentence"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Semantic"
+    },
+    {
+        "category": "NLP Model",
+        "keyword": "BART"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Pre-trained Autoregressive"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Pre-trained Autoregressive Language Model"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Paragraph"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Grammar"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Grammatical"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Embedding Space"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Character"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Sub-word"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "CCG"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Combinatory Categorical Grammar"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Prompt"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Prompt Learning"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Pre-trained Language Model"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "PLM"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Retrieval Augmentation"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Knowledge"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Factual Consistency"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Weakly Supervised Learning"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Keyword Extraction"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "context"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Event-Detection"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Event-Relation Extraction"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Hate Speech Detection"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "English"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Japanese"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Chinese"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Danish"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "French"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "German"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Italian"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Farsi"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Event Argument Extraction"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Moral"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Moral Bias"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Lyric"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Simile"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Video-and-Language"
     }
 ]

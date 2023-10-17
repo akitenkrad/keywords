@@ -106,5 +106,53 @@
     {
         "category": "Machine Learning Topic",
         "keyword": "Machine Unlearning"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "state-of-the-art"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Rank"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "heuristic approach"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Deep Learning"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Deep-Learning Based"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "F1"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Precision"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Recall"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Accuracy"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "False Positive Ratio"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "FPR"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Bias"
     }
 ]

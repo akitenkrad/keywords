@@ -12,6 +12,9 @@ class KeywordCategory(Enum):
     NLP_TASK = "NLP Task"
     NLP_TOPIC = "NLP Topic"
     NLP_MODEL = "NLP Model"
+    CV_TASK = "CV Task"
+    CV_TOPIC = "CV Topic"
+    CV_MODEL = "CV Model"
     ML_TOPIC = "Machine Learning Topic"
     GRAPH_TASK = "Graph Task"
     GRAPH_TOPIC = "Graph Topic"
@@ -49,6 +52,10 @@ class Keyword(object):
             keywords += [Keyword(KeywordCategory.from_str(item["category"]), item["keyword"]) for item in json.load(f)]
         with open(Path(__file__).parent / "rsc" / "graph_keywords.json", mode="rt", encoding="utf-8") as f:
             keywords += [Keyword(KeywordCategory.from_str(item["category"]), item["keyword"]) for item in json.load(f)]
+        with open(Path(__file__).parent / "rsc" / "security_keywords.json", mode="rt", encoding="utf-8") as f:
+            keywords += [Keyword(KeywordCategory.from_str(item["category"]), item["keyword"]) for item in json.load(f)]
+        with open(Path(__file__).parent / "rsc" / "cv_keywords.json", mode="rt", encoding="utf-8") as f:
+            keywords += [Keyword(KeywordCategory.from_str(item["category"]), item["keyword"]) for item in json.load(f)]
 
         if len(categories) > 0:
             keywords = [keyword for keyword in keywords if keyword.category in categories]
@@ -58,4 +65,7 @@ class Keyword(object):
         return keywords
 
     def get_keyword_ptn(self) -> re.Pattern:
-        return re.compile(rf"(^|\s)+{self.keyword.lower()}s*($|\s\.)+")
+        return re.compile(
+            rf"(?P<KEYWORD>(^|\s)+{self.keyword.lower()}(s|ing|al)*($|\s\.)+)",
+            flags=re.IGNORECASE | re.MULTILINE | re.DOTALL,
+        )
