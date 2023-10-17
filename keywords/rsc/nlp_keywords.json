@@ -553,6 +553,10 @@
     },
     {
         "category": "NLP Task",
+        "keyword": "Event Detection"
+    },
+    {
+        "category": "NLP Task",
         "keyword": "Event-Relation Extraction"
     },
     {

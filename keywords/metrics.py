@@ -19,20 +19,22 @@ class SpecializationFactor(object):
             ptn = keyword.get_keyword_ptn()
             count_all[keyword] = 0
             for text in texts:
-                count_all[keyword] += len(ptn.findall(text.lower()))
-                count_total += len(ptn.findall(text.lower()))
+                _text = text.replace(".", ". \n")
+                count_all[keyword] += len(ptn.findall(_text.lower()))
+                count_total += len(ptn.findall(_text.lower()))
         for keyword in kws:
             count_all[keyword] = count_all[keyword] / (count_total + 1e-10)
 
         # calculate ratio for each text
         count_by_text: dict[int, dict[Keyword, float]] = {}
         for idx, text in enumerate(texts):
+            _text = text.replace(".", ". \n")
             count_by_text[idx] = {}
             count_total_by_text = 0
             for keyword in kws:
                 ptn = keyword.get_keyword_ptn()
-                count_by_text[idx][keyword] = len(ptn.findall(text.lower()))
-                count_total_by_text += len(ptn.findall(text.lower()))
+                count_by_text[idx][keyword] = len(ptn.findall(_text.lower()))
+                count_total_by_text += len(ptn.findall(_text.lower()))
             for keyword in kws:
                 count_by_text[idx][keyword] = count_by_text[idx][keyword] / (count_total_by_text + 1e-10)
 
