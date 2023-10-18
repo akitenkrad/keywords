@@ -68,6 +68,6 @@ class Keyword(object):
     def get_keyword_ptn(self) -> re.Pattern:
         _keyword = self.keyword.lower().replace("-", r"(\-|\s)*").replace(" ", r"(\s|\-)*")
         return re.compile(
-            rf"(?P<PREK>(^|\s|\()+)(?P<KEYWORD>{_keyword}(s|ing|al|d|ed|\-.+)*)(?P<POSTK>($|\s|\.|,|:|;|\))+)",
+            rf"(?P<PREK>(^|\s|\()+)(?P<KEYWORD>{_keyword}(s|ing|al|d|ed|\-[^\s]+)*)(?P<POSTK>($|\s|\.|,|:|;|\))+)",
             flags=re.IGNORECASE | re.MULTILINE | re.DOTALL,
         )
