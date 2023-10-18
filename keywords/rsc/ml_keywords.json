@@ -9,7 +9,11 @@
     },
     {
         "category": "Machine Learning Topic",
-        "keyword": "generative"
+        "keyword": "Finetuning"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Generative"
     },
     {
         "category": "Machine Learning Topic",
@@ -61,11 +65,27 @@
     },
     {
         "category": "Machine Learning Topic",
+        "keyword": "Supervised"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Unsupervised"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Weakly-supervised"
+    },
+    {
+        "category": "Machine Learning Topic",
         "keyword": "Supervised Learning"
     },
     {
         "category": "Machine Learning Topic",
         "keyword": "Unsupervised Learning"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Weakly-supervised Learning"
     },
     {
         "category": "Machine Learning Topic",
@@ -113,11 +133,15 @@
     },
     {
         "category": "Machine Learning Topic",
+        "keyword": "SOTA"
+    },
+    {
+        "category": "Machine Learning Topic",
         "keyword": "Rank"
     },
     {
         "category": "Machine Learning Topic",
-        "keyword": "heuristic approach"
+        "keyword": "Heuristic Approach"
     },
     {
         "category": "Machine Learning Topic",
@@ -154,5 +178,141 @@
     {
         "category": "Machine Learning Topic",
         "keyword": "Bias"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "pre-train"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "self-train"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Sensitivity"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Open-Domain"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Latent Space"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Mutual Information"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Automatic Evaluation"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Autoencoder"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Variational Autoencoder"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Similarity"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Semantic Similarity"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Human Intervention"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Logistic Regression"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "human-in-the-loop"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Data-driven"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Causal Intervention"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Multi-mordal"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Multimordal"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Compositionality"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Data Distribution"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Layer-wise"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Feed Foward Network"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Feed Foward Layer"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Adversarial Detection"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Robust"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "AI"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Outlier Detection"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Neural Network"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Low-Resource"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Resource-scarce"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Data Augmentation"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Contrastive Learning"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Curriculum Learning"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "multi-task"
     }
 ]

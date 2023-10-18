@@ -77,7 +77,19 @@
     },
     {
         "category": "NLP Task",
+        "keyword": "Machine Translation"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "MT"
+    },
+    {
+        "category": "NLP Task",
         "keyword": "Question Answering"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Visual Question Answering"
     },
     {
         "category": "NLP Task",
@@ -360,6 +372,10 @@
         "keyword": "Fake News Detection"
     },
     {
+        "category": "NLP Topic",
+        "keyword": "Fake News"
+    },
+    {
         "category": "NLP Task",
         "keyword": "Text Data Generation"
     },
@@ -397,6 +413,10 @@
     },
     {
         "category": "NLP Topic",
+        "keyword": "Open-Domain Dialogue"
+    },
+    {
+        "category": "NLP Topic",
         "keyword": "Summarization"
     },
     {
@@ -421,6 +441,10 @@
     },
     {
         "category": "NLP Task",
+        "keyword": "Mathematical Reasoning"
+    },
+    {
+        "category": "NLP Task",
         "keyword": "QA"
     },
     {
@@ -434,6 +458,14 @@
     {
         "category": "NLP Task",
         "keyword": "Speech Recognition"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Automatic Speech Recognition"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "ASR"
     },
     {
         "category": "NLP Topic",
@@ -545,7 +577,7 @@
     },
     {
         "category": "NLP Topic",
-        "keyword": "context"
+        "keyword": "Context"
     },
     {
         "category": "NLP Task",
@@ -622,5 +654,93 @@
     {
         "category": "NLP Topic",
         "keyword": "Vision-Language"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Vocabulary"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Grounding"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Next Sentence Prediction"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Out-of-vocabulary"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "OOV"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Counterfactual Reasoning"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Lexic"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Semantic Parsing"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Instruction Following"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Emotion Recognition"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Textual Adversarial Detection"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Caption"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Transcription"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Text-to-speech"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "TTS"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Idiom Usage Recognition"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Idiom Usage Detection"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Idiom Usage Extraction"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Metaphor Recognition"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Metaphor Detection"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Metaphor Extraction"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Dialect"
     }
 ]
