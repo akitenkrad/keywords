@@ -1,6 +1,10 @@
 [
     {
         "category": "Graph Topic",
+        "keyword": "Graph"
+    },
+    {
+        "category": "Graph Topic",
         "keyword": "Graph Embedding"
     },
     {

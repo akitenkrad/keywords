@@ -27,6 +27,9 @@ def test_keyword_reg_ptn():
         assert len(ptn.findall(f"test {keyword.keyword}s")) > 0
         assert len(ptn.findall(f"test {keyword.keyword}ing")) > 0
         assert len(ptn.findall(f"test {keyword.keyword}al")) > 0
+        assert len(ptn.findall(f"test {keyword.keyword}d")) > 0
+        assert len(ptn.findall(f"test {keyword.keyword}ed")) > 0
+        assert len(ptn.findall(rf"test {keyword.keyword}-based")) > 0
         assert len(ptn.findall(f"test {keyword.keyword},")) > 0
         assert len(ptn.findall(f"test {keyword.keyword}.")) > 0
         assert len(ptn.findall(f"test {keyword.keyword}:")) > 0

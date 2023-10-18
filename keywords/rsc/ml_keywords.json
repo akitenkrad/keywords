@@ -398,5 +398,33 @@
     {
         "category": "Machine Learning Topic",
         "keyword": "Dataset"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Fairness"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Clustering"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Hierarchical Clustering"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "KL-divergence"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "In-domain"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Out-of-domain"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Explainability"
     }
 ]

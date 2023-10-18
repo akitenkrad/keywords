@@ -49,6 +49,14 @@
     },
     {
         "category": "NLP Task",
+        "keyword": "Open Information Extraction"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "OpenIE"
+    },
+    {
+        "category": "NLP Task",
         "keyword": "Intent Detection"
     },
     {
@@ -174,6 +182,10 @@
     {
         "category": "NLP Topic",
         "keyword": "Hallucination"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Hallucinate"
     },
     {
         "category": "NLP Topic",
@@ -572,6 +584,10 @@
         "keyword": "Weakly Supervised Learning"
     },
     {
+        "category": "NLP Topic",
+        "keyword": "Weak Supervision"
+    },
+    {
         "category": "NLP Task",
         "keyword": "Keyword Extraction"
     },
@@ -774,5 +790,89 @@
     {
         "category": "NLP Task",
         "keyword": "Image2text"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Opinion Summarization"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Key Point Analysis"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "KPA"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Key Point"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Textual"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Word Cloud"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Key Phrase"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Representation"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Dwonstream Task"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Dwonstream Application"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Survey"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Review"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Social Media"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Selective Prediction"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Knowledge Base Question Answering"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Knowledge Based Question Answering"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "KBQA"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Knowledge Base"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "KB"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Metaphor"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Common-sense Reasoning"
     }
 ]
