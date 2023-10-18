@@ -313,6 +313,54 @@
     },
     {
         "category": "Machine Learning Topic",
-        "keyword": "multi-task"
+        "keyword": "Multi-task"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Minimization"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Maximization"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Test"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Train"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Inference"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Prediction"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Estimation"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Recognition"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Out-of-distribution"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Ensemble"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Ensembling"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Confidence"
     }
 ]

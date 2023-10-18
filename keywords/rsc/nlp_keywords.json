@@ -742,5 +742,17 @@
     {
         "category": "NLP Topic",
         "keyword": "Dialect"
+    },
+    {
+        "category": "NLP Model",
+        "keyword": "RoBERTa"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "GLUE"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "SuperGLUE"
     }
 ]
