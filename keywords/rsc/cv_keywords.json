@@ -10,5 +10,9 @@
     {
         "category": "CV Task",
         "keyword": "Object Detection"
+    },
+    {
+        "category": "CV Task",
+        "keyword": "Face Recognition"
     }
 ]

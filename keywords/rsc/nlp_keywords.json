@@ -754,5 +754,25 @@
     {
         "category": "NLP Topic",
         "keyword": "SuperGLUE"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Conversation"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Text-to-image"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Text2image"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Image-to-text"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Image2text"
     }
 ]

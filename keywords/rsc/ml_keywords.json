@@ -366,5 +366,37 @@
     {
         "category": "Machine Learning Topic",
         "keyword": "Classification"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "End-to-end"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "E2E"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Classifier"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Detector"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Recognizer"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Estimator"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Rerank"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Dataset"
     }
 ]
