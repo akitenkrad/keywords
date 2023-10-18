@@ -189,6 +189,10 @@
     },
     {
         "category": "NLP Topic",
+        "keyword": "Bilingual"
+    },
+    {
+        "category": "NLP Topic",
         "keyword": "Named Entity Recognition"
     },
     {
@@ -482,10 +486,6 @@
     {
         "category": "NLP Topic",
         "keyword": "Masked Language Model"
-    },
-    {
-        "category": "NLP Topic",
-        "keyword": "Masked Language Modeling"
     },
     {
         "category": "NLP Topic",

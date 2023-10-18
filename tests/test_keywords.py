@@ -32,4 +32,10 @@ def test_keyword_reg_ptn():
         assert len(ptn.findall(f"test {keyword.keyword}:")) > 0
         assert len(ptn.findall(f"test {keyword.keyword};")) > 0
         assert len(ptn.findall(f"({keyword.keyword})")) > 0
-        assert ptn.sub(r"<span>\g<KEYWORD></span>", keyword.keyword) == f"<span>{keyword.keyword}</span>"
+        assert (
+            ptn.sub(r"\g<PREK><span>\g<KEYWORD></span>\g<POSTK>", keyword.keyword) == f"<span>{keyword.keyword}</span>"
+        )
+        assert (
+            ptn.sub(r"\g<PREK><span>\g<KEYWORD></span>\g<POSTK>", f"({keyword.keyword})")
+            == f"(<span>{keyword.keyword}</span>)"
+        )
