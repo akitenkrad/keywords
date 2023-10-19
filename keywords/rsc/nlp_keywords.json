@@ -1,6 +1,10 @@
 [
     {
         "category": "NLP Topic",
+        "keyword": "Language"
+    },
+    {
+        "category": "NLP Topic",
         "keyword": "Natural Language Processing"
     },
     {
@@ -101,6 +105,18 @@
     },
     {
         "category": "NLP Task",
+        "keyword": "VQA"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Open-Domain Question Answering"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "ODQA"
+    },
+    {
+        "category": "NLP Task",
         "keyword": "Sentiment Analysis"
     },
     {
@@ -129,6 +145,14 @@
     },
     {
         "category": "NLP Task",
+        "keyword": "Language Generation"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "NLG"
+    },
+    {
+        "category": "NLP Task",
         "keyword": "Text Summarization"
     },
     {
@@ -137,7 +161,15 @@
     },
     {
         "category": "NLP Topic",
+        "keyword": "In-context"
+    },
+    {
+        "category": "NLP Topic",
         "keyword": "In-context Learning"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "ICL"
     },
     {
         "category": "NLP Topic",
@@ -193,7 +225,11 @@
     },
     {
         "category": "NLP Topic",
-        "keyword": "Machine Translation"
+        "keyword": "LM"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Translation"
     },
     {
         "category": "NLP Topic",
@@ -202,6 +238,10 @@
     {
         "category": "NLP Topic",
         "keyword": "Bilingual"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Monolingual"
     },
     {
         "category": "NLP Topic",
@@ -437,6 +477,10 @@
     },
     {
         "category": "NLP Topic",
+        "keyword": "Summarize"
+    },
+    {
+        "category": "NLP Topic",
         "keyword": "Text"
     },
     {
@@ -462,10 +506,6 @@
     {
         "category": "NLP Task",
         "keyword": "QA"
-    },
-    {
-        "category": "NLP Task",
-        "keyword": "Question-Answering"
     },
     {
         "category": "NLP Task",
@@ -605,6 +645,14 @@
     },
     {
         "category": "NLP Task",
+        "keyword": "Relation Extraction"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Continual Relation Extraction"
+    },
+    {
+        "category": "NLP Task",
         "keyword": "Event-Relation Extraction"
     },
     {
@@ -712,6 +760,10 @@
         "keyword": "Emotion Recognition"
     },
     {
+        "category": "NLP Topic",
+        "keyword": "Emotion"
+    },
+    {
         "category": "NLP Task",
         "keyword": "Textual Adversarial Detection"
     },
@@ -790,6 +842,14 @@
     {
         "category": "NLP Task",
         "keyword": "Image2text"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Image-text"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Text-image"
     },
     {
         "category": "NLP Task",
@@ -874,5 +934,109 @@
     {
         "category": "NLP Task",
         "keyword": "Common-sense Reasoning"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Synthetic Language"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Probabilistic Reasoning"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Phrase"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "chain-of-thought prompt"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "TCT"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "CtrlEval"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "UniEval"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "BLEU"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Rouge"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Rouge-L"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "BERTScore"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Knowledge Graph"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Temporal Knowledge Graph"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "TKG"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Natural Language Video Localization"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Information Compression"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Aspect-based Sentiment Analysis"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Abstractive Conversation Summarization"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Essay Scoring"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "Grammatical Error Correction"
+    },
+    {
+        "category": "NLP Task",
+        "keyword": "GEC"
+    },
+    {
+        "category": "NLP Topic",
+        "keyword": "Vision-and-Language"
+    },
+    {
+        "category": "NLP Model",
+        "keyword": "X-VLM"
+    },
+    {
+        "category": "NLP Model",
+        "keyword": "Disambiguation"
+    },
+    {
+        "category": "NLP Model",
+        "keyword": "Word Sense Disambiguation"
+    },
+    {
+        "category": "NLP Model",
+        "keyword": "Polysemous"
     }
 ]

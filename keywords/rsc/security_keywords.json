@@ -78,5 +78,13 @@
     {
         "category": "Security Topic",
         "keyword": "Adversarial Purification"
+    },
+    {
+        "category": "Security Topic",
+        "keyword": "Privacy"
+    },
+    {
+        "category": "Security Topic",
+        "keyword": "AI Security"
     }
 ]

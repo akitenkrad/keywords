@@ -21,6 +21,14 @@
     },
     {
         "category": "Machine Learning Topic",
+        "keyword": "Self-supervised Pre-training"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Self-supervised"
+    },
+    {
+        "category": "Machine Learning Topic",
         "keyword": "Zero-shot"
     },
     {
@@ -58,6 +66,10 @@
     {
         "category": "Machine Learning Topic",
         "keyword": "Knowledge Distillation"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "KD"
     },
     {
         "category": "Machine Learning Topic",
@@ -297,6 +309,10 @@
     },
     {
         "category": "Machine Learning Topic",
+        "keyword": "High-Resource"
+    },
+    {
+        "category": "Machine Learning Topic",
         "keyword": "Resource-scarce"
     },
     {
@@ -426,5 +442,189 @@
     {
         "category": "Machine Learning Topic",
         "keyword": "Explainability"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "github.com"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Constrained Learning"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Unbalanced"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Unbalanced Data"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Optimization"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Stochastic Gradient Descent"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "SGD"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Recommender System"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Unseen Domain"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Overfit"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Overfitting"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Overfitted"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Downstream Task"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Theory"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Theoretical Framework"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "tangent"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "sine"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "cosine"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "synthetic data"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Probabilistic"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Correlation"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Journal Impact Factor"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "JIF"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "one-to-one"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "many-to-many"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "one-to-many"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Gaussian Process"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Homogeneous"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Heterogeneous"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Regularization"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Generalization"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Reliability"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Reliable"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Calibration"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Label Smoothing"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Curse of Dimentionality"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Sampling"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Localization"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Model Compression"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Self-adaption"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Self-adaptive Learning"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Probabilistic Model"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Time-consuming"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Labor-intensive"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Labour-intensive"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "keyword": "Noise-tolerant"
     }
 ]

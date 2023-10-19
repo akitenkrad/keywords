@@ -113,6 +113,22 @@
     },
     {
         "category": "Graph Topic",
-        "keyword": "network"
+        "keyword": "Network"
+    },
+    {
+        "category": "Graph Topic",
+        "keyword": "Bi-directional"
+    },
+    {
+        "category": "Graph Topic",
+        "keyword": "Uni-Directional"
+    },
+    {
+        "category": "Graph Topic",
+        "keyword": "Topology"
+    },
+    {
+        "category": "Graph Topic",
+        "keyword": "Topological"
     }
 ]
