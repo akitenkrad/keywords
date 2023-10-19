@@ -1,18 +1,17 @@
 [
-    {
-        "category": "CV Topic",
-        "keyword": "Computer Vision"
-    },
-    {
-        "category": "CV Model",
-        "keyword": "Computer Vision"
-    },
-    {
-        "category": "CV Task",
-        "keyword": "Object Detection"
-    },
-    {
-        "category": "CV Task",
-        "keyword": "Face Recognition"
-    }
+  {
+    "category": "CV Task",
+    "word": "Face Recognition",
+    "alias": "Face Recognition"
+  },
+  {
+    "category": "CV Task",
+    "word": "Object Detection",
+    "alias": "Object Detection"
+  },
+  {
+    "category": "CV Topic",
+    "word": "Computer Vision",
+    "alias": "Computer Vision"
+  }
 ]

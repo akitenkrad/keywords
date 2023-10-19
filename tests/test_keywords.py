@@ -10,10 +10,10 @@ def test_load_keywords():
 
 def test_keyword_reg_ptn():
     keywords = [
-        Keyword(KeywordCategory.CV_MODEL, "keyword"),
-        Keyword(KeywordCategory.CV_MODEL, "key word"),
-        Keyword(KeywordCategory.CV_MODEL, "key-word"),
-        Keyword(KeywordCategory.CV_MODEL, "k e y w o r d"),
+        Keyword(KeywordCategory.CV_MODEL, "keyword", "keyword", True),
+        Keyword(KeywordCategory.CV_MODEL, "key word", "Keyword", True),
+        Keyword(KeywordCategory.CV_MODEL, "key-word", "keyword", True),
+        Keyword(KeywordCategory.CV_MODEL, "k e y w o r d", "keyword", True),
     ]
 
     for keyword in keywords:

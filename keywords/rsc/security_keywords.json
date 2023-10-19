@@ -1,90 +1,112 @@
 [
-    {
-        "category": "Security Topic",
-        "keyword": "Security"
-    },
-    {
-        "category": "Security Topic",
-        "keyword": "Bot"
-    },
-    {
-        "category": "Security Topic",
-        "keyword": "Botnet"
-    },
-    {
-        "category": "Security Topic",
-        "keyword": "Zero Trust"
-    },
-    {
-        "category": "Security Task",
-        "keyword": "Bot Detection"
-    },
-    {
-        "category": "Security Task",
-        "keyword": "Botnet Detection"
-    },
-    {
-        "category": "Security Attack",
-        "keyword": "Mirai"
-    },
-    {
-        "category": "Security Attack",
-        "keyword": "ILOVEYOU"
-    },
-    {
-        "category": "Security Attack",
-        "keyword": "Anna Kournikova"
-    },
-    {
-        "category": "Security Attack",
-        "keyword": "Slammer"
-    },
-    {
-        "category": "Security Attack",
-        "keyword": "MyDoom"
-    },
-    {
-        "category": "Security Attack",
-        "keyword": "Sasser"
-    },
-    {
-        "category": "Security Attack",
-        "keyword": "Netsky"
-    },
-    {
-        "category": "Security Attack",
-        "keyword": "Storm Worm"
-    },
-    {
-        "category": "Security Attack",
-        "keyword": "CryptoLocker"
-    },
-    {
-        "category": "Security Attack",
-        "keyword": "Stuxnet"
-    },
-    {
-        "category": "Security Attack",
-        "keyword": "WannaCry"
-    },
-    {
-        "category": "Security Attack",
-        "keyword": "Petya"
-    },
-    {
-        "category": "Security Attack",
-        "keyword": "Adversarial Attack"
-    },
-    {
-        "category": "Security Topic",
-        "keyword": "Adversarial Purification"
-    },
-    {
-        "category": "Security Topic",
-        "keyword": "Privacy"
-    },
-    {
-        "category": "Security Topic",
-        "keyword": "AI Security"
-    }
+  {
+    "category": "Security Attack",
+    "word": "Adversarial Attack",
+    "alias": "Adversarial Attack"
+  },
+  {
+    "category": "Security Attack",
+    "word": "Anna Kournikova",
+    "alias": "Anna Kournikova"
+  },
+  {
+    "category": "Security Attack",
+    "word": "CryptoLocker",
+    "alias": "CryptoLocker"
+  },
+  {
+    "category": "Security Attack",
+    "word": "ILOVEYOU",
+    "alias": "ILOVEYOU"
+  },
+  {
+    "category": "Security Attack",
+    "word": "Mirai",
+    "alias": "Mirai"
+  },
+  {
+    "category": "Security Attack",
+    "word": "MyDoom",
+    "alias": "MyDoom"
+  },
+  {
+    "category": "Security Attack",
+    "word": "Netsky",
+    "alias": "Netsky"
+  },
+  {
+    "category": "Security Attack",
+    "word": "Petya",
+    "alias": "Petya"
+  },
+  {
+    "category": "Security Attack",
+    "word": "Sasser",
+    "alias": "Sasser"
+  },
+  {
+    "category": "Security Attack",
+    "word": "Slammer",
+    "alias": "Slammer"
+  },
+  {
+    "category": "Security Attack",
+    "word": "Storm Worm",
+    "alias": "Storm Worm"
+  },
+  {
+    "category": "Security Attack",
+    "word": "Stuxnet",
+    "alias": "Stuxnet"
+  },
+  {
+    "category": "Security Attack",
+    "word": "WannaCry",
+    "alias": "WannaCry"
+  },
+  {
+    "category": "Security Task",
+    "word": "Bot Detection",
+    "alias": "Bot Detection"
+  },
+  {
+    "category": "Security Task",
+    "word": "Botnet Detection",
+    "alias": "Botnet Detection"
+  },
+  {
+    "category": "Security Topic",
+    "word": "AI Security",
+    "alias": "AI Security"
+  },
+  {
+    "category": "Security Topic",
+    "word": "Adversarial Purification",
+    "alias": "Adversarial Purification"
+  },
+  {
+    "category": "Security Topic",
+    "word": "Bot",
+    "alias": "Bot"
+  },
+  {
+    "category": "Security Topic",
+    "word": "Botnet",
+    "alias": "Botnet"
+  },
+  {
+    "category": "Security Topic",
+    "word": "Privacy",
+    "alias": "Privacy"
+  },
+  {
+    "category": "Security Topic",
+    "word": "Security",
+    "alias": "Security"
+  },
+  {
+    "category": "Security Topic",
+    "word": "Zero Trust",
+    "alias": "Zero Trust"
+  }
 ]
