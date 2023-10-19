@@ -15,42 +15,37 @@ else:
 
 class SpecializationFactor(object):
     @classmethod
-    def calculate(cls, texts: list[str], **kwargs) -> pd.DataFrame:
+    def calculate(cls, texts: list[str], **kwargs) -> tuple[pd.DataFrame, dict, pd.DataFrame]:
         kws: list[Keyword] = Keyword.load_keywords()
 
-        # calculate ratio for all text
-        count_all: dict[str, float] = {}
+        # calculate ratio for all texts and ratio by each text
+        count_all: dict[str, float] = {kw.keyword: 0 for kw in kws}
+        count_by_text: list[dict[str, float]] = [{kw.keyword: 0 for kw in kws} for _ in range(len(texts))]
         count_total = 0
-        for keyword in tqdm(kws, leave=False, desc="calculate ratio for all texts"):
-            ptn = keyword.get_keyword_ptn()
-            count_all[keyword.keyword] = 0
-            for text in texts:
-                _text = text.replace(".", ". \n")
-                count_all[keyword.keyword] += len(ptn.findall(_text.lower()))
-                count_total += len(ptn.findall(_text.lower()))
-        for keyword in kws:
-            count_all[keyword.keyword] = count_all[keyword.keyword] / (count_total + 1e-10)
-
-        # calculate ratio for each text
-        count_by_text: dict[int, dict[str, float]] = {}
-        for idx, text in enumerate(tqdm(texts, leave=False, desc="calculate_ratio for each text")):
-            _text = text.replace(".", ". \n")
-            count_by_text[idx] = {}
+        for idx, text in enumerate(tqdm(texts, leave=False, desc="calculating")):
             count_total_by_text = 0
             for keyword in kws:
                 ptn = keyword.get_keyword_ptn()
-                count_by_text[idx][keyword.keyword] = len(ptn.findall(_text.lower()))
-                count_total_by_text += len(ptn.findall(_text.lower()))
-            for keyword in kws:
-                count_by_text[idx][keyword.keyword] = count_by_text[idx][keyword.keyword] / (
-                    count_total_by_text + 1e-10
-                )
+                _text = text.replace(".", ". \n")
+                count = len(ptn.findall(_text.lower()))
+
+                # total
+                count_all[keyword.keyword] += count
+                count_total += count
+
+                # by text
+                count_by_text[idx][keyword.keyword] += count
+                count_total_by_text += count
+
+            for kw in count_by_text[idx]:
+                count_by_text[idx][kw] /= count_total_by_text + 1e-10
+
+        for kw in count_all.keys():
+            count_all[kw] /= count_total + 1e-10
 
         # calculate specialization factor
         factors = []
-        for _, kw_count in count_by_text.items():
-            factors.append(
-                {keyword.keyword: kw_count[keyword.keyword] / (count_all[keyword.keyword] + 1e-10) for keyword in kws}
-            )
+        for kw_count in count_by_text:
+            factors.append({kw: kw_count[kw] / (count_all[kw] + 1e-10) for kw in count_all})
 
         return pd.DataFrame(factors)

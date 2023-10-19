@@ -901,6 +901,11 @@
     },
     {
         "category": "NLP Topic",
+        "word": "In-context Learner",
+        "alias": "In-context Learning"
+    },
+    {
+        "category": "NLP Topic",
         "word": "Italian",
         "alias": "Italian"
     },
@@ -1172,7 +1177,12 @@
     {
         "category": "NLP Topic",
         "word": "Scientific Paper",
-        "alias": "Scientific Paper"
+        "alias": "Academic Paper"
+    },
+    {
+        "category": "NLP Topic",
+        "word": "Academic Paper",
+        "alias": "Academic Paper"
     },
     {
         "category": "NLP Topic",

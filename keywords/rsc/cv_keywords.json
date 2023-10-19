@@ -13,5 +13,15 @@
     "category": "CV Topic",
     "word": "Computer Vision",
     "alias": "Computer Vision"
+  },
+  {
+    "category": "CV Task",
+    "word": "Optical Character Recognition",
+    "alias": "Optical Character Recognition"
+  },
+  {
+    "category": "CV Task",
+    "word": "OCR",
+    "alias": "Optical Character Recognition"
   }
 ]

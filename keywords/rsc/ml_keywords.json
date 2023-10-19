@@ -878,5 +878,30 @@
         "category": "Machine Learning Topic",
         "word": "tangent",
         "alias": "tangent"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "word": "Annotation",
+        "alias": "Annotation"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "word": "Self-Distillation",
+        "alias": "Self-Distillation"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "word": "Offline Reinforcement Learning",
+        "alias": "Offline Reinforcement Learning"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "word": "Online Reinforcement Learning",
+        "alias": "Online Reinforcement Learning"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "word": "Contamination",
+        "alias": "Contamination"
     }
 ]
