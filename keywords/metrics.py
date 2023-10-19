@@ -5,6 +5,12 @@ import pandas as pd
 from nltk import FreqDist
 
 from keywords.keywords import Keyword, KeywordCategory
+from keywords.utils import is_notebook
+
+if is_notebook():
+    from tqdm.notebook import tqdm
+else:
+    from tqdm import tqdm
 
 
 class SpecializationFactor(object):
@@ -15,7 +21,7 @@ class SpecializationFactor(object):
         # calculate ratio for all text
         count_all: dict[str, float] = {}
         count_total = 0
-        for keyword in kws:
+        for keyword in tqdm(kws, leave=False, desc="calculate ratio for all texts"):
             ptn = keyword.get_keyword_ptn()
             count_all[keyword.keyword] = 0
             for text in texts:
@@ -27,7 +33,7 @@ class SpecializationFactor(object):
 
         # calculate ratio for each text
         count_by_text: dict[int, dict[str, float]] = {}
-        for idx, text in enumerate(texts):
+        for idx, text in enumerate(tqdm(texts, leave=False, desc="calculate_ratio for each text")):
             _text = text.replace(".", ". \n")
             count_by_text[idx] = {}
             count_total_by_text = 0

@@ -47,7 +47,7 @@ class Keyword(object):
         return (self.category.name, self.keyword) < (other.category.name, other.keyword)
 
     @property
-    def keyword(self):
+    def keyword(self) -> str:
         if self.use_alias:
             return self.alias
         else:
