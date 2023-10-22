@@ -177,7 +177,12 @@
     {
         "category": "Machine Learning Topic",
         "word": "Distillation",
-        "alias": "Distillation"
+        "alias": "Knowledge Distillation"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "word": "Distill",
+        "alias": "Knowledge Distillation"
     },
     {
         "category": "Machine Learning Topic",
@@ -903,5 +908,35 @@
         "category": "Machine Learning Topic",
         "word": "Contamination",
         "alias": "Contamination"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "word": "Knowledge Transfer",
+        "alias": "Knowledge Transfer"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "word": "Counter-factual",
+        "alias": "Counter-factual"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "word": "Active Learning",
+        "alias": "Active Learning"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "word": "Multi-label",
+        "alias": "Multi-class"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "word": "Multi-class",
+        "alias": "Multi-class"
+    },
+    {
+        "category": "Machine Learning Topic",
+        "word": "Topic Model",
+        "alias": "Topic Model"
     }
 ]

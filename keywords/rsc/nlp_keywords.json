@@ -322,12 +322,12 @@
     {
         "category": "NLP Task",
         "word": "Image-text",
-        "alias": "image2text"
+        "alias": "Image2text"
     },
     {
         "category": "NLP Task",
         "word": "Image-to-text",
-        "alias": "image2text"
+        "alias": "Image2text"
     },
     {
         "category": "NLP Task",
@@ -546,6 +546,16 @@
     },
     {
         "category": "NLP Task",
+        "word": "Relation Recognition",
+        "alias": "Relation Extraction"
+    },
+    {
+        "category": "NLP Task",
+        "word": "Relation Detection",
+        "alias": "Relation Extraction"
+    },
+    {
+        "category": "NLP Task",
         "word": "Semantic Parsing",
         "alias": "Semantic Parsing"
     },
@@ -562,7 +572,7 @@
     {
         "category": "NLP Task",
         "word": "Speech Recognition",
-        "alias": "Speech Recognition"
+        "alias": "Automatic Speech Recognition"
     },
     {
         "category": "NLP Task",
@@ -602,6 +612,11 @@
     {
         "category": "NLP Task",
         "word": "Text Generation",
+        "alias": "Text Generation"
+    },
+    {
+        "category": "NLP Task",
+        "word": "Neural Text Generation",
         "alias": "Text Generation"
     },
     {
@@ -1061,6 +1076,11 @@
     },
     {
         "category": "NLP Topic",
+        "word": "Natural Language Understanding",
+        "alias": "Natural Language Understanding"
+    },
+    {
+        "category": "NLP Topic",
         "word": "OOV",
         "alias": "Out-of-vocabulary"
     },
@@ -1376,7 +1396,72 @@
     },
     {
         "category": "NLP Topic",
-        "word": "chain-of-thought prompt",
-        "alias": "chain-of-thought prompt"
+        "word": "Chain-of-thought Prompt",
+        "alias": "Chain-of-thought Prompt"
+    },
+    {
+        "category": "NLP Topic",
+        "word": "Implicit",
+        "alias": "Implicit"
+    },
+    {
+        "category": "NLP Topic",
+        "word": "Explicit",
+        "alias": "Explicit"
+    },
+    {
+        "category": "NLP Topic",
+        "word": "Discourse",
+        "alias": "Discourse"
+    },
+    {
+        "category": "NLP Topic",
+        "word": "Narrative",
+        "alias": "Narrative"
+    },
+    {
+        "category": "NLP Topic",
+        "word": "Natural Language Explanation",
+        "alias": "Natural Language Explanation"
+    },
+    {
+        "category": "NLP Topic",
+        "word": "Textual Reinforcement Learning",
+        "alias": "Textual Reinforcement Learning"
+    },
+    {
+        "category": "NLP Task",
+        "word": "Speech Translation",
+        "alias": "Speech-to-Speech Translation"
+    },
+    {
+        "category": "NLP Task",
+        "word": "Speech-to-Speech",
+        "alias": "Speech-to-Speech Translation"
+    },
+    {
+        "category": "NLP Task",
+        "word": "Table Filling",
+        "alias": "Table Filling"
+    },
+    {
+        "category": "NLP Topic",
+        "word": "Indian",
+        "alias": "Indian"
+    },
+    {
+        "category": "NLP Task",
+        "word": "Coreference Resolution",
+        "alias": "Coreference Resolution"
+    },
+    {
+        "category": "NLP Topic",
+        "word": "Taxonomy",
+        "alias": "Taxonomy"
+    },
+    {
+        "category": "NLP Task",
+        "word": "Image Translation",
+        "alias": "Image2text"
     }
 ]
