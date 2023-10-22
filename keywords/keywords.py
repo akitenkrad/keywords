@@ -1,12 +1,15 @@
 from __future__ import annotations
 
 import json
+import os
 import re
 from dataclasses import dataclass
 from enum import Enum
 from functools import total_ordering
 from pathlib import Path
 from typing import Any
+
+from IPython.display import HTML, display
 
 
 class KeywordCategory(Enum):
@@ -89,6 +92,32 @@ class Keyword(object):
         keywords = sorted(list(set(keywords)))
 
         return keywords
+
+    @classmethod
+    def highlight_keywords(cls, text: str, keywords: list[str], color: str = "yellow"):
+        highlight_class = {
+            "yellow": "highlight-y",
+            "green": "highlight-g",
+            "blue": "highlight-b",
+            "red": "highlight-r",
+        }[color]
+        html_text = (
+            "<style>"
+            + ".highlight-y { color: yellow; } "
+            + ".highlight-g { color: lightgreen; } "
+            + ".highlight-b { color: lightblue; } "
+            + ".highlight-r { color: red; } "
+            + ".abstract {font-family: CodeM; }"
+            + "</style> "
+            + os.linesep
+            + "<div class='abstract'> "
+            + text.replace(". ", ". <br/> ")
+        )
+        for keyword in keywords:
+            ptn = Keyword(KeywordCategory.ML_TOPIC, keyword, keyword, True).get_keyword_ptn()
+            html_text = ptn.sub(rf" \g<PREK><span class='{highlight_class}'>\g<KEYWORD></span>\g<POSTK> ", html_text)
+        html_text += " </div>"
+        return HTML(html_text)
 
     def get_keyword_ptn(self) -> re.Pattern:
         _keyword = self.word.lower().replace("-", r"(\-|\s)*").replace(" ", r"(\s|\-)*")
