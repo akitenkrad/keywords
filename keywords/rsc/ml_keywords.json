@@ -1,942 +1,1160 @@
 [
-    {
-        "category": "Machine Learning Topic",
-        "word": "AI",
-        "alias": "AI"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Accuracy",
-        "alias": "Accuracy"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Adversarial Detection",
-        "alias": "Adversarial Detection"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Adversarial Learning",
-        "alias": "Adversarial Learning"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Agent",
-        "alias": "Agent"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Autoencoder",
-        "alias": "Autoencoder"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Automatic Evaluation",
-        "alias": "Automatic Evaluation"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Bias",
-        "alias": "Bias"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "CNN",
-        "alias": "Convolutional Neural Network"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Calibration",
-        "alias": "Calibration"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Causal Intervention",
-        "alias": "Causal Intervention"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Classification",
-        "alias": "Classification"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Classifier",
-        "alias": "Classifier"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Clustering",
-        "alias": "Clustering"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Compositionality",
-        "alias": "Compositionality"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Confidence",
-        "alias": "Confidence"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Constrained Learning",
-        "alias": "Constrained Learning"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Continual Learning",
-        "alias": "Continual Learning"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Contrastive Learning",
-        "alias": "Contrastive Learning"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Convolution",
-        "alias": "Convolution"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Convolution Network",
-        "alias": "Convolutional Neural Network"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Convolutional Network",
-        "alias": "Convolutional Neural Network"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Convolutional Neural Network",
-        "alias": "Convolutional Neural Network"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Correlation",
-        "alias": "Correlation"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Curriculum Learning",
-        "alias": "Curriculum Learning"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Curse of Dimentionality",
-        "alias": "Curse of Dimentionality"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Data Augmentation",
-        "alias": "Data Augmentation"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Data Distribution",
-        "alias": "Data Distribution"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Data-driven",
-        "alias": "Data-driven"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Dataset",
-        "alias": "Dataset"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Decoder",
-        "alias": "Decoder"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Deep Learning",
-        "alias": "Deep Learning"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Deep-Learning Based",
-        "alias": "Deep Learning"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Dense Retrieval",
-        "alias": "Dense Retrieval"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Detector",
-        "alias": "Detector"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Distillation",
-        "alias": "Knowledge Distillation"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Distill",
-        "alias": "Knowledge Distillation"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Downstream Task",
-        "alias": "Downstream Task"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "E2E",
-        "alias": "End-to-end"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Encoder",
-        "alias": "Encoder"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "End-to-end",
-        "alias": "End-to-end"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Ensemble",
-        "alias": "Ensemble"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Ensembling",
-        "alias": "Ensemble"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Estimation",
-        "alias": "Estimation"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Estimator",
-        "alias": "Estimator"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Explainability",
-        "alias": "Explainability"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Explainable AI",
-        "alias": "Explainable AI"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "F1",
-        "alias": "F1"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "FPR",
-        "alias": "FPR"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Fairness",
-        "alias": "Fairness"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "False Positive Ratio",
-        "alias": "False Positive Ratio"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Feed Foward Layer",
-        "alias": "Feed Foward Network"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Feed Foward Network",
-        "alias": "Feed Foward Network"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Few-shot",
-        "alias": "Few-shot"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Few-shot Learning",
-        "alias": "Few-shot Learning"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Fine-tune",
-        "alias": "Fine-tuning"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Fine-tuning",
-        "alias": "Fine-tuning"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "GAN",
-        "alias": "Generative Adversarial Network"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Gaussian Process",
-        "alias": "Gaussian Process"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Generalization",
-        "alias": "Generalization"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Generative",
-        "alias": "Generative"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Generative Adversarial Network",
-        "alias": "Generative Adversarial Network"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Heterogeneous",
-        "alias": "Heterogeneous"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Heuristic Approach",
-        "alias": "Heuristic Approach"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Hierarchical Clustering",
-        "alias": "Hierarchical Clustering"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "High-Resource",
-        "alias": "High-Resource"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Homogeneous",
-        "alias": "Homogeneous"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Human Intervention",
-        "alias": "Human Intervention"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "In-domain",
-        "alias": "In-domain"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Inference",
-        "alias": "Inference"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "JIF",
-        "alias": "Journal Impact Factor"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Journal Impact Factor",
-        "alias": "Journal Impact Factor"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "KD",
-        "alias": "Knowledge Distillation"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "KL-divergence",
-        "alias": "KL-divergence"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Key-value",
-        "alias": "Key-value"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Knowledge Distillation",
-        "alias": "Knowledge Distillation"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Label Smoothing",
-        "alias": "Label Smoothing"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Labor-intensive",
-        "alias": "Labor-intensive"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Labour-intensive",
-        "alias": "Labor-intensive"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Embedding Space",
-        "alias": "Latent Space"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Latent Space",
-        "alias": "Latent Space"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Layer-wise",
-        "alias": "Layer-wise"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Localization",
-        "alias": "Localization"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Logistic Regression",
-        "alias": "Logistic Regression"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Low-Resource",
-        "alias": "Low-Resource"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Machine Unlearning",
-        "alias": "Machine Unlearning"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Maximization",
-        "alias": "Maximization"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Meta",
-        "alias": "Meta"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Meta Learning",
-        "alias": "Meta Learning"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Minimization",
-        "alias": "Minimization"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Model Compression",
-        "alias": "Model Compression"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Model Distillation",
-        "alias": "Model Distillation"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Model Pruning",
-        "alias": "Model Pruning"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Model Quantization",
-        "alias": "Model Quantization"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Multi-mordal",
-        "alias": "Multi-mordal"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Multi-task",
-        "alias": "Multi-task"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Multiple Instance Learning",
-        "alias": "Multiple Instance Learning"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Mutual Information",
-        "alias": "Mutual Information"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "NN",
-        "alias": "Neural Network"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Neural Network",
-        "alias": "Neural Network"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Noise",
-        "alias": "Noise"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Noise-tolerant",
-        "alias": "Noise-tolerant"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Open-Domain",
-        "alias": "Open-Domain"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Optimization",
-        "alias": "Optimization"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Out-of-distribution",
-        "alias": "Out-of-distribution"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Out-of-domain",
-        "alias": "Out-of-domain"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Outlier Detection",
-        "alias": "Outlier Detection"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Overfit",
-        "alias": "Overfit"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Overfitted",
-        "alias": "Overfit"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Overfitting",
-        "alias": "Overfit"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Precision",
-        "alias": "Precision"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Prediction",
-        "alias": "Prediction"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Probabilistic",
-        "alias": "Probabilistic"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Probabilistic Model",
-        "alias": "Probabilistic Model"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Pruning",
-        "alias": "Pruning"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Quantization",
-        "alias": "Quantization"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Quantize",
-        "alias": "Quantization"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Rank",
-        "alias": "Rank"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Recall",
-        "alias": "Recall"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Recognition",
-        "alias": "Recognition"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Recognizer",
-        "alias": "Recognizer"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Recommendation",
-        "alias": "Recommendation"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Recommender System",
-        "alias": "Recommender System"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Reconstruction",
-        "alias": "Reconstruction"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Reconstruction Loss",
-        "alias": "Reconstruction Loss"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Redundancy",
-        "alias": "Redundancy"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Regularization",
-        "alias": "Regularization"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Reinforcement Learning",
-        "alias": "Reinforcement Learning"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Reliability",
-        "alias": "Reliability"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Reliable",
-        "alias": "Reliability"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Rerank",
-        "alias": "Rerank"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Resource-scarce",
-        "alias": "Low-Resource"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Robust",
-        "alias": "Robustness"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Robustness",
-        "alias": "Robustness"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Rule-based",
-        "alias": "Rule-based"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "SGD",
-        "alias": "Stochastic Gradient Descent"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "SOTA",
-        "alias": "state-of-the-art"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Sampling",
-        "alias": "Sampling"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Self-adaption",
-        "alias": "Self-adaption"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Self-adaptive Learning",
-        "alias": "Self-adaptive Learning"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Self-supervised",
-        "alias": "Self-supervised Learning"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Self-supervised Learning",
-        "alias": "Self-supervised Learning"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Self-supervised Pre-training",
-        "alias": "Self-supervised Pre-training"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Semantic Similarity",
-        "alias": "Semantic Similarity"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Sensitivity",
-        "alias": "Sensitivity"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Similarity",
-        "alias": "Similarity"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Stochastic Gradient Descent",
-        "alias": "Stochastic Gradient Descent"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Supervised",
-        "alias": "Supervised Learning"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Supervised Learning",
-        "alias": "Supervised Learning"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Task-specific",
-        "alias": "Task-specific"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Test",
-        "alias": "Test"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Theoretical Framework",
-        "alias": "Theoretical Framework"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Theory",
-        "alias": "Theory"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Time-consuming",
-        "alias": "Time-consuming"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Train",
-        "alias": "Train"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Transfer Learning",
-        "alias": "Transfer Learning"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Unbalanced",
-        "alias": "Unbalanced Data"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Unbalanced Data",
-        "alias": "Unbalanced Data"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Unseen Domain",
-        "alias": "Unseen Domain"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Unsupervised",
-        "alias": "Unsupervised Learning"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Unsupervised Learning",
-        "alias": "Unsupervised Learning"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Variational Autoencoder",
-        "alias": "Variational Autoencoder"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Weakly-supervised",
-        "alias": "Weakly-supervised"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Weakly-supervised Learning",
-        "alias": "Weakly-supervised Learning"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Zero-shot",
-        "alias": "Zero-shot"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "cosine",
-        "alias": "cosine"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "github.com",
-        "alias": "github.com"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "human-in-the-loop",
-        "alias": "human-in-the-loop"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "many-to-many",
-        "alias": "many-to-many"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "one-to-many",
-        "alias": "one-to-many"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "one-to-one",
-        "alias": "one-to-one"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "pre-train",
-        "alias": "pre-train"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "self-train",
-        "alias": "self-train"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "sine",
-        "alias": "sine"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "state-of-the-art",
-        "alias": "state-of-the-art"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "synthetic data",
-        "alias": "synthetic data"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "tangent",
-        "alias": "tangent"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Annotation",
-        "alias": "Annotation"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Self-Distillation",
-        "alias": "Self-Distillation"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Offline Reinforcement Learning",
-        "alias": "Offline Reinforcement Learning"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Online Reinforcement Learning",
-        "alias": "Online Reinforcement Learning"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Contamination",
-        "alias": "Contamination"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Knowledge Transfer",
-        "alias": "Knowledge Transfer"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Counter-factual",
-        "alias": "Counter-factual"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Active Learning",
-        "alias": "Active Learning"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Multi-label",
-        "alias": "Multi-class"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Multi-class",
-        "alias": "Multi-class"
-    },
-    {
-        "category": "Machine Learning Topic",
-        "word": "Topic Model",
-        "alias": "Topic Model"
-    }
+  {
+    "category": "Machine Learning Topic",
+    "word": "AI",
+    "alias": "AI",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Accuracy",
+    "alias": "Accuracy",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Active Learning",
+    "alias": "Active Learning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Adversarial Detection",
+    "alias": "Adversarial Detection",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Adversarial Learning",
+    "alias": "Adversarial Learning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Agent",
+    "alias": "Agent",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Annotation",
+    "alias": "Annotation",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Autoencoder",
+    "alias": "Autoencoder",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Automatic Evaluation",
+    "alias": "Automatic Evaluation",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Bias",
+    "alias": "Bias",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Calibration",
+    "alias": "Calibration",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Causal Intervention",
+    "alias": "Causal Intervention",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Classification",
+    "alias": "Classification",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Classifier",
+    "alias": "Classifier",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Clustering",
+    "alias": "Clustering",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Compositionality",
+    "alias": "Compositionality",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Confidence",
+    "alias": "Confidence",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Constrained Learning",
+    "alias": "Constrained Learning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Contamination",
+    "alias": "Contamination",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Continual Learning",
+    "alias": "Continual Learning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Contrastive Learning",
+    "alias": "Contrastive Learning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Convolution",
+    "alias": "Convolution",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "CNN",
+    "alias": "Convolutional Neural Network",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Convolution Network",
+    "alias": "Convolutional Neural Network",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Convolutional Network",
+    "alias": "Convolutional Neural Network",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Convolutional Neural Network",
+    "alias": "Convolutional Neural Network",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Correlation",
+    "alias": "Correlation",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Counter-factual",
+    "alias": "Counter-factual",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Curriculum Learning",
+    "alias": "Curriculum Learning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Curse of Dimentionality",
+    "alias": "Curse of Dimentionality",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Data Augmentation",
+    "alias": "Data Augmentation",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Data Distribution",
+    "alias": "Data Distribution",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Data-driven",
+    "alias": "Data-driven",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Dataset",
+    "alias": "Dataset",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Decoder",
+    "alias": "Decoder",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Deep Learning",
+    "alias": "Deep Learning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Deep-Learning Based",
+    "alias": "Deep Learning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Dense Retrieval",
+    "alias": "Dense Retrieval",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Detector",
+    "alias": "Detector",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Downstream Task",
+    "alias": "Downstream Task",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Emulate",
+    "alias": "Emulate",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Emulate",
+    "alias": "Emulator",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Encoder",
+    "alias": "Encoder",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "E2E",
+    "alias": "End-to-end",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "End-to-end",
+    "alias": "End-to-end",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Ensemble",
+    "alias": "Ensemble",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Ensembling",
+    "alias": "Ensemble",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Estimation",
+    "alias": "Estimation",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Estimator",
+    "alias": "Estimator",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Explainability",
+    "alias": "Explainability",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Explainable AI",
+    "alias": "Explainable AI",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "F1",
+    "alias": "F1",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "FPR",
+    "alias": "FPR",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Fairness",
+    "alias": "Fairness",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "False Positive Ratio",
+    "alias": "False Positive Ratio",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Feed Foward Layer",
+    "alias": "Feed Foward Network",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Feed Foward Network",
+    "alias": "Feed Foward Network",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Few-shot",
+    "alias": "Few-shot",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Few-shot Learning",
+    "alias": "Few-shot Learning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Fine-tune",
+    "alias": "Fine-tuning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Fine-tuning",
+    "alias": "Fine-tuning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Gaussian Process",
+    "alias": "Gaussian Process",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Generalization",
+    "alias": "Generalization",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Generative",
+    "alias": "Generative",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "GAN",
+    "alias": "Generative Adversarial Network",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Generative Adversarial Network",
+    "alias": "Generative Adversarial Network",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Heterogeneous",
+    "alias": "Heterogeneous",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Heuristic Approach",
+    "alias": "Heuristic Approach",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Hierarchical Clustering",
+    "alias": "Hierarchical Clustering",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "High-Resource",
+    "alias": "High-Resource",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Homogeneous",
+    "alias": "Homogeneous",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Human Intervention",
+    "alias": "Human Intervention",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "In-domain",
+    "alias": "In-domain",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Inference",
+    "alias": "Inference",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "JIF",
+    "alias": "Journal Impact Factor",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Journal Impact Factor",
+    "alias": "Journal Impact Factor",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "KL-divergence",
+    "alias": "KL-divergence",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Key-value",
+    "alias": "Key-value",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Distill",
+    "alias": "Knowledge Distillation",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Distillation",
+    "alias": "Knowledge Distillation",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "KD",
+    "alias": "Knowledge Distillation",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Knowledge Distillation",
+    "alias": "Knowledge Distillation",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Knowledge Transfer",
+    "alias": "Knowledge Transfer",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Label Smoothing",
+    "alias": "Label Smoothing",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Labor-intensive",
+    "alias": "Labor-intensive",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Labour-intensive",
+    "alias": "Labor-intensive",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Embedding Space",
+    "alias": "Latent Space",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Latent Space",
+    "alias": "Latent Space",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Layer-wise",
+    "alias": "Layer-wise",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Localization",
+    "alias": "Localization",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Logistic Regression",
+    "alias": "Logistic Regression",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Low-Resource",
+    "alias": "Low-Resource",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Resource-scarce",
+    "alias": "Low-Resource",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Machine Unlearning",
+    "alias": "Machine Unlearning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Maximization",
+    "alias": "Maximization",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Meta",
+    "alias": "Meta",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Meta Learning",
+    "alias": "Meta Learning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Minimization",
+    "alias": "Minimization",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Model Compression",
+    "alias": "Model Compression",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Model Distillation",
+    "alias": "Model Distillation",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Model Pruning",
+    "alias": "Model Pruning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Model Quantization",
+    "alias": "Model Quantization",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Multi-class",
+    "alias": "Multi-class",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Multi-label",
+    "alias": "Multi-class",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Multi-mordal",
+    "alias": "Multi-mordal",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Multi-task",
+    "alias": "Multi-task",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Multiple Instance Learning",
+    "alias": "Multiple Instance Learning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Mutual Information",
+    "alias": "Mutual Information",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "NN",
+    "alias": "Neural Network",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Neural Network",
+    "alias": "Neural Network",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Noise",
+    "alias": "Noise",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Noise-tolerant",
+    "alias": "Noise-tolerant",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Offline Reinforcement Learning",
+    "alias": "Offline Reinforcement Learning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Online Reinforcement Learning",
+    "alias": "Online Reinforcement Learning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Open-Domain",
+    "alias": "Open-Domain",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Optimization",
+    "alias": "Optimization",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Out-of-distribution",
+    "alias": "Out-of-distribution",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Out-of-domain",
+    "alias": "Out-of-domain",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Outlier Detection",
+    "alias": "Outlier Detection",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Overfit",
+    "alias": "Overfit",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Overfitted",
+    "alias": "Overfit",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Overfitting",
+    "alias": "Overfit",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Precision",
+    "alias": "Precision",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Prediction",
+    "alias": "Prediction",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Probabilistic",
+    "alias": "Probabilistic",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Probabilistic Model",
+    "alias": "Probabilistic Model",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Pruning",
+    "alias": "Pruning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Quantization",
+    "alias": "Quantization",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Quantize",
+    "alias": "Quantization",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Rank",
+    "alias": "Rank",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Recall",
+    "alias": "Recall",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Recognition",
+    "alias": "Recognition",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Recognizer",
+    "alias": "Recognizer",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Recommendation",
+    "alias": "Recommendation",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Recommender System",
+    "alias": "Recommender System",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Reconstruction",
+    "alias": "Reconstruction",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Reconstruction Loss",
+    "alias": "Reconstruction Loss",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Redundancy",
+    "alias": "Redundancy",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Regularization",
+    "alias": "Regularization",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Reinforcement Learning",
+    "alias": "Reinforcement Learning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Reliability",
+    "alias": "Reliability",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Reliable",
+    "alias": "Reliability",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Rerank",
+    "alias": "Rerank",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Robust",
+    "alias": "Robustness",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Robustness",
+    "alias": "Robustness",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Rule-based",
+    "alias": "Rule-based",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Sampling",
+    "alias": "Sampling",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Self-Distillation",
+    "alias": "Self-Distillation",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Self-adaption",
+    "alias": "Self-adaption",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Self-adaptive Learning",
+    "alias": "Self-adaptive Learning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Self-supervised",
+    "alias": "Self-supervised Learning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Self-supervised Learning",
+    "alias": "Self-supervised Learning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Self-supervised Pre-training",
+    "alias": "Self-supervised Pre-training",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Semantic Similarity",
+    "alias": "Semantic Similarity",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Sensitivity",
+    "alias": "Sensitivity",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Similarity",
+    "alias": "Similarity",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Simulation",
+    "alias": "Simulation",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Simulation",
+    "alias": "Simulator",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "SGD",
+    "alias": "Stochastic Gradient Descent",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Stochastic Gradient Descent",
+    "alias": "Stochastic Gradient Descent",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Supervised",
+    "alias": "Supervised Learning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Supervised Learning",
+    "alias": "Supervised Learning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Synthesize",
+    "alias": "Synthesize",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Task-specific",
+    "alias": "Task-specific",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Test",
+    "alias": "Test",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Theoretical Framework",
+    "alias": "Theoretical Framework",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Theory",
+    "alias": "Theory",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Time-consuming",
+    "alias": "Time-consuming",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Topic Model",
+    "alias": "Topic Model",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Train",
+    "alias": "Train",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Transfer Learning",
+    "alias": "Transfer Learning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Unbalanced",
+    "alias": "Unbalanced Data",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Unbalanced Data",
+    "alias": "Unbalanced Data",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Unseen Domain",
+    "alias": "Unseen Domain",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Unsupervised",
+    "alias": "Unsupervised Learning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Unsupervised Learning",
+    "alias": "Unsupervised Learning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Variational Autoencoder",
+    "alias": "Variational Autoencoder",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Weakly-supervised",
+    "alias": "Weakly-supervised",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Weakly-supervised Learning",
+    "alias": "Weakly-supervised Learning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Zero-shot",
+    "alias": "Zero-shot",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "cosine",
+    "alias": "cosine",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "github.com",
+    "alias": "github.com",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "human-in-the-loop",
+    "alias": "human-in-the-loop",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "many-to-many",
+    "alias": "many-to-many",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "one-to-many",
+    "alias": "one-to-many",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "one-to-one",
+    "alias": "one-to-one",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "pre-train",
+    "alias": "pre-train",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "self-train",
+    "alias": "self-train",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "sine",
+    "alias": "sine",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "SOTA",
+    "alias": "state-of-the-art",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "state-of-the-art",
+    "alias": "state-of-the-art",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "synthetic data",
+    "alias": "synthetic data",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "tangent",
+    "alias": "tangent",
+    "score": 10
+  }
 ]

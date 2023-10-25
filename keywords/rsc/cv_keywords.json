@@ -2,26 +2,31 @@
   {
     "category": "CV Task",
     "word": "Face Recognition",
-    "alias": "Face Recognition"
+    "alias": "Face Recognition",
+    "score": 10
   },
   {
     "category": "CV Task",
     "word": "Object Detection",
-    "alias": "Object Detection"
-  },
-  {
-    "category": "CV Topic",
-    "word": "Computer Vision",
-    "alias": "Computer Vision"
-  },
-  {
-    "category": "CV Task",
-    "word": "Optical Character Recognition",
-    "alias": "Optical Character Recognition"
+    "alias": "Object Detection",
+    "score": 10
   },
   {
     "category": "CV Task",
     "word": "OCR",
-    "alias": "Optical Character Recognition"
+    "alias": "Optical Character Recognition",
+    "score": 10
+  },
+  {
+    "category": "CV Task",
+    "word": "Optical Character Recognition",
+    "alias": "Optical Character Recognition",
+    "score": 10
+  },
+  {
+    "category": "CV Topic",
+    "word": "Computer Vision",
+    "alias": "Computer Vision",
+    "score": 10
   }
 ]

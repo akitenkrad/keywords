@@ -1,1467 +1,1796 @@
 [
-    {
-        "category": "NLP Model",
-        "word": "Alpaca",
-        "alias": "Alpaca"
-    },
-    {
-        "category": "NLP Model",
-        "word": "BART",
-        "alias": "BART"
-    },
-    {
-        "category": "NLP Model",
-        "word": "BERT",
-        "alias": "BERT"
-    },
-    {
-        "category": "NLP Model",
-        "word": "BLOOM",
-        "alias": "BLOOM"
-    },
-    {
-        "category": "NLP Model",
-        "word": "Bag-of-Words",
-        "alias": "Bag-of-Words"
-    },
-    {
-        "category": "NLP Model",
-        "word": "Bard",
-        "alias": "Bard"
-    },
-    {
-        "category": "NLP Model",
-        "word": "Box Embedding",
-        "alias": "Box Embedding"
-    },
-    {
-        "category": "NLP Model",
-        "word": "ChatGPT",
-        "alias": "ChatGPT"
-    },
-    {
-        "category": "NLP Model",
-        "word": "CodeGen",
-        "alias": "CodeGen"
-    },
-    {
-        "category": "NLP Model",
-        "word": "Disambiguation",
-        "alias": "Disambiguation"
-    },
-    {
-        "category": "NLP Model",
-        "word": "Doc2vec",
-        "alias": "Doc2vec"
-    },
-    {
-        "category": "NLP Model",
-        "word": "GPT",
-        "alias": "GPT"
-    },
-    {
-        "category": "NLP Model",
-        "word": "GPT-2",
-        "alias": "GPT-2"
-    },
-    {
-        "category": "NLP Model",
-        "word": "GPT-3",
-        "alias": "GPT-3"
-    },
-    {
-        "category": "NLP Model",
-        "word": "GPT-3.5",
-        "alias": "GPT-3.5"
-    },
-    {
-        "category": "NLP Model",
-        "word": "GPT-4",
-        "alias": "GPT-4"
-    },
-    {
-        "category": "NLP Model",
-        "word": "InstructGPT",
-        "alias": "InstructGPT"
-    },
-    {
-        "category": "NLP Model",
-        "word": "LLaMA",
-        "alias": "LLaMA"
-    },
-    {
-        "category": "NLP Model",
-        "word": "LaMDA",
-        "alias": "LaMDA"
-    },
-    {
-        "category": "NLP Model",
-        "word": "N-gram",
-        "alias": "N-gram"
-    },
-    {
-        "category": "NLP Model",
-        "word": "PaLM",
-        "alias": "PaLM"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Polysemous",
-        "alias": "Polysemous"
-    },
-    {
-        "category": "NLP Model",
-        "word": "Recurrent Neural Network",
-        "alias": "Recurrent Neural Network"
-    },
-    {
-        "category": "NLP Model",
-        "word": "RNN",
-        "alias": "Recurrent Neural Network"
-    },
-    {
-        "category": "NLP Model",
-        "word": "RoBERTa",
-        "alias": "RoBERTa"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "TF-IDF",
-        "alias": "TF-IDF"
-    },
-    {
-        "category": "NLP Model",
-        "word": "Transformer",
-        "alias": "Transformer"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Word Sense Disambiguation",
-        "alias": "Word Sense Disambiguation"
-    },
-    {
-        "category": "NLP Model",
-        "word": "Word2box",
-        "alias": "Word2box"
-    },
-    {
-        "category": "NLP Model",
-        "word": "Word2vec",
-        "alias": "Word2vec"
-    },
-    {
-        "category": "NLP Model",
-        "word": "X-VLM",
-        "alias": "X-VLM"
-    },
-    {
-        "category": "NLP Model",
-        "word": "falcon",
-        "alias": "falcon"
-    },
-    {
-        "category": "NLP Task",
-        "word": "ASR",
-        "alias": "Automatic Speech Recognition"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Abstractive Conversation Summarization",
-        "alias": "Abstractive Conversation Summarization"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Aspect Extraction",
-        "alias": "Aspect Extraction"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Aspect-based Sentiment Analysis",
-        "alias": "Aspect-based Sentiment Analysis"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Attention Alignment",
-        "alias": "Attention Alignment"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Automatic Speech Recognition",
-        "alias": "Automatic Speech Recognition"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Chatbot",
-        "alias": "Chatbot"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Code Generation",
-        "alias": "Code Generation"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Common-sense Reasoning",
-        "alias": "Common-sense Reasoning"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Continual Relation Extraction",
-        "alias": "Continual Relation Extraction"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Counterfactual Reasoning",
-        "alias": "Counterfactual Reasoning"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Dialogue Response Generation",
-        "alias": "Dialogue Response Generation"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Dialogue State Tracking",
-        "alias": "Dialogue State Tracking"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Dialogue System",
-        "alias": "Dialogue System"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Document Classification",
-        "alias": "Document Classification"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Document Ranking",
-        "alias": "Document Ranking"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Emotion Recognition",
-        "alias": "Emotion Recognition"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Essay Scoring",
-        "alias": "Essay Scoring"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Event Argument Extraction",
-        "alias": "Event Argument Extraction"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Event Detection",
-        "alias": "Event Detection"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Event-Relation Extraction",
-        "alias": "Event-Relation Extraction"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Explainable Recommendation",
-        "alias": "Explainable Recommendation"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Fact Verification",
-        "alias": "Fact Verification"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Fake News Detection",
-        "alias": "Fake News Detection"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Finantial Sentiment Analysis",
-        "alias": "Finantial Sentiment Analysis"
-    },
-    {
-        "category": "NLP Task",
-        "word": "GEC",
-        "alias": "Grammatical Error Correction"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Grammatical Error Correction",
-        "alias": "Grammatical Error Correction"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Grounding",
-        "alias": "Grounding"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Hate Speech Detection",
-        "alias": "Hate Speech Detection"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Idiom Usage Detection",
-        "alias": "Idiom Usage Detection"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Idiom Usage Extraction",
-        "alias": "Idiom Usage Detection"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Idiom Usage Recognition",
-        "alias": "Idiom Usage Detection"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Image-text",
-        "alias": "Image2text"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Image-to-text",
-        "alias": "Image2text"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Image2text",
-        "alias": "Image2text"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Information Compression",
-        "alias": "Information Compression"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Information Extraction",
-        "alias": "Information Retrieval"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Information Retrieval",
-        "alias": "Information Retrieval"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Instruction Following",
-        "alias": "Instruction Following"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Intent Detection",
-        "alias": "Intent Detection"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Intent Extraction",
-        "alias": "Intent Detection"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Intent Recognition",
-        "alias": "Intent Detection"
-    },
-    {
-        "category": "NLP Task",
-        "word": "KPA",
-        "alias": "Key Point Analysis"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Key Point Analysis",
-        "alias": "Key Point Analysis"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Keyword Extraction",
-        "alias": "Keyword Extraction"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Keyword Detection",
-        "alias": "Keyword Extraction"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Keyword Recognition",
-        "alias": "Keyword Extraction"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Language Generation",
-        "alias": "Language Generation"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Lemmatization",
-        "alias": "Lemmatization"
-    },
-    {
-        "category": "NLP Task",
-        "word": "MT",
-        "alias": "Machine Translation"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Machine Translation",
-        "alias": "Machine Translation"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Mathematical Reasoning",
-        "alias": "Mathematical Reasoning"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Metaphor Detection",
-        "alias": "Metaphor Detection"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Metaphor Extraction",
-        "alias": "Metaphor Detection"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Metaphor Recognition",
-        "alias": "Metaphor Detection"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Mixture-of-Memory Augmentation",
-        "alias": "Mixture-of-Memory Augmentation"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Morphological Analysis",
-        "alias": "Morphological Analysis"
-    },
-    {
-        "category": "NLP Task",
-        "word": "NLG",
-        "alias": "Natural Language Generation"
-    },
-    {
-        "category": "NLP Task",
-        "word": "NLI",
-        "alias": "Natural Language Inference"
-    },
-    {
-        "category": "NLP Task",
-        "word": "NMT",
-        "alias": "Neural Machine Translation"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Named Entity Disambiguation",
-        "alias": "Named Entity Disambiguation"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Natural Language Generation",
-        "alias": "Natural Language Generation"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Natural Language Inference",
-        "alias": "Natural Language Inference"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Natural Language Video Localization",
-        "alias": "Natural Language Video Localization"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Neural Machine Translation",
-        "alias": "Neural Machine Translation"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Next Sentence Prediction",
-        "alias": "Next Sentence Prediction"
-    },
-    {
-        "category": "NLP Task",
-        "word": "ODQA",
-        "alias": "Open-Domain Question Answering"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Off-Topic Detection",
-        "alias": "Off-Topic Detection"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Open Information Extraction",
-        "alias": "Open Information Extraction"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Open-Domain Question Answering",
-        "alias": "Open-Domain Question Answering"
-    },
-    {
-        "category": "NLP Task",
-        "word": "OpenIE",
-        "alias": "OpenIE"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Opinion Summarization",
-        "alias": "Opinion Summarization"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Probabilistic Reasoning",
-        "alias": "Probabilistic Reasoning"
-    },
-    {
-        "category": "NLP Task",
-        "word": "QA",
-        "alias": "Question Answering"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Question Answering",
-        "alias": "Question Answering"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Reasoning",
-        "alias": "Reasoning"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Relation Extraction",
-        "alias": "Relation Extraction"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Relation Recognition",
-        "alias": "Relation Extraction"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Relation Detection",
-        "alias": "Relation Extraction"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Semantic Parsing",
-        "alias": "Semantic Parsing"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Sentence Embedding",
-        "alias": "Sentence Embedding"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Sentiment Analysis",
-        "alias": "Sentiment Analysis"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Speech Recognition",
-        "alias": "Automatic Speech Recognition"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Stemming",
-        "alias": "Stemming"
-    },
-    {
-        "category": "NLP Task",
-        "word": "TTS",
-        "alias": "Text-to-speech"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Text Analysis",
-        "alias": "Text Analysis"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Text Augmentation",
-        "alias": "Text Augmentation"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Text Classification",
-        "alias": "Text Classification"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Text Clustering",
-        "alias": "Text Clustering"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Text Data Generation",
-        "alias": "Text Generation"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Text Generation",
-        "alias": "Text Generation"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Neural Text Generation",
-        "alias": "Text Generation"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Text Inference",
-        "alias": "Text Inference"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Text Mining",
-        "alias": "Text Mining"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Text Normalization",
-        "alias": "Text Normalization"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Text Segmentation",
-        "alias": "Text Segmentation"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Text Summarization",
-        "alias": "Text Summarization"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Text Transformation",
-        "alias": "Text Transformation"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Text-image",
-        "alias": "Text2image"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Text-to-image",
-        "alias": "Text2image"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Text-to-speech",
-        "alias": "Text-to-speech"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Text2image",
-        "alias": "Text2image"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Textual Adversarial Detection",
-        "alias": "Textual Adversarial Detection"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Textual Entailment",
-        "alias": "Textual Entailment"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Textual Generation",
-        "alias": "Textual Generation"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Tokenization",
-        "alias": "Tokenization"
-    },
-    {
-        "category": "NLP Task",
-        "word": "VQA",
-        "alias": "Visual Question Answering"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Visual Question Answering",
-        "alias": "Visual Question Answering"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Alignment",
-        "alias": "Alignment"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Attention",
-        "alias": "Attention"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "BERTScore",
-        "alias": "BERTScore"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "BLEU",
-        "alias": "BLEU"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Bilingual",
-        "alias": "Bilingual"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "CCG",
-        "alias": "CCG"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Caption",
-        "alias": "Caption"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Character",
-        "alias": "Character"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Chinese",
-        "alias": "Chinese"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Combinatory Categorical Grammar",
-        "alias": "Combinatory Categorical Grammar"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Common Sense",
-        "alias": "Common Sense"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Context",
-        "alias": "Context"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Contextual Embedding",
-        "alias": "Contextual Embedding"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Conversation",
-        "alias": "Conversation"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Corpora",
-        "alias": "Corpus"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Corpus",
-        "alias": "Corpus"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Cross-Lingual",
-        "alias": "Cross-Lingual"
-    },
-    {
-        "category": "NLP Model",
-        "word": "CtrlEval",
-        "alias": "CtrlEval"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Danish",
-        "alias": "Danish"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Dependency Parsing",
-        "alias": "Dependency Parsing"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Dialect",
-        "alias": "Dialect"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Dialogue",
-        "alias": "Dialogue"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Document",
-        "alias": "Document"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Document Embedding",
-        "alias": "Document Embedding"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Domain Adaptation",
-        "alias": "Domain Adaptation"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Dwonstream Application",
-        "alias": "Dwonstream Task"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Dwonstream Task",
-        "alias": "Dwonstream Task"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Embedding Space",
-        "alias": "Embedding Space"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Emotion",
-        "alias": "Emotion"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "English",
-        "alias": "English"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Factual Consistency",
-        "alias": "Factual Consistency"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Fake News",
-        "alias": "Fake News Detection"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Farsi",
-        "alias": "Farsi"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "French",
-        "alias": "French"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "GLUE",
-        "alias": "GLUE"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "German",
-        "alias": "German"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Grammar",
-        "alias": "Grammar"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Grammatical",
-        "alias": "Grammar"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Hallucinate",
-        "alias": "Hallucination"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Hallucination",
-        "alias": "Hallucination"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "ICL",
-        "alias": "In-context Learning"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "In-context",
-        "alias": "In-context Learning"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "In-context Learning",
-        "alias": "In-context Learning"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "In-context Learner",
-        "alias": "In-context Learning"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Italian",
-        "alias": "Italian"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Japanese",
-        "alias": "Japanese"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "KB",
-        "alias": "Knowledge Base"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "KBQA",
-        "alias": "Knowledge Based Question Answering"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Key Phrase",
-        "alias": "Key Phrase"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Key Point",
-        "alias": "Key Point"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Knowledge",
-        "alias": "Knowledge"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Knowledge Base",
-        "alias": "Knowledge Base"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Knowledge Base Question Answering",
-        "alias": "Knowledge Base Question Answering"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Knowledge Based Question Answering",
-        "alias": "Knowledge Based Question Answering"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Knowledge Graph",
-        "alias": "Knowledge Graph"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "LLM",
-        "alias": "Large Language Model"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "LM",
-        "alias": "Language Model"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Language",
-        "alias": "Language"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Language Model",
-        "alias": "Language Model"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Large Language Model",
-        "alias": "Large Language Model"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Latin",
-        "alias": "Latin"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Lexic",
-        "alias": "Lexic"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Lyric",
-        "alias": "Lyric"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "MLM",
-        "alias": "Masked Language Model"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Masked Language Model",
-        "alias": "Masked Language Model"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Metaphor",
-        "alias": "Metaphor"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Monolingual",
-        "alias": "Monolingual"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Moral",
-        "alias": "Moral"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Moral Bias",
-        "alias": "Moral Bias"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Multi-party Dialogue",
-        "alias": "Multi-party Dialogue"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Multilingual",
-        "alias": "Multilingual"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "NER",
-        "alias": "Named Entity Recognition"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "NLP",
-        "alias": "Natural Language Processing"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Named Entity Recognition",
-        "alias": "Named Entity Recognition"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Natural Language Processing",
-        "alias": "Natural Language Processing"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Natural Language Understanding",
-        "alias": "Natural Language Understanding"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "OOV",
-        "alias": "Out-of-vocabulary"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Open-Domain Dialogue",
-        "alias": "Open-Domain Dialogue"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Out-of-vocabulary",
-        "alias": "Out-of-vocabulary"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "PLM",
-        "alias": "Pre-trained Language Model"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "POS Tagging",
-        "alias": "POS Tagging"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Paragraph",
-        "alias": "Paragraph"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Part-of-Speech Tagging",
-        "alias": "POS Tagging"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Passage",
-        "alias": "Passage"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Perplexity",
-        "alias": "Perplexity"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Phrase",
-        "alias": "Phrase"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Pre-trained Autoregressive",
-        "alias": "Pre-trained Autoregressive"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Pre-trained Autoregressive Language Model",
-        "alias": "Pre-trained Autoregressive Language Model"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Pre-trained Language Model",
-        "alias": "Pre-trained Language Model"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Prompt",
-        "alias": "Prompt"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Prompt Learning",
-        "alias": "Prompt Learning"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Query",
-        "alias": "Query"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Representation",
-        "alias": "Representation"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Retrieval Augmentation",
-        "alias": "Retrieval Augmentation"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Review",
-        "alias": "Review"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Romance",
-        "alias": "Romance"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Rouge",
-        "alias": "Rouge"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Rouge-L",
-        "alias": "Rouge-L"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Scaling Law",
-        "alias": "Scaling Law"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Scientific Paper",
-        "alias": "Academic Paper"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Academic Paper",
-        "alias": "Academic Paper"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Scientific Text",
-        "alias": "Scientific Text"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Selective Prediction",
-        "alias": "Selective Prediction"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Self-Attention",
-        "alias": "Self-Attention"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Semantic",
-        "alias": "Semantic"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Sentence",
-        "alias": "Sentence"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Simile",
-        "alias": "Simile"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Social Media",
-        "alias": "Social Media"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Speech",
-        "alias": "Speech"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Stop Words",
-        "alias": "Stop Words"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Sub-word",
-        "alias": "Sub-word"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Summarization",
-        "alias": "Summarization"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Summarize",
-        "alias": "Summarization"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "SuperGLUE",
-        "alias": "SuperGLUE"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Survey",
-        "alias": "Survey"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Syntax",
-        "alias": "Syntax"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Synthetic Language",
-        "alias": "Synthetic Language"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "TKG",
-        "alias": "Temporal Knowledge Graph"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Temporal Knowledge Graph",
-        "alias": "Temporal Knowledge Graph"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Text",
-        "alias": "Text"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Text Embedding",
-        "alias": "Text Embedding"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Text Understanding",
-        "alias": "Text Understanding"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Textual",
-        "alias": "Textual"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Token",
-        "alias": "Token"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Topic Modeling",
-        "alias": "Topic Modeling"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Transcript",
-        "alias": "Transcript"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Transcription",
-        "alias": "Transcription"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Translation",
-        "alias": "Translation"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Two-party Dialogue",
-        "alias": "Two-party Dialogue"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "UniEval",
-        "alias": "UniEval"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Video-and-Language",
-        "alias": "Video-and-Language"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Vision-Language",
-        "alias": "Vision-and-Language"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Vision-and-Language",
-        "alias": "Vision-and-Language"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Vocabulary",
-        "alias": "Vocabulary"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Weak Supervision",
-        "alias": "Weakly Supervised Learning"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Weakly Supervised Learning",
-        "alias": "Weakly Supervised Learning"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Word Cloud",
-        "alias": "Word Cloud"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Word Embedding",
-        "alias": "Word Embedding"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Zero-shot Learning",
-        "alias": "Zero-shot Learning"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Chain-of-thought Prompt",
-        "alias": "Chain-of-thought Prompt"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Implicit",
-        "alias": "Implicit"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Explicit",
-        "alias": "Explicit"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Discourse",
-        "alias": "Discourse"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Narrative",
-        "alias": "Narrative"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Natural Language Explanation",
-        "alias": "Natural Language Explanation"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Textual Reinforcement Learning",
-        "alias": "Textual Reinforcement Learning"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Speech Translation",
-        "alias": "Speech-to-Speech Translation"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Speech-to-Speech",
-        "alias": "Speech-to-Speech Translation"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Table Filling",
-        "alias": "Table Filling"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Indian",
-        "alias": "Indian"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Coreference Resolution",
-        "alias": "Coreference Resolution"
-    },
-    {
-        "category": "NLP Topic",
-        "word": "Taxonomy",
-        "alias": "Taxonomy"
-    },
-    {
-        "category": "NLP Task",
-        "word": "Image Translation",
-        "alias": "Image2text"
-    }
+  {
+    "category": "NLP Model",
+    "word": "Alpaca",
+    "alias": "Alpaca",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "BART",
+    "alias": "BART",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "BERT",
+    "alias": "BERT",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "BLOOM",
+    "alias": "BLOOM",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "Bag-of-Words",
+    "alias": "Bag-of-Words",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "Bard",
+    "alias": "Bard",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "Box Embedding",
+    "alias": "Box Embedding",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "ChatGPT",
+    "alias": "ChatGPT",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "CodeGen",
+    "alias": "CodeGen",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "CtrlEval",
+    "alias": "CtrlEval",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "Disambiguation",
+    "alias": "Disambiguation",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "Doc2vec",
+    "alias": "Doc2vec",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "GPT",
+    "alias": "GPT",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "GPT-2",
+    "alias": "GPT-2",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "GPT-3",
+    "alias": "GPT-3",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "GPT-3.5",
+    "alias": "GPT-3.5",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "GPT-4",
+    "alias": "GPT-4",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "InstructGPT",
+    "alias": "InstructGPT",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "LLaMA",
+    "alias": "LLaMA",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "LaMDA",
+    "alias": "LaMDA",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "N-gram",
+    "alias": "N-gram",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "PaLM",
+    "alias": "PaLM",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "RNN",
+    "alias": "Recurrent Neural Network",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "Recurrent Neural Network",
+    "alias": "Recurrent Neural Network",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "RoBERTa",
+    "alias": "RoBERTa",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "Transformer",
+    "alias": "Transformer",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "Word2box",
+    "alias": "Word2box",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "Word2vec",
+    "alias": "Word2vec",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "X-VLM",
+    "alias": "X-VLM",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "falcon",
+    "alias": "falcon",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Abstractive Conversation Summarization",
+    "alias": "Abstractive Conversation Summarization",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Aspect Extraction",
+    "alias": "Aspect Extraction",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Aspect-based Sentiment Analysis",
+    "alias": "Aspect-based Sentiment Analysis",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Attention Alignment",
+    "alias": "Attention Alignment",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "ASR",
+    "alias": "Automatic Speech Recognition",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Automatic Speech Recognition",
+    "alias": "Automatic Speech Recognition",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Speech Recognition",
+    "alias": "Automatic Speech Recognition",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Chatbot",
+    "alias": "Chatbot",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Code Generation",
+    "alias": "Code Generation",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Common-sense Reasoning",
+    "alias": "Common-sense Reasoning",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Continual Relation Extraction",
+    "alias": "Continual Relation Extraction",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Coreference Resolution",
+    "alias": "Coreference Resolution",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Counterfactual Reasoning",
+    "alias": "Counterfactual Reasoning",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Dialogue Response Generation",
+    "alias": "Dialogue Response Generation",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Dialogue State Tracking",
+    "alias": "Dialogue State Tracking",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Dialogue System",
+    "alias": "Dialogue System",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Document Classification",
+    "alias": "Document Classification",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Document Ranking",
+    "alias": "Document Ranking",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Emotion Recognition",
+    "alias": "Emotion Recognition",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Essay Scoring",
+    "alias": "Essay Scoring",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Event Argument Extraction",
+    "alias": "Event Argument Extraction",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Event Detection",
+    "alias": "Event Detection",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Event-Relation Extraction",
+    "alias": "Event-Relation Extraction",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Explainable Recommendation",
+    "alias": "Explainable Recommendation",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Fact Verification",
+    "alias": "Fact Verification",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Fake News Detection",
+    "alias": "Fake News Detection",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Finantial Sentiment Analysis",
+    "alias": "Finantial Sentiment Analysis",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "GEC",
+    "alias": "Grammatical Error Correction",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Grammatical Error Correction",
+    "alias": "Grammatical Error Correction",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Grounding",
+    "alias": "Grounding",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Hate Speech Detection",
+    "alias": "Hate Speech Detection",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Idiom Usage Detection",
+    "alias": "Idiom Usage Detection",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Idiom Usage Extraction",
+    "alias": "Idiom Usage Detection",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Idiom Usage Recognition",
+    "alias": "Idiom Usage Detection",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Image Translation",
+    "alias": "Image2text",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Image-text",
+    "alias": "Image2text",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Image-to-text",
+    "alias": "Image2text",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Image2text",
+    "alias": "Image2text",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Information Compression",
+    "alias": "Information Compression",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Information Extraction",
+    "alias": "Information Retrieval",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Information Retrieval",
+    "alias": "Information Retrieval",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Instruction Following",
+    "alias": "Instruction Following",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Intent Detection",
+    "alias": "Intent Detection",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Intent Extraction",
+    "alias": "Intent Detection",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Intent Recognition",
+    "alias": "Intent Detection",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "KPA",
+    "alias": "Key Point Analysis",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Key Point Analysis",
+    "alias": "Key Point Analysis",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Keyword Detection",
+    "alias": "Keyword Extraction",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Keyword Extraction",
+    "alias": "Keyword Extraction",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Keyword Recognition",
+    "alias": "Keyword Extraction",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Language Generation",
+    "alias": "Language Generation",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Lemmatization",
+    "alias": "Lemmatization",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "MT",
+    "alias": "Machine Translation",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Machine Translation",
+    "alias": "Machine Translation",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Mathematical Reasoning",
+    "alias": "Mathematical Reasoning",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Metaphor Detection",
+    "alias": "Metaphor Detection",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Metaphor Extraction",
+    "alias": "Metaphor Detection",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Metaphor Recognition",
+    "alias": "Metaphor Detection",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Mixture-of-Memory Augmentation",
+    "alias": "Mixture-of-Memory Augmentation",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Morphological Analysis",
+    "alias": "Morphological Analysis",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Named Entity Disambiguation",
+    "alias": "Named Entity Disambiguation",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "NLG",
+    "alias": "Natural Language Generation",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Natural Language Generation",
+    "alias": "Natural Language Generation",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "NLI",
+    "alias": "Natural Language Inference",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Natural Language Inference",
+    "alias": "Natural Language Inference",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Natural Language Video Localization",
+    "alias": "Natural Language Video Localization",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "NMT",
+    "alias": "Neural Machine Translation",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Neural Machine Translation",
+    "alias": "Neural Machine Translation",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Next Sentence Prediction",
+    "alias": "Next Sentence Prediction",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Off-Topic Detection",
+    "alias": "Off-Topic Detection",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Open Information Extraction",
+    "alias": "Open Information Extraction",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "ODQA",
+    "alias": "Open-Domain Question Answering",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Open-Domain Question Answering",
+    "alias": "Open-Domain Question Answering",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "OpenIE",
+    "alias": "OpenIE",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Opinion Summarization",
+    "alias": "Opinion Summarization",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Probabilistic Reasoning",
+    "alias": "Probabilistic Reasoning",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "QA",
+    "alias": "Question Answering",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Question Answering",
+    "alias": "Question Answering",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Reasoning",
+    "alias": "Reasoning",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Relation Detection",
+    "alias": "Relation Extraction",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Relation Extraction",
+    "alias": "Relation Extraction",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Relation Recognition",
+    "alias": "Relation Extraction",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Semantic Parsing",
+    "alias": "Semantic Parsing",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Sentence Embedding",
+    "alias": "Sentence Embedding",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Sentiment Analysis",
+    "alias": "Sentiment Analysis",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Speech Translation",
+    "alias": "Speech-to-Speech Translation",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Speech-to-Speech",
+    "alias": "Speech-to-Speech Translation",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Stemming",
+    "alias": "Stemming",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Table Filling",
+    "alias": "Table Filling",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Text Analysis",
+    "alias": "Text Analysis",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Text Augmentation",
+    "alias": "Text Augmentation",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Text Classification",
+    "alias": "Text Classification",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Text Clustering",
+    "alias": "Text Clustering",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Neural Text Generation",
+    "alias": "Text Generation",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Text Data Generation",
+    "alias": "Text Generation",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Text Generation",
+    "alias": "Text Generation",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Text Inference",
+    "alias": "Text Inference",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Text Mining",
+    "alias": "Text Mining",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Text Normalization",
+    "alias": "Text Normalization",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Text Segmentation",
+    "alias": "Text Segmentation",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Text Summarization",
+    "alias": "Text Summarization",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Text Transformation",
+    "alias": "Text Transformation",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "TTS",
+    "alias": "Text-to-speech",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Text-to-speech",
+    "alias": "Text-to-speech",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Text-image",
+    "alias": "Text2image",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Text-to-image",
+    "alias": "Text2image",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Text2image",
+    "alias": "Text2image",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Textual Adversarial Detection",
+    "alias": "Textual Adversarial Detection",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Textual Entailment",
+    "alias": "Textual Entailment",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Textual Generation",
+    "alias": "Textual Generation",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Tokenization",
+    "alias": "Tokenization",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Topic Segmentation",
+    "alias": "Topic Segmentation",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "VQA",
+    "alias": "Visual Question Answering",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Visual Question Answering",
+    "alias": "Visual Question Answering",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Word Sense Disambiguation",
+    "alias": "Word Sense Disambiguation",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Academic Paper",
+    "alias": "Academic Paper",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Scientific Paper",
+    "alias": "Academic Paper",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Alignment",
+    "alias": "Alignment",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Attention",
+    "alias": "Attention",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "BERTScore",
+    "alias": "BERTScore",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "BLEU",
+    "alias": "BLEU",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Bilingual",
+    "alias": "Bilingual",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "CCG",
+    "alias": "CCG",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Caption",
+    "alias": "Caption",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Chain-of-thought Prompt",
+    "alias": "Chain-of-thought Prompt",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Character",
+    "alias": "Character",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Chinese",
+    "alias": "Chinese",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Combinatory Categorical Grammar",
+    "alias": "Combinatory Categorical Grammar",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Common Sense",
+    "alias": "Common Sense",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Context",
+    "alias": "Context",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Contextual Embedding",
+    "alias": "Contextual Embedding",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Conversation",
+    "alias": "Conversation",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Corpora",
+    "alias": "Corpus",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Corpus",
+    "alias": "Corpus",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Cross-Lingual",
+    "alias": "Cross-Lingual",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Danish",
+    "alias": "Danish",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Dependency Parsing",
+    "alias": "Dependency Parsing",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Dialect",
+    "alias": "Dialect",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Dialogue",
+    "alias": "Dialogue",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Discourse",
+    "alias": "Discourse",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Document",
+    "alias": "Document",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Document Embedding",
+    "alias": "Document Embedding",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Domain Adaptation",
+    "alias": "Domain Adaptation",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Dwonstream Application",
+    "alias": "Dwonstream Task",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Dwonstream Task",
+    "alias": "Dwonstream Task",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Embedding Space",
+    "alias": "Embedding Space",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Emotion",
+    "alias": "Emotion",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "English",
+    "alias": "English",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Explicit",
+    "alias": "Explicit",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Factual Consistency",
+    "alias": "Factual Consistency",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Fake News",
+    "alias": "Fake News Detection",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Farsi",
+    "alias": "Farsi",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "French",
+    "alias": "French",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "GLUE",
+    "alias": "GLUE",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "German",
+    "alias": "German",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Grammar",
+    "alias": "Grammar",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Grammatical",
+    "alias": "Grammar",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Hallucinate",
+    "alias": "Hallucination",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Hallucination",
+    "alias": "Hallucination",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Implicit",
+    "alias": "Implicit",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "ICL",
+    "alias": "In-context Learning",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "In-context",
+    "alias": "In-context Learning",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "In-context Learner",
+    "alias": "In-context Learning",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "In-context Learning",
+    "alias": "In-context Learning",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Indian",
+    "alias": "Indian",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Italian",
+    "alias": "Italian",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Japanese",
+    "alias": "Japanese",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Key Phrase",
+    "alias": "Key Phrase",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Key Point",
+    "alias": "Key Point",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Knowledge",
+    "alias": "Knowledge",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "KB",
+    "alias": "Knowledge Base",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Knowledge Base",
+    "alias": "Knowledge Base",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Knowledge Base Question Answering",
+    "alias": "Knowledge Base Question Answering",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "KBQA",
+    "alias": "Knowledge Based Question Answering",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Knowledge Based Question Answering",
+    "alias": "Knowledge Based Question Answering",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Knowledge Graph",
+    "alias": "Knowledge Graph",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Language",
+    "alias": "Language",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "LM",
+    "alias": "Language Model",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Language Model",
+    "alias": "Language Model",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "LLM",
+    "alias": "Large Language Model",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Large Language Model",
+    "alias": "Large Language Model",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Latin",
+    "alias": "Latin",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Lexic",
+    "alias": "Lexic",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Long Context",
+    "alias": "Long Document",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Long Document",
+    "alias": "Long Document",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Long Sentence",
+    "alias": "Long Document",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Long Text",
+    "alias": "Long Document",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Lyric",
+    "alias": "Lyric",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "MLM",
+    "alias": "Masked Language Model",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Masked Language Model",
+    "alias": "Masked Language Model",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Metaphor",
+    "alias": "Metaphor",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Monolingual",
+    "alias": "Monolingual",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Moral",
+    "alias": "Moral",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Moral Bias",
+    "alias": "Moral Bias",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Multi-party Dialogue",
+    "alias": "Multi-party Dialogue",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Multilingual",
+    "alias": "Multilingual",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "NER",
+    "alias": "Named Entity Recognition",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Named Entity Recognition",
+    "alias": "Named Entity Recognition",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Narrative",
+    "alias": "Narrative",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Natural Language Explanation",
+    "alias": "Natural Language Explanation",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "NLP",
+    "alias": "Natural Language Processing",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Natural Language Processing",
+    "alias": "Natural Language Processing",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Natural Language Understanding",
+    "alias": "Natural Language Understanding",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Open-Domain Dialogue",
+    "alias": "Open-Domain Dialogue",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "OOV",
+    "alias": "Out-of-vocabulary",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Out-of-vocabulary",
+    "alias": "Out-of-vocabulary",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "POS Tagging",
+    "alias": "POS Tagging",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Part-of-Speech Tagging",
+    "alias": "POS Tagging",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Paragraph",
+    "alias": "Paragraph",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Passage",
+    "alias": "Passage",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Perplexity",
+    "alias": "Perplexity",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Phrase",
+    "alias": "Phrase",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Polysemous",
+    "alias": "Polysemous",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Positional Enconding",
+    "alias": "Positional Encoding",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Pre-trained Autoregressive",
+    "alias": "Pre-trained Autoregressive",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Pre-trained Autoregressive Language Model",
+    "alias": "Pre-trained Autoregressive Language Model",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "PLM",
+    "alias": "Pre-trained Language Model",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Pre-trained Language Model",
+    "alias": "Pre-trained Language Model",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Prompt",
+    "alias": "Prompt",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Prompt Learning",
+    "alias": "Prompt Learning",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Query",
+    "alias": "Query",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Representation",
+    "alias": "Representation",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Retrieval Augmentation",
+    "alias": "Retrieval Augmentation",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Review",
+    "alias": "Review",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Romance",
+    "alias": "Romance",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Rouge",
+    "alias": "Rouge",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Rouge-L",
+    "alias": "Rouge-L",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Scaling Law",
+    "alias": "Scaling Law",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Scientific Text",
+    "alias": "Scientific Text",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Selective Prediction",
+    "alias": "Selective Prediction",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Self-Attention",
+    "alias": "Self-Attention",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Semantic",
+    "alias": "Semantic",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Sentence",
+    "alias": "Sentence",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Simile",
+    "alias": "Simile",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Social Media",
+    "alias": "Social Media",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Speech",
+    "alias": "Speech",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Stop Words",
+    "alias": "Stop Words",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Sub-word",
+    "alias": "Sub-word",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Summarization",
+    "alias": "Summarization",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Summarize",
+    "alias": "Summarization",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "SuperGLUE",
+    "alias": "SuperGLUE",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Survey",
+    "alias": "Survey",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Syntax",
+    "alias": "Syntax",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Synthetic Language",
+    "alias": "Synthetic Language",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "TF-IDF",
+    "alias": "TF-IDF",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Taxonomy",
+    "alias": "Taxonomy",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "TKG",
+    "alias": "Temporal Knowledge Graph",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Temporal Knowledge Graph",
+    "alias": "Temporal Knowledge Graph",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Text",
+    "alias": "Text",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Text Embedding",
+    "alias": "Text Embedding",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Text Understanding",
+    "alias": "Text Understanding",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Textual",
+    "alias": "Textual",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Textual Reinforcement Learning",
+    "alias": "Textual Reinforcement Learning",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Token",
+    "alias": "Token",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Topic Modeling",
+    "alias": "Topic Modeling",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Transcript",
+    "alias": "Transcript",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Transcription",
+    "alias": "Transcription",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Translation",
+    "alias": "Translation",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Two-party Dialogue",
+    "alias": "Two-party Dialogue",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "UniEval",
+    "alias": "UniEval",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Video-and-Language",
+    "alias": "Video-and-Language",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Vision-Language",
+    "alias": "Vision-and-Language",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Vision-and-Language",
+    "alias": "Vision-and-Language",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Vocabulary",
+    "alias": "Vocabulary",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Weak Supervision",
+    "alias": "Weakly Supervised Learning",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Weakly Supervised Learning",
+    "alias": "Weakly Supervised Learning",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Word Cloud",
+    "alias": "Word Cloud",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Word Embedding",
+    "alias": "Word Embedding",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Zero-shot Learning",
+    "alias": "Zero-shot Learning",
+    "score": 10
+  }
 ]

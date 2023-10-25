@@ -1,162 +1,194 @@
 [
-    {
-        "category": "Graph Model",
-        "word": "E-GraphSAGE",
-        "alias": "E-GraphSAGE"
-    },
-    {
-        "category": "Graph Model",
-        "word": "GAT",
-        "alias": "Graph Attention Networks"
-    },
-    {
-        "category": "Graph Model",
-        "word": "GCN",
-        "alias": "Graph Convolutional Network"
-    },
-    {
-        "category": "Graph Model",
-        "word": "Graph Attention Networks",
-        "alias": "Graph Attention Networks"
-    },
-    {
-        "category": "Graph Model",
-        "word": "Graph Convolutional Network",
-        "alias": "Graph Convolutional Network"
-    },
-    {
-        "category": "Graph Model",
-        "word": "GraphSAGE",
-        "alias": "GraphSAGE"
-    },
-    {
-        "category": "Graph Model",
-        "word": "Message-Passing",
-        "alias": "Message-Passing"
-    },
-    {
-        "category": "Graph Task",
-        "word": "Edge Anomaly Detection",
-        "alias": "Edge Anomaly Detection"
-    },
-    {
-        "category": "Graph Task",
-        "word": "Edge Classification",
-        "alias": "Edge Classification"
-    },
-    {
-        "category": "Graph Task",
-        "word": "Edge Prediction",
-        "alias": "Edge Prediction"
-    },
-    {
-        "category": "Graph Task",
-        "word": "Graph Anomaly Detection",
-        "alias": "Graph Anomaly Detection"
-    },
-    {
-        "category": "Graph Task",
-        "word": "Graph Classification",
-        "alias": "Graph Classification"
-    },
-    {
-        "category": "Graph Task",
-        "word": "Node Anomaly Detection",
-        "alias": "Node Anomaly Detection"
-    },
-    {
-        "category": "Graph Task",
-        "word": "Node Classification",
-        "alias": "Node Classification"
-    },
-    {
-        "category": "Graph Task",
-        "word": "Subgraph Anomaly Detection",
-        "alias": "Subgraph Anomaly Detection"
-    },
-    {
-        "category": "Graph Topic",
-        "word": "Attributed Graph",
-        "alias": "Attributed Graph"
-    },
-    {
-        "category": "Graph Topic",
-        "word": "Bi-directional",
-        "alias": "Bi-directional"
-    },
-    {
-        "category": "Graph Topic",
-        "word": "Continuous Graph",
-        "alias": "Continuous Graph"
-    },
-    {
-        "category": "Graph Topic",
-        "word": "Dynamic Graph",
-        "alias": "Dynamic Graph"
-    },
-    {
-        "category": "Graph Topic",
-        "word": "Edge Embedding",
-        "alias": "Edge Embedding"
-    },
-    {
-        "category": "Graph Topic",
-        "word": "GNN",
-        "alias": "Graph Neural Network"
-    },
-    {
-        "category": "Graph Topic",
-        "word": "Graph",
-        "alias": "Graph"
-    },
-    {
-        "category": "Graph Topic",
-        "word": "Graph Embedding",
-        "alias": "Graph Embedding"
-    },
-    {
-        "category": "Graph Topic",
-        "word": "Graph Neural Network",
-        "alias": "Graph Neural Network"
-    },
-    {
-        "category": "Graph Topic",
-        "word": "Heterogeneous Graph",
-        "alias": "Heterogeneous Graph"
-    },
-    {
-        "category": "Graph Topic",
-        "word": "Homogeneous Graph",
-        "alias": "Homogeneous Graph"
-    },
-    {
-        "category": "Graph Topic",
-        "word": "Network",
-        "alias": "Network"
-    },
-    {
-        "category": "Graph Topic",
-        "word": "Node Embedding",
-        "alias": "Node Embedding"
-    },
-    {
-        "category": "Graph Topic",
-        "word": "Static Graph",
-        "alias": "Static Graph"
-    },
-    {
-        "category": "Graph Topic",
-        "word": "Topological",
-        "alias": "Topological"
-    },
-    {
-        "category": "Graph Topic",
-        "word": "Topology",
-        "alias": "Topology"
-    },
-    {
-        "category": "Graph Topic",
-        "word": "Uni-Directional",
-        "alias": "Uni-Directional"
-    }
+  {
+    "category": "Graph Model",
+    "word": "E-GraphSAGE",
+    "alias": "E-GraphSAGE",
+    "score": 10
+  },
+  {
+    "category": "Graph Model",
+    "word": "GAT",
+    "alias": "Graph Attention Networks",
+    "score": 10
+  },
+  {
+    "category": "Graph Model",
+    "word": "Graph Attention Networks",
+    "alias": "Graph Attention Networks",
+    "score": 10
+  },
+  {
+    "category": "Graph Model",
+    "word": "GCN",
+    "alias": "Graph Convolutional Network",
+    "score": 10
+  },
+  {
+    "category": "Graph Model",
+    "word": "Graph Convolutional Network",
+    "alias": "Graph Convolutional Network",
+    "score": 10
+  },
+  {
+    "category": "Graph Model",
+    "word": "GraphSAGE",
+    "alias": "GraphSAGE",
+    "score": 10
+  },
+  {
+    "category": "Graph Model",
+    "word": "Message-Passing",
+    "alias": "Message-Passing",
+    "score": 10
+  },
+  {
+    "category": "Graph Task",
+    "word": "Edge Anomaly Detection",
+    "alias": "Edge Anomaly Detection",
+    "score": 10
+  },
+  {
+    "category": "Graph Task",
+    "word": "Edge Classification",
+    "alias": "Edge Classification",
+    "score": 10
+  },
+  {
+    "category": "Graph Task",
+    "word": "Edge Prediction",
+    "alias": "Edge Prediction",
+    "score": 10
+  },
+  {
+    "category": "Graph Task",
+    "word": "Graph Anomaly Detection",
+    "alias": "Graph Anomaly Detection",
+    "score": 10
+  },
+  {
+    "category": "Graph Task",
+    "word": "Graph Classification",
+    "alias": "Graph Classification",
+    "score": 10
+  },
+  {
+    "category": "Graph Task",
+    "word": "Node Anomaly Detection",
+    "alias": "Node Anomaly Detection",
+    "score": 10
+  },
+  {
+    "category": "Graph Task",
+    "word": "Node Classification",
+    "alias": "Node Classification",
+    "score": 10
+  },
+  {
+    "category": "Graph Task",
+    "word": "Subgraph Anomaly Detection",
+    "alias": "Subgraph Anomaly Detection",
+    "score": 10
+  },
+  {
+    "category": "Graph Topic",
+    "word": "Attributed Graph",
+    "alias": "Attributed Graph",
+    "score": 10
+  },
+  {
+    "category": "Graph Topic",
+    "word": "Bi-directional",
+    "alias": "Bi-directional",
+    "score": 10
+  },
+  {
+    "category": "Graph Topic",
+    "word": "Continuous Graph",
+    "alias": "Continuous Graph",
+    "score": 10
+  },
+  {
+    "category": "Graph Topic",
+    "word": "Dynamic Graph",
+    "alias": "Dynamic Graph",
+    "score": 10
+  },
+  {
+    "category": "Graph Topic",
+    "word": "Edge Embedding",
+    "alias": "Edge Embedding",
+    "score": 10
+  },
+  {
+    "category": "Graph Topic",
+    "word": "Graph",
+    "alias": "Graph",
+    "score": 10
+  },
+  {
+    "category": "Graph Topic",
+    "word": "Graph Embedding",
+    "alias": "Graph Embedding",
+    "score": 10
+  },
+  {
+    "category": "Graph Topic",
+    "word": "GNN",
+    "alias": "Graph Neural Network",
+    "score": 10
+  },
+  {
+    "category": "Graph Topic",
+    "word": "Graph Neural Network",
+    "alias": "Graph Neural Network",
+    "score": 10
+  },
+  {
+    "category": "Graph Topic",
+    "word": "Heterogeneous Graph",
+    "alias": "Heterogeneous Graph",
+    "score": 10
+  },
+  {
+    "category": "Graph Topic",
+    "word": "Homogeneous Graph",
+    "alias": "Homogeneous Graph",
+    "score": 10
+  },
+  {
+    "category": "Graph Topic",
+    "word": "Network",
+    "alias": "Network",
+    "score": 10
+  },
+  {
+    "category": "Graph Topic",
+    "word": "Node Embedding",
+    "alias": "Node Embedding",
+    "score": 10
+  },
+  {
+    "category": "Graph Topic",
+    "word": "Static Graph",
+    "alias": "Static Graph",
+    "score": 10
+  },
+  {
+    "category": "Graph Topic",
+    "word": "Topological",
+    "alias": "Topological",
+    "score": 10
+  },
+  {
+    "category": "Graph Topic",
+    "word": "Topology",
+    "alias": "Topology",
+    "score": 10
+  },
+  {
+    "category": "Graph Topic",
+    "word": "Uni-Directional",
+    "alias": "Uni-Directional",
+    "score": 10
+  }
 ]

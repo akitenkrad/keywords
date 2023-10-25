@@ -2,111 +2,145 @@
   {
     "category": "Security Attack",
     "word": "Adversarial Attack",
-    "alias": "Adversarial Attack"
+    "alias": "Adversarial Attack",
+    "score": 10
   },
   {
     "category": "Security Attack",
     "word": "Anna Kournikova",
-    "alias": "Anna Kournikova"
+    "alias": "Anna Kournikova",
+    "score": 10
   },
   {
     "category": "Security Attack",
     "word": "CryptoLocker",
-    "alias": "CryptoLocker"
+    "alias": "CryptoLocker",
+    "score": 10
   },
   {
     "category": "Security Attack",
     "word": "ILOVEYOU",
-    "alias": "ILOVEYOU"
+    "alias": "ILOVEYOU",
+    "score": 10
   },
   {
     "category": "Security Attack",
     "word": "Mirai",
-    "alias": "Mirai"
+    "alias": "Mirai",
+    "score": 10
   },
   {
     "category": "Security Attack",
     "word": "MyDoom",
-    "alias": "MyDoom"
+    "alias": "MyDoom",
+    "score": 10
   },
   {
     "category": "Security Attack",
     "word": "Netsky",
-    "alias": "Netsky"
+    "alias": "Netsky",
+    "score": 10
   },
   {
     "category": "Security Attack",
     "word": "Petya",
-    "alias": "Petya"
+    "alias": "Petya",
+    "score": 10
   },
   {
     "category": "Security Attack",
     "word": "Sasser",
-    "alias": "Sasser"
+    "alias": "Sasser",
+    "score": 10
   },
   {
     "category": "Security Attack",
     "word": "Slammer",
-    "alias": "Slammer"
+    "alias": "Slammer",
+    "score": 10
   },
   {
     "category": "Security Attack",
     "word": "Storm Worm",
-    "alias": "Storm Worm"
+    "alias": "Storm Worm",
+    "score": 10
   },
   {
     "category": "Security Attack",
     "word": "Stuxnet",
-    "alias": "Stuxnet"
+    "alias": "Stuxnet",
+    "score": 10
   },
   {
     "category": "Security Attack",
     "word": "WannaCry",
-    "alias": "WannaCry"
+    "alias": "WannaCry",
+    "score": 10
   },
   {
     "category": "Security Task",
     "word": "Bot Detection",
-    "alias": "Bot Detection"
+    "alias": "Bot Detection",
+    "score": 10
   },
   {
     "category": "Security Task",
     "word": "Botnet Detection",
-    "alias": "Botnet Detection"
+    "alias": "Botnet Detection",
+    "score": 10
   },
   {
     "category": "Security Topic",
     "word": "AI Security",
-    "alias": "AI Security"
+    "alias": "AI Security",
+    "score": 10
   },
   {
     "category": "Security Topic",
     "word": "Adversarial Purification",
-    "alias": "Adversarial Purification"
+    "alias": "Adversarial Purification",
+    "score": 10
   },
   {
     "category": "Security Topic",
     "word": "Bot",
-    "alias": "Bot"
+    "alias": "Bot",
+    "score": 10
   },
   {
     "category": "Security Topic",
     "word": "Botnet",
-    "alias": "Botnet"
+    "alias": "Botnet",
+    "score": 10
   },
   {
     "category": "Security Topic",
     "word": "Privacy",
-    "alias": "Privacy"
+    "alias": "Privacy",
+    "score": 10
   },
   {
     "category": "Security Topic",
     "word": "Security",
-    "alias": "Security"
+    "alias": "Security",
+    "score": 10
+  },
+  {
+    "category": "Security Topic",
+    "word": "Vulnerabilities",
+    "alias": "Vulnerability",
+    "score": 10
+  },
+  {
+    "category": "Security Topic",
+    "word": "Vulnerability",
+    "alias": "Vulnerability",
+    "score": 10
   },
   {
     "category": "Security Topic",
     "word": "Zero Trust",
-    "alias": "Zero Trust"
+    "alias": "Zero Trust",
+    "score": 10
   }
 ]
