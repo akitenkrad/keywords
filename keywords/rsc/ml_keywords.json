@@ -1156,5 +1156,17 @@
     "word": "tangent",
     "alias": "tangent",
     "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Semi-Supervised Learning",
+    "alias": "Semi-Supervised Learning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Semi-Supervised Training",
+    "alias": "Semi-Supervised Training",
+    "score": 10
   }
 ]

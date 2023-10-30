@@ -142,5 +142,11 @@
     "word": "Zero Trust",
     "alias": "Zero Trust",
     "score": 10
+  },
+  {
+    "category": "Security Topic",
+    "word": "Model Extraction",
+    "alias": "Model Extraction",
+    "score": 10
   }
 ]

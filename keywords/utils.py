@@ -49,7 +49,7 @@ def _plus_s(word: str):
     return out
 
 
-def extract_section_text(text, section_1, section_2) -> str:
+def extract_section_text(text: str, section_1: str, section_2: str) -> str:
     start_ptn = _plus_s(section_1.lower())
     end_ptn = _plus_s(section_2.lower())
 

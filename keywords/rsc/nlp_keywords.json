@@ -1792,5 +1792,59 @@
     "word": "Zero-shot Learning",
     "alias": "Zero-shot Learning",
     "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Stance Detection",
+    "alias": "Stance Detection",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Fact Check",
+    "alias": "Fact Verification",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Content Detection",
+    "alias": "Content Detection",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Generative Adversarial Attack",
+    "alias": "Generative Adversarial Attack",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Slot Filling",
+    "alias": "Slot Filling",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "AI-generated Text Detection",
+    "alias": "AI-generated Text Detection",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "T5",
+    "alias": "T5",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Instruction Tuning",
+    "alias": "Instruction Tuning",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Style Transfer",
+    "alias": "Style Transfer",
+    "score": 10
   }
 ]
