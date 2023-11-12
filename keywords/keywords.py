@@ -26,6 +26,7 @@ class KeywordCategory(Enum):
     SECURITY_TOPIC = "Security Topic"
     SECURITY_ATTACK = "Security Attack"
     SECURITY_TASK = "Security Task"
+    OTHER = "Other"
 
     @classmethod
     def from_str(cls, w: str) -> KeywordCategory:
@@ -122,7 +123,7 @@ class Keyword(object):
     def get_keyword_ptn(self) -> re.Pattern:
         _keyword = self.word.lower().replace("-", r"(\-|\s)*").replace(" ", r"(\s|\-)*")
         return re.compile(
-            rf"(?P<PREK>(^|\s|\()+)(?P<KEYWORD>{_keyword}(s|ing|al|d|ed|\-[^\s]+)*)(?P<POSTK>($|\s|\.|,|:|;|\))+)",
+            rf"""(?P<PREK>(^|\s|\(|'|")+)(?P<KEYWORD>{_keyword}(s|ing|al|d|ed|\-[^\s]+)*)(?P<POSTK>($|\s|\.|,|:|;|\)|'|")+)""",
             flags=re.IGNORECASE | re.MULTILINE | re.DOTALL,
         )
 
@@ -132,3 +133,13 @@ class Keyword(object):
             "word": self.word,
             "alias": self.alias,
         }
+
+
+def extract_keywords(text: str, keywords: list[Keyword]) -> list[Keyword]:
+    extracted = []
+    for kw in keywords:
+        ptn = kw.get_keyword_ptn()
+        for m in ptn.finditer(text):
+            extracted.append((m.start(), m.end(), kw))
+    extracted = sorted(extracted, key=lambda x: x[0])
+    return [kw for _, _, kw in extracted]

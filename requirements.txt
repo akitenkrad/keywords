@@ -18,6 +18,7 @@ plotly
 progressbar
 py-cpuinfo
 pykakasi
+pypdf
 pytest
 python-dateutil
 python-dotenv
