@@ -103,6 +103,12 @@
   },
   {
     "category": "NLP Model",
+    "word": "GPT-4 turbo",
+    "alias": "GPT-4 turbo",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
     "word": "InstructGPT",
     "alias": "InstructGPT",
     "score": 10
@@ -494,13 +500,13 @@
   {
     "category": "NLP Task",
     "word": "MT",
-    "alias": "Machine Translation",
+    "alias": "Neural Machine Translation",
     "score": 10
   },
   {
     "category": "NLP Task",
     "word": "Machine Translation",
-    "alias": "Machine Translation",
+    "alias": "Neural Machine Translation",
     "score": 10
   },
   {
@@ -873,25 +879,25 @@
     "category": "NLP Topic",
     "word": "Academic Paper",
     "alias": "Academic Paper",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Scientific Paper",
     "alias": "Academic Paper",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Alignment",
     "alias": "Alignment",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Attention",
     "alias": "Attention",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
@@ -909,19 +915,19 @@
     "category": "NLP Topic",
     "word": "Bilingual",
     "alias": "Bilingual",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "CCG",
     "alias": "CCG",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Caption",
     "alias": "Caption",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
@@ -933,13 +939,13 @@
     "category": "NLP Topic",
     "word": "Character",
     "alias": "Character",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Chinese",
     "alias": "Chinese",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
@@ -951,13 +957,13 @@
     "category": "NLP Topic",
     "word": "Common Sense",
     "alias": "Common Sense",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Context",
     "alias": "Context",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
@@ -969,34 +975,34 @@
     "category": "NLP Topic",
     "word": "Conversation",
     "alias": "Conversation",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Corpora",
     "alias": "Corpus",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Corpus",
     "alias": "Corpus",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Cross-Lingual",
     "alias": "Cross-Lingual",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Danish",
     "alias": "Danish",
-    "score": 10
+    "score": 1
   },
   {
-    "category": "NLP Topic",
+    "category": "NLP Task",
     "word": "Dependency Parsing",
     "alias": "Dependency Parsing",
     "score": 10
@@ -1005,25 +1011,25 @@
     "category": "NLP Topic",
     "word": "Dialect",
     "alias": "Dialect",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Dialogue",
     "alias": "Dialogue",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Discourse",
     "alias": "Discourse",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Document",
     "alias": "Document",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
@@ -1041,43 +1047,43 @@
     "category": "NLP Topic",
     "word": "Dwonstream Application",
     "alias": "Dwonstream Task",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Dwonstream Task",
     "alias": "Dwonstream Task",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Embedding Space",
     "alias": "Embedding Space",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Emotion",
     "alias": "Emotion",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "English",
     "alias": "English",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Explicit",
     "alias": "Explicit",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Factual Consistency",
     "alias": "Factual Consistency",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
@@ -1089,13 +1095,13 @@
     "category": "NLP Topic",
     "word": "Farsi",
     "alias": "Farsi",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "French",
     "alias": "French",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
@@ -1107,37 +1113,49 @@
     "category": "NLP Topic",
     "word": "German",
     "alias": "German",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Grammar",
     "alias": "Grammar",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Grammatical",
     "alias": "Grammar",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Hallucinate",
     "alias": "Hallucination",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Hallucination",
     "alias": "Hallucination",
+    "score": 1
+  },
+  {
+    "category": "NLP Task",
+    "word": "Hallucination Detection",
+    "alias": "Hallucination Detection",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Hallucination Recognition",
+    "alias": "Hallucination Detection",
     "score": 10
   },
   {
     "category": "NLP Topic",
     "word": "Implicit",
     "alias": "Implicit",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
@@ -1167,58 +1185,58 @@
     "category": "NLP Topic",
     "word": "Indian",
     "alias": "Indian",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Italian",
     "alias": "Italian",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Japanese",
     "alias": "Japanese",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Key Phrase",
     "alias": "Key Phrase",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Key Point",
     "alias": "Key Point",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Knowledge",
     "alias": "Knowledge",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "KB",
     "alias": "Knowledge Base",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Knowledge Base",
     "alias": "Knowledge Base",
-    "score": 10
+    "score": 1
   },
   {
-    "category": "NLP Topic",
+    "category": "NLP Task",
     "word": "Knowledge Base Question Answering",
     "alias": "Knowledge Base Question Answering",
     "score": 10
   },
   {
-    "category": "NLP Topic",
+    "category": "NLP Task",
     "word": "KBQA",
     "alias": "Knowledge Based Question Answering",
     "score": 10
@@ -1233,25 +1251,25 @@
     "category": "NLP Topic",
     "word": "Knowledge Graph",
     "alias": "Knowledge Graph",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Language",
     "alias": "Language",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "LM",
     "alias": "Language Model",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Language Model",
     "alias": "Language Model",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
@@ -1269,43 +1287,43 @@
     "category": "NLP Topic",
     "word": "Latin",
     "alias": "Latin",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Lexic",
     "alias": "Lexic",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Long Context",
     "alias": "Long Document",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Long Document",
     "alias": "Long Document",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Long Sentence",
     "alias": "Long Document",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Long Text",
     "alias": "Long Document",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Lyric",
     "alias": "Lyric",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
@@ -1323,28 +1341,28 @@
     "category": "NLP Topic",
     "word": "Metaphor",
     "alias": "Metaphor",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Monolingual",
     "alias": "Monolingual",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Moral",
     "alias": "Moral",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Moral Bias",
     "alias": "Moral Bias",
-    "score": 10
+    "score": 1
   },
   {
-    "category": "NLP Topic",
+    "category": "NLP Task",
     "word": "Multi-party Dialogue",
     "alias": "Multi-party Dialogue",
     "score": 10
@@ -1353,16 +1371,16 @@
     "category": "NLP Topic",
     "word": "Multilingual",
     "alias": "Multilingual",
-    "score": 10
+    "score": 1
   },
   {
-    "category": "NLP Topic",
+    "category": "NLP Task",
     "word": "NER",
     "alias": "Named Entity Recognition",
     "score": 10
   },
   {
-    "category": "NLP Topic",
+    "category": "NLP Task",
     "word": "Named Entity Recognition",
     "alias": "Named Entity Recognition",
     "score": 10
@@ -1371,10 +1389,10 @@
     "category": "NLP Topic",
     "word": "Narrative",
     "alias": "Narrative",
-    "score": 10
+    "score": 1
   },
   {
-    "category": "NLP Topic",
+    "category": "NLP Task",
     "word": "Natural Language Explanation",
     "alias": "Natural Language Explanation",
     "score": 10
@@ -1383,22 +1401,22 @@
     "category": "NLP Topic",
     "word": "NLP",
     "alias": "Natural Language Processing",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Natural Language Processing",
     "alias": "Natural Language Processing",
-    "score": 10
+    "score": 1
   },
   {
-    "category": "NLP Topic",
+    "category": "NLP Task",
     "word": "Natural Language Understanding",
     "alias": "Natural Language Understanding",
     "score": 10
   },
   {
-    "category": "NLP Topic",
+    "category": "NLP Task",
     "word": "Open-Domain Dialogue",
     "alias": "Open-Domain Dialogue",
     "score": 10
@@ -1407,37 +1425,37 @@
     "category": "NLP Topic",
     "word": "OOV",
     "alias": "Out-of-vocabulary",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Out-of-vocabulary",
     "alias": "Out-of-vocabulary",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "POS Tagging",
     "alias": "POS Tagging",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Part-of-Speech Tagging",
     "alias": "POS Tagging",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Paragraph",
     "alias": "Paragraph",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Passage",
     "alias": "Passage",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
@@ -1449,13 +1467,13 @@
     "category": "NLP Topic",
     "word": "Phrase",
     "alias": "Phrase",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Polysemous",
     "alias": "Polysemous",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
@@ -1465,8 +1483,8 @@
   },
   {
     "category": "NLP Topic",
-    "word": "Pre-trained Autoregressive",
-    "alias": "Pre-trained Autoregressive",
+    "word": "Pre-trained Autoregression",
+    "alias": "Pre-trained Autoregression",
     "score": 10
   },
   {
@@ -1503,13 +1521,13 @@
     "category": "NLP Topic",
     "word": "Query",
     "alias": "Query",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Representation",
     "alias": "Representation",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
@@ -1521,13 +1539,13 @@
     "category": "NLP Topic",
     "word": "Review",
     "alias": "Review",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Romance",
     "alias": "Romance",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
@@ -1551,7 +1569,7 @@
     "category": "NLP Topic",
     "word": "Scientific Text",
     "alias": "Scientific Text",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
@@ -1569,43 +1587,43 @@
     "category": "NLP Topic",
     "word": "Semantic",
     "alias": "Semantic",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Sentence",
     "alias": "Sentence",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Simile",
     "alias": "Simile",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Social Media",
     "alias": "Social Media",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Speech",
     "alias": "Speech",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Stop Words",
     "alias": "Stop Words",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Sub-word",
     "alias": "Sub-word",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
@@ -1629,19 +1647,19 @@
     "category": "NLP Topic",
     "word": "Survey",
     "alias": "Survey",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Syntax",
     "alias": "Syntax",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Synthetic Language",
     "alias": "Synthetic Language",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
@@ -1653,7 +1671,7 @@
     "category": "NLP Topic",
     "word": "Taxonomy",
     "alias": "Taxonomy",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
@@ -1671,7 +1689,7 @@
     "category": "NLP Topic",
     "word": "Text",
     "alias": "Text",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
@@ -1689,7 +1707,7 @@
     "category": "NLP Topic",
     "word": "Textual",
     "alias": "Textual",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
@@ -1701,7 +1719,7 @@
     "category": "NLP Topic",
     "word": "Token",
     "alias": "Token",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
@@ -1713,19 +1731,19 @@
     "category": "NLP Topic",
     "word": "Transcript",
     "alias": "Transcript",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Transcription",
     "alias": "Transcription",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
     "word": "Translation",
     "alias": "Translation",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
@@ -1737,7 +1755,7 @@
     "category": "NLP Topic",
     "word": "UniEval",
     "alias": "UniEval",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",
@@ -1761,7 +1779,7 @@
     "category": "NLP Topic",
     "word": "Vocabulary",
     "alias": "Vocabulary",
-    "score": 10
+    "score": 1
   },
   {
     "category": "NLP Topic",

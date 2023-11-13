@@ -93,13 +93,13 @@
     "category": "Graph Topic",
     "word": "Attributed Graph",
     "alias": "Attributed Graph",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Graph Topic",
     "word": "Bi-directional",
     "alias": "Bi-directional",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Graph Topic",
@@ -111,7 +111,7 @@
     "category": "Graph Topic",
     "word": "Dynamic Graph",
     "alias": "Dynamic Graph",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Graph Topic",
@@ -123,7 +123,7 @@
     "category": "Graph Topic",
     "word": "Graph",
     "alias": "Graph",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Graph Topic",
@@ -147,19 +147,19 @@
     "category": "Graph Topic",
     "word": "Heterogeneous Graph",
     "alias": "Heterogeneous Graph",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Graph Topic",
     "word": "Homogeneous Graph",
     "alias": "Homogeneous Graph",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Graph Topic",
     "word": "Network",
     "alias": "Network",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Graph Topic",
@@ -171,24 +171,24 @@
     "category": "Graph Topic",
     "word": "Static Graph",
     "alias": "Static Graph",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Graph Topic",
     "word": "Topological",
     "alias": "Topological",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Graph Topic",
     "word": "Topology",
     "alias": "Topology",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Graph Topic",
     "word": "Uni-Directional",
     "alias": "Uni-Directional",
-    "score": 10
+    "score": 1
   }
 ]

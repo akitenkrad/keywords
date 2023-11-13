@@ -16,4 +16,4 @@ def test_calculate():
 
     assert factors.loc[0, "Named Entity Recognition"] > 1.0
     assert factors.loc[5, "Named Entity Recognition"] < 1.0
-    assert factors.loc[5, "Machine Translation"] > 1.0
+    assert factors.loc[5, "Neural Machine Translation"] > 1.0

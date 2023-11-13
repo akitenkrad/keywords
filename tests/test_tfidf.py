@@ -14,5 +14,5 @@ def test_calculate():
 
     scores = TfIdf.calculate(input_text)
 
-    assert scores.loc[0, "Named Entity Recognition"] > scores.loc[0, "Machine Translation"]
-    assert scores.loc[5, "Named Entity Recognition"] < scores.loc[5, "Machine Translation"]
+    assert scores.loc[0, "Named Entity Recognition"] > scores.loc[0, "Neural Machine Translation"]
+    assert scores.loc[5, "Named Entity Recognition"] < scores.loc[5, "Neural Machine Translation"]

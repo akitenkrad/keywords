@@ -3,13 +3,13 @@
     "category": "Machine Learning Topic",
     "word": "AI",
     "alias": "AI",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Accuracy",
     "alias": "Accuracy",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -33,13 +33,13 @@
     "category": "Machine Learning Topic",
     "word": "Agent",
     "alias": "Agent",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Annotation",
     "alias": "Annotation",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -57,13 +57,13 @@
     "category": "Machine Learning Topic",
     "word": "Bias",
     "alias": "Bias",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Calibration",
     "alias": "Calibration",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -75,31 +75,31 @@
     "category": "Machine Learning Topic",
     "word": "Classification",
     "alias": "Classification",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Classifier",
     "alias": "Classifier",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Clustering",
     "alias": "Clustering",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Compositionality",
     "alias": "Compositionality",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Confidence",
     "alias": "Confidence",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -111,7 +111,7 @@
     "category": "Machine Learning Topic",
     "word": "Contamination",
     "alias": "Contamination",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -159,7 +159,7 @@
     "category": "Machine Learning Topic",
     "word": "Correlation",
     "alias": "Correlation",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -189,37 +189,37 @@
     "category": "Machine Learning Topic",
     "word": "Data Distribution",
     "alias": "Data Distribution",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Data-driven",
     "alias": "Data-driven",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Dataset",
     "alias": "Dataset",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Decoder",
     "alias": "Decoder",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Deep Learning",
     "alias": "Deep Learning",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Deep-Learning Based",
     "alias": "Deep Learning",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -231,73 +231,73 @@
     "category": "Machine Learning Topic",
     "word": "Detector",
     "alias": "Detector",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Downstream Task",
     "alias": "Downstream Task",
-    "score": 10
-  },
-  {
-    "category": "Machine Learning Topic",
-    "word": "Emulate",
-    "alias": "Emulate",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Emulate",
     "alias": "Emulator",
-    "score": 10
+    "score": 1
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Emulator",
+    "alias": "Emulator",
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Encoder",
     "alias": "Encoder",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "E2E",
     "alias": "End-to-end",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "End-to-end",
     "alias": "End-to-end",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Ensemble",
     "alias": "Ensemble",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Ensembling",
     "alias": "Ensemble",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Estimation",
     "alias": "Estimation",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Estimator",
     "alias": "Estimator",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Explainability",
     "alias": "Explainability",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -309,13 +309,13 @@
     "category": "Machine Learning Topic",
     "word": "F1",
     "alias": "F1",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "FPR",
     "alias": "FPR",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -327,19 +327,25 @@
     "category": "Machine Learning Topic",
     "word": "False Positive Ratio",
     "alias": "False Positive Ratio",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Feed Foward Layer",
     "alias": "Feed Foward Network",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Feed Foward Network",
     "alias": "Feed Foward Network",
-    "score": 10
+    "score": 1
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "FFN",
+    "alias": "Feed Foward Network",
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -375,12 +381,18 @@
     "category": "Machine Learning Topic",
     "word": "Generalization",
     "alias": "Generalization",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Generative",
     "alias": "Generative",
+    "score": 1
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Generative AI",
+    "alias": "Generative AI",
     "score": 10
   },
   {
@@ -399,7 +411,7 @@
     "category": "Machine Learning Topic",
     "word": "Heterogeneous",
     "alias": "Heterogeneous",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -423,7 +435,7 @@
     "category": "Machine Learning Topic",
     "word": "Homogeneous",
     "alias": "Homogeneous",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -435,13 +447,13 @@
     "category": "Machine Learning Topic",
     "word": "In-domain",
     "alias": "In-domain",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Inference",
     "alias": "Inference",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -459,13 +471,13 @@
     "category": "Machine Learning Topic",
     "word": "KL-divergence",
     "alias": "KL-divergence",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Key-value",
     "alias": "Key-value",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -507,37 +519,37 @@
     "category": "Machine Learning Topic",
     "word": "Labor-intensive",
     "alias": "Labor-intensive",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Labour-intensive",
     "alias": "Labor-intensive",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Embedding Space",
     "alias": "Latent Space",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Latent Space",
     "alias": "Latent Space",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Layer-wise",
     "alias": "Layer-wise",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Localization",
     "alias": "Localization",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -567,13 +579,13 @@
     "category": "Machine Learning Topic",
     "word": "Maximization",
     "alias": "Maximization",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Meta",
     "alias": "Meta",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -585,7 +597,7 @@
     "category": "Machine Learning Topic",
     "word": "Minimization",
     "alias": "Minimization",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -615,25 +627,25 @@
     "category": "Machine Learning Topic",
     "word": "Multi-class",
     "alias": "Multi-class",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Multi-label",
     "alias": "Multi-class",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Multi-mordal",
     "alias": "Multi-mordal",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Multi-task",
     "alias": "Multi-task",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -651,19 +663,19 @@
     "category": "Machine Learning Topic",
     "word": "NN",
     "alias": "Neural Network",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Neural Network",
     "alias": "Neural Network",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Noise",
     "alias": "Noise",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -687,13 +699,13 @@
     "category": "Machine Learning Topic",
     "word": "Open-Domain",
     "alias": "Open-Domain",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Optimization",
     "alias": "Optimization",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -717,37 +729,37 @@
     "category": "Machine Learning Topic",
     "word": "Overfit",
     "alias": "Overfit",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Overfitted",
     "alias": "Overfit",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Overfitting",
     "alias": "Overfit",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Precision",
     "alias": "Precision",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Prediction",
     "alias": "Prediction",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Probabilistic",
     "alias": "Probabilistic",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -777,25 +789,25 @@
     "category": "Machine Learning Topic",
     "word": "Rank",
     "alias": "Rank",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Recall",
     "alias": "Recall",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Recognition",
     "alias": "Recognition",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Recognizer",
     "alias": "Recognizer",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -813,7 +825,7 @@
     "category": "Machine Learning Topic",
     "word": "Reconstruction",
     "alias": "Reconstruction",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -825,13 +837,13 @@
     "category": "Machine Learning Topic",
     "word": "Redundancy",
     "alias": "Redundancy",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Regularization",
     "alias": "Regularization",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -843,13 +855,13 @@
     "category": "Machine Learning Topic",
     "word": "Reliability",
     "alias": "Reliability",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Reliable",
     "alias": "Reliability",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -861,25 +873,25 @@
     "category": "Machine Learning Topic",
     "word": "Robust",
     "alias": "Robustness",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Robustness",
     "alias": "Robustness",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Rule-based",
     "alias": "Rule-based",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Sampling",
     "alias": "Sampling",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -921,19 +933,19 @@
     "category": "Machine Learning Topic",
     "word": "Semantic Similarity",
     "alias": "Semantic Similarity",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Sensitivity",
     "alias": "Sensitivity",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Similarity",
     "alias": "Similarity",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -975,37 +987,37 @@
     "category": "Machine Learning Topic",
     "word": "Synthesize",
     "alias": "Synthesize",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Task-specific",
     "alias": "Task-specific",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Test",
     "alias": "Test",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Theoretical Framework",
     "alias": "Theoretical Framework",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Theory",
     "alias": "Theory",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Time-consuming",
     "alias": "Time-consuming",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -1017,7 +1029,7 @@
     "category": "Machine Learning Topic",
     "word": "Train",
     "alias": "Train",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -1029,19 +1041,19 @@
     "category": "Machine Learning Topic",
     "word": "Unbalanced",
     "alias": "Unbalanced Data",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Unbalanced Data",
     "alias": "Unbalanced Data",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "Unseen Domain",
     "alias": "Unseen Domain",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -1064,7 +1076,7 @@
   {
     "category": "Machine Learning Topic",
     "word": "Weakly-supervised",
-    "alias": "Weakly-supervised",
+    "alias": "Weakly-supervised Learning",
     "score": 10
   },
   {
@@ -1083,13 +1095,13 @@
     "category": "Machine Learning Topic",
     "word": "cosine",
     "alias": "cosine",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "github.com",
     "alias": "github.com",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -1101,61 +1113,61 @@
     "category": "Machine Learning Topic",
     "word": "many-to-many",
     "alias": "many-to-many",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "one-to-many",
     "alias": "one-to-many",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "one-to-one",
     "alias": "one-to-one",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "pre-train",
     "alias": "pre-train",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "self-train",
     "alias": "self-train",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "sine",
     "alias": "sine",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "SOTA",
     "alias": "state-of-the-art",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "state-of-the-art",
     "alias": "state-of-the-art",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "synthetic data",
     "alias": "synthetic data",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
     "word": "tangent",
     "alias": "tangent",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Machine Learning Topic",
@@ -1168,5 +1180,23 @@
     "word": "Semi-Supervised Training",
     "alias": "Semi-Supervised Training",
     "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Hopping",
+    "alias": "Hopping",
+    "score": 1
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Softmax",
+    "alias": "Softmax",
+    "score": 1
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Activation Function",
+    "alias": "Activation Function",
+    "score": 1
   }
 ]
