@@ -20,13 +20,12 @@ class SpecializationFactor(object):
     def calculate(
         cls, texts: list[str], remove_stopwords: bool = False, **kwargs
     ) -> tuple[pd.DataFrame, dict, pd.DataFrame]:
-        kws: list[tuple[str, Pattern]] = sorted(
-            list(set((keyword.keyword, keyword.get_keyword_ptn()) for keyword in Keyword.load_keywords())),
-            key=lambda x: x[0],
-        )
-
-        if remove_stopwords:
-            kws = [kw for kw in kws if kw[0].score > 1]
+        kws: list[tuple[str, Pattern]] = []
+        for keyword in Keyword.load_keywords():
+            if remove_stopwords and keyword.score <= 1:
+                continue
+            kws.append((keyword.keyword, keyword.get_keyword_ptn()))
+        sorted(list(set(kws)), key=lambda x: x[0])
 
         # calculate ratio for all texts and ratio by each text
         count_all: dict[str, float] = {kw[0]: 0 for kw in kws}
@@ -65,13 +64,12 @@ class TfIdf(object):
     def calculate(
         cls, texts: list[str], remove_stopwords: bool = False, **kwargs
     ) -> tuple[pd.DataFrame, dict, pd.DataFrame]:
-        kws: list[tuple[str, Pattern]] = sorted(
-            list(set((keyword.keyword, keyword.get_keyword_ptn()) for keyword in Keyword.load_keywords())),
-            key=lambda x: x[0],
-        )
-
-        if remove_stopwords:
-            kws = [kw for kw in kws if kw[0].score > 1]
+        kws: list[tuple[str, Pattern]] = []
+        for keyword in Keyword.load_keywords():
+            if remove_stopwords and keyword.score <= 1:
+                continue
+            kws.append((keyword.keyword, keyword.get_keyword_ptn()))
+        sorted(list(set(kws)), key=lambda x: x[0])
 
         # calculate ratio for all texts and ratio by each text
         tf: list[dict[str, float]] = [{kw[0]: 0 for kw in kws} for _ in range(len(texts))]

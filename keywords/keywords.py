@@ -41,6 +41,7 @@ class Keyword(object):
     word: str
     alias: str
     use_alias: bool
+    score: float = -1
 
     def __eq__(self, other):
         assert isinstance(other, Keyword)
@@ -63,27 +64,27 @@ class Keyword(object):
 
         with open(Path(__file__).parent / "rsc" / "ml_keywords.json", mode="rt", encoding="utf-8") as f:
             keywords += [
-                Keyword(KeywordCategory.from_str(item["category"]), item["word"], item["alias"], True)
+                Keyword(KeywordCategory.from_str(item["category"]), item["word"], item["alias"], True, item["score"])
                 for item in json.load(f)
             ]
         with open(Path(__file__).parent / "rsc" / "nlp_keywords.json", mode="rt", encoding="utf-8") as f:
             keywords += [
-                Keyword(KeywordCategory.from_str(item["category"]), item["word"], item["alias"], True)
+                Keyword(KeywordCategory.from_str(item["category"]), item["word"], item["alias"], True, item["score"])
                 for item in json.load(f)
             ]
         with open(Path(__file__).parent / "rsc" / "graph_keywords.json", mode="rt", encoding="utf-8") as f:
             keywords += [
-                Keyword(KeywordCategory.from_str(item["category"]), item["word"], item["alias"], True)
+                Keyword(KeywordCategory.from_str(item["category"]), item["word"], item["alias"], True, item["score"])
                 for item in json.load(f)
             ]
         with open(Path(__file__).parent / "rsc" / "security_keywords.json", mode="rt", encoding="utf-8") as f:
             keywords += [
-                Keyword(KeywordCategory.from_str(item["category"]), item["word"], item["alias"], True)
+                Keyword(KeywordCategory.from_str(item["category"]), item["word"], item["alias"], True, item["score"])
                 for item in json.load(f)
             ]
         with open(Path(__file__).parent / "rsc" / "cv_keywords.json", mode="rt", encoding="utf-8") as f:
             keywords += [
-                Keyword(KeywordCategory.from_str(item["category"]), item["word"], item["alias"], True)
+                Keyword(KeywordCategory.from_str(item["category"]), item["word"], item["alias"], True, item["score"])
                 for item in json.load(f)
             ]
 
@@ -135,9 +136,11 @@ class Keyword(object):
         }
 
 
-def extract_keywords(text: str, keywords: list[Keyword]) -> list[Keyword]:
+def extract_keywords(text: str, keywords: list[Keyword], remove_stopwords: bool = False) -> list[Keyword]:
     extracted = []
     for kw in keywords:
+        if remove_stopwords and kw.score <= 1:
+            continue
         ptn = kw.get_keyword_ptn()
         for m in ptn.finditer(text):
             extracted.append((m.start(), m.end(), kw))
