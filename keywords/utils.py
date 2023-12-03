@@ -41,6 +41,7 @@ def extract_pdf_text(pdf_url: str) -> str:
             _text_lines.append(line)
         total_texts.append(" ".join(_text_lines))
     text = os.linesep.join(total_texts)
+    text = text.encode("utf-8", "ignore").decode("utf-8")
     return text
 
 
