@@ -80,7 +80,7 @@
   {
     "category": "Security Task",
     "word": "Bot Detection",
-    "alias": "Bot Detection",
+    "alias": "Botnet Detection",
     "score": 10
   },
   {
@@ -104,38 +104,38 @@
   {
     "category": "Security Topic",
     "word": "Bot",
-    "alias": "Bot",
-    "score": 10
+    "alias": "Botnet",
+    "score": 1
   },
   {
     "category": "Security Topic",
     "word": "Botnet",
     "alias": "Botnet",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Security Topic",
     "word": "Privacy",
     "alias": "Privacy",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Security Topic",
     "word": "Security",
     "alias": "Security",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Security Topic",
     "word": "Vulnerabilities",
     "alias": "Vulnerability",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Security Topic",
     "word": "Vulnerability",
     "alias": "Vulnerability",
-    "score": 10
+    "score": 1
   },
   {
     "category": "Security Topic",
@@ -144,7 +144,7 @@
     "score": 10
   },
   {
-    "category": "Security Topic",
+    "category": "Security Attack",
     "word": "Model Extraction",
     "alias": "Model Extraction",
     "score": 10

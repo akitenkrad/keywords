@@ -1198,5 +1198,23 @@
     "word": "Activation Function",
     "alias": "Activation Function",
     "score": 1
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Parameter Sharing",
+    "alias": "Parameter Sharing",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Tensor Decomposition",
+    "alias": "Tensor Decomposition",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Sub-Quadratic Transformer",
+    "alias": "Sub-Quadratic Transformer",
+    "score": 10
   }
 ]
