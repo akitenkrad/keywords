@@ -31,6 +31,12 @@
   },
   {
     "category": "Machine Learning Topic",
+    "word": "Adversarial Training",
+    "alias": "Adversarial Learning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
     "word": "Agent",
     "alias": "Agent",
     "score": 1
@@ -1215,6 +1221,60 @@
     "category": "Machine Learning Topic",
     "word": "Sub-Quadratic Transformer",
     "alias": "Sub-Quadratic Transformer",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Foundation Model",
+    "alias": "Foundation Model",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Sample Size",
+    "alias": "Sample Size",
+    "score": 3
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Square Loss",
+    "alias": "Square Loss",
+    "score": 5
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Phase-shift Detector",
+    "alias": "Phase-shift Detector",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Bandit Algorithm",
+    "alias": "Bandit Algorithm",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Structured Bandit",
+    "alias": "Structured Bandit",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Bandit",
+    "alias": "Bandit Algorithm",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Software Fault Prediction",
+    "alias": "Software Fault Prediction",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Software Fault Detection",
+    "alias": "Software Fault Detection",
     "score": 10
   }
 ]
