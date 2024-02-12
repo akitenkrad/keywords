@@ -128,6 +128,14 @@ class Keyword(object):
             flags=re.IGNORECASE | re.MULTILINE | re.DOTALL,
         )
 
+    @staticmethod
+    def get_ptn(text) -> re.Pattern:
+        _keyword = text.lower().replace("-", r"(\-|\s)*").replace(" ", r"(\s|\-)*")
+        return re.compile(
+            rf"""(?P<PREK>(^|\s|\(|'|")+)(?P<KEYWORD>{_keyword}(s|ing|al|d|ed|\-[^\s]+)*)(?P<POSTK>($|\s|\.|,|:|;|\)|'|")+)""",
+            flags=re.IGNORECASE | re.MULTILINE | re.DOTALL,
+        )
+
     def to_dict(self) -> dict[str, Any]:
         return {
             "category": self.category.value,
