@@ -331,6 +331,12 @@
   },
   {
     "category": "Machine Learning Topic",
+    "word": "Truthfullness",
+    "alias": "Truthfullness",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
     "word": "False Positive Ratio",
     "alias": "False Positive Ratio",
     "score": 1
@@ -643,9 +649,15 @@
   },
   {
     "category": "Machine Learning Topic",
-    "word": "Multi-mordal",
-    "alias": "Multi-mordal",
-    "score": 1
+    "word": "Multi-modal",
+    "alias": "Multi-modal",
+    "score": 3
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Multimodal",
+    "alias": "Multi-modal",
+    "score": 3
   },
   {
     "category": "Machine Learning Topic",
@@ -1275,6 +1287,18 @@
     "category": "Machine Learning Topic",
     "word": "Software Fault Detection",
     "alias": "Software Fault Detection",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Planning Domain Descrition Language",
+    "alias": "Planning Domain Descrition Language",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "PDDL",
+    "alias": "Planning Domain Descrition Language",
     "score": 10
   }
 ]
