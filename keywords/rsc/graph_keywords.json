@@ -190,5 +190,29 @@
     "word": "Uni-Directional",
     "alias": "Uni-Directional",
     "score": 1
+  },
+  {
+    "category": "Graph Topic",
+    "word": "Graph Contrastive Learning",
+    "alias": "Graph Contrastive Learning",
+    "score": 10
+  },
+  {
+    "category": "Graph Topic",
+    "word": "GCL",
+    "alias": "Graph Contrastive Learning",
+    "score": 10
+  },
+  {
+    "category": "Graph Model",
+    "word": "Graph Masked Autoencoder",
+    "alias": "GraphMAE",
+    "score": 10
+  },
+  {
+    "category": "Graph Model",
+    "word": "GraphMAE",
+    "alias": "GraphMAE",
+    "score": 10
   }
 ]

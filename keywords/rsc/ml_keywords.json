@@ -1300,5 +1300,101 @@
     "word": "PDDL",
     "alias": "Planning Domain Descrition Language",
     "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Retrieval Augmented Generation",
+    "alias": "Retrieval-Augmented Generation",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Retrieval-Augmented Generation",
+    "alias": "Retrieval-Augmented Generation",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "RAG",
+    "alias": "Retrieval-Augmented Generation",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Benchmarking",
+    "alias": "Benchmarking",
+    "score": 3
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Benchmark",
+    "alias": "Benchmarking",
+    "score": 3
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Reinforcement Learning from Human Feedback",
+    "alias": "Reinforcement Learning from Human Feedback",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "RLHF",
+    "alias": "Reinforcement Learning from Human Feedback",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Federated Learning",
+    "alias": "Federated Learning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Knowledge Graph",
+    "alias": "Knowledge Graph",
+    "score": 5
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "KG",
+    "alias": "Knowledge Graph",
+    "score": 5
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Distributional Reinforcement Learning",
+    "alias": "Distributional Reinforcement Learning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "DistRL",
+    "alias": "Distributional Reinforcement Learning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Anomaly Detection",
+    "alias": "Anomaly Detection",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Markov Decision Process",
+    "alias": "Markov Decision Process",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "MDPs",
+    "alias": "Markov Decision Process",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Markov Game",
+    "alias": "Markov Game",
+    "score": 10
   }
 ]

@@ -1864,5 +1864,47 @@
     "word": "Style Transfer",
     "alias": "Style Transfer",
     "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "Long Short Term Memory",
+    "alias": "LSTM",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "Long Short-Term Memory",
+    "alias": "LSTM",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "LSTM",
+    "alias": "LSTM",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "Gemini",
+    "alias": "Gemini",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "Cohere",
+    "alias": "Cohere",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "Claude",
+    "alias": "Claude",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "Vision Transformer",
+    "alias": "Vision Transformer",
+    "score": 10
   }
 ]
