@@ -1906,5 +1906,35 @@
     "word": "Vision Transformer",
     "alias": "Vision Transformer",
     "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Massive Multitask Language Understanding",
+    "alias": "Massive Multitask Language Understanding (MMLU)",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "MMLU",
+    "alias": "Massive Multitask Language Understanding (MMLU)",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Massive Multi-task Language Understanding",
+    "alias": "Massive Multitask Language Understanding (MMLU)",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "Mistral",
+    "alias": "Mistral",
+    "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "word": "XLNet",
+    "alias": "XLNet",
+    "score": 10
   }
 ]

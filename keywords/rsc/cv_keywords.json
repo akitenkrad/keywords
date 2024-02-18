@@ -28,5 +28,35 @@
     "word": "Computer Vision",
     "alias": "Computer Vision",
     "score": 1
+  },
+  {
+    "category": "CV Task",
+    "word": "MNIST",
+    "alias": "MNIST",
+    "score": 10
+  },
+  {
+    "category": "CV Model",
+    "word": "Sora",
+    "alias": "Sora",
+    "score": 10
+  },
+  {
+    "category": "CV Model",
+    "word": "Vision Transformer",
+    "alias": "Vision Transformer",
+    "score": 10
+  },
+  {
+    "category": "CV Model",
+    "word": "Yolo",
+    "alias": "Yolo",
+    "score": 10
+  },
+  {
+    "category": "CV Model",
+    "word": "ControlNet",
+    "alias": "ControlNet",
+    "score": 10
   }
 ]

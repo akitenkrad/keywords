@@ -93,7 +93,13 @@
     "category": "Machine Learning Topic",
     "word": "Clustering",
     "alias": "Clustering",
-    "score": 1
+    "score": 3
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Online Clustering",
+    "alias": "Online Clustering",
+    "score": 10
   },
   {
     "category": "Machine Learning Topic",
@@ -1395,6 +1401,18 @@
     "category": "Machine Learning Topic",
     "word": "Markov Game",
     "alias": "Markov Game",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Karush-Kuhn-Tucker",
+    "alias": "Karush-Kuhn-Tucker",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "KKT",
+    "alias": "Karush-Kuhn-Tucker",
     "score": 10
   }
 ]
