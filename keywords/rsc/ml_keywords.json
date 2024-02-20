@@ -1414,5 +1414,23 @@
     "word": "KKT",
     "alias": "Karush-Kuhn-Tucker",
     "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Geometry",
+    "alias": "Geometry",
+    "score": 5
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Black Box",
+    "alias": "Black Box",
+    "score": 5
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Representation Learning",
+    "alias": "Representation Learning",
+    "score": 5
   }
 ]
