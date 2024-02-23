@@ -1936,5 +1936,17 @@
     "word": "XLNet",
     "alias": "XLNet",
     "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Text-to-SQL",
+    "alias": "Text2SQL",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Text2SQL",
+    "alias": "Text2SQL",
+    "score": 10
   }
 ]
