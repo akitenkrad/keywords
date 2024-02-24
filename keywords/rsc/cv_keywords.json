@@ -58,5 +58,11 @@
     "word": "ControlNet",
     "alias": "ControlNet",
     "score": 10
+  },
+  {
+    "category": "CV Model",
+    "word": "Diffusion Model",
+    "alias": "Diffusion Model",
+    "score": 10
   }
 ]

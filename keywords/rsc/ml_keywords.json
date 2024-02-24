@@ -1468,5 +1468,11 @@
     "word": "Discrete-Time",
     "alias": "Discrete Time",
     "score": 5
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Direct Preference Optimization",
+    "alias": "Direct Preference Optimization",
+    "score": 10
   }
 ]
