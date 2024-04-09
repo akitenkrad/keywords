@@ -1474,5 +1474,23 @@
     "word": "Direct Preference Optimization",
     "alias": "Direct Preference Optimization",
     "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Hopfield Network",
+    "alias": "Hopfield Network",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Hopfield Net",
+    "alias": "Hopfield Network",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Hopfield Model",
+    "alias": "Hopfield Network",
+    "score": 10
   }
 ]
