@@ -40,12 +40,16 @@ class Keyword(object):
     category: KeywordCategory
     word: str
     alias: str
-    use_alias: bool
+    use_alias: bool = True
     score: float = -1
 
     def __eq__(self, other):
         assert isinstance(other, Keyword)
-        return self.category == other.category and self.word == other.word
+        assert self.use_alias == other.use_alias, "Keywords are not comparable"
+        if self.use_alias:
+            return self.category == other.category and self.alias == other.alias
+        else:
+            return self.category == other.category and self.word == other.word
 
     def __lt__(self, other):
         assert isinstance(other, Keyword)
