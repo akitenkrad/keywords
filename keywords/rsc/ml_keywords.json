@@ -1492,5 +1492,41 @@
     "word": "Hopfield Model",
     "alias": "Hopfield Network",
     "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "VR",
+    "alias": "Virtual Reality (VR)",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Virtual Reality",
+    "alias": "Virtual Reality (VR)",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "AR",
+    "alias": "Augmented Reality (AR)",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Augmented Reality",
+    "alias": "Augmented Reality (AR)",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "MR",
+    "alias": "Mixed Reality (MR)",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Mixed Reality",
+    "alias": "Mixed Reality (MR)",
+    "score": 10
   }
 ]

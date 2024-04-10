@@ -160,5 +160,173 @@
     "word": "Ransomware",
     "alias": "Ransomware",
     "score": 10
+  },
+  {
+    "category": "Security Attack",
+    "word": "Phishing",
+    "alias": "Phihsing",
+    "score": 10
+  },
+  {
+    "category": "Security Attack",
+    "word": "Password Attack",
+    "alias": "Password Attack",
+    "score": 10
+  },
+  {
+    "category": "Security Attack",
+    "word": "SQL Injection",
+    "alias": "SQL Injection",
+    "score": 10
+  },
+  {
+    "category": "Security Attack",
+    "word": "Spoofing",
+    "alias": "Spoofing",
+    "score": 10
+  },
+  {
+    "category": "Security Attack",
+    "word": "DDoS",
+    "alias": "DDoS",
+    "score": 10
+  },
+  {
+    "category": "Security Attack",
+    "word": "Distributed Denial of Service",
+    "alias": "DDoS",
+    "score": 10
+  },
+  {
+    "category": "Security Attack",
+    "word": "DoS",
+    "alias": "DoS",
+    "score": 10
+  },
+  {
+    "category": "Security Attack",
+    "word": "Denial of Service",
+    "alias": "DoS",
+    "score": 10
+  },
+  {
+    "category": "Security Attack",
+    "word": "XSS",
+    "alias": "XSS",
+    "score": 10
+  },
+  {
+    "category": "Security Attack",
+    "word": "Cross Site Scripting",
+    "alias": "XSS",
+    "score": 10
+  },
+  {
+    "category": "Security Attack",
+    "word": "Malware",
+    "alias": "Malware",
+    "score": 10
+  },
+  {
+    "category": "Security Attack",
+    "word": "Email Scams",
+    "alias": "Email Scams",
+    "score": 10
+  },
+  {
+    "category": "Security Attack",
+    "word": "DNS Spoofing",
+    "alias": "DNS Spoofing",
+    "score": 10
+  },
+  {
+    "category": "Security Attack",
+    "word": "Data Exfiltration",
+    "alias": "Data Exfiltration",
+    "score": 10
+  },
+  {
+    "category": "Security Attack",
+    "word": "Data Breach",
+    "alias": "Data Breach",
+    "score": 10
+  },
+  {
+    "category": "Security Attack",
+    "word": "CryptoWall",
+    "alias": "CryptoWall",
+    "score": 10
+  },
+  {
+    "category": "Security Attack",
+    "word": "Credential Stuffing",
+    "alias": "Credential Stuffing",
+    "score": 10
+  },
+  {
+    "category": "Security Attack",
+    "word": "Computer Virus",
+    "alias": "Computer Virus",
+    "score": 10
+  },
+  {
+    "category": "Security Attack",
+    "word": "Compliance Violation",
+    "alias": "Compliance Violation",
+    "score": 10
+  },
+  {
+    "category": "Security Attack",
+    "word": "Compliance Risk",
+    "alias": "Compliance Risk",
+    "score": 10
+  },
+  {
+    "category": "Security Attack",
+    "word": "Brute-Force Attack",
+    "alias": "Brute-Force Attack",
+    "score": 10
+  },
+  {
+    "category": "Security Attack",
+    "word": "BEC",
+    "alias": "Business Email Compromise",
+    "score": 10
+  },
+  {
+    "category": "Security Attack",
+    "word": "Business Email Compromise",
+    "alias": "Business Email Compromise",
+    "score": 10
+  },
+  {
+    "category": "Security Attack",
+    "word": "Bad Rabbit",
+    "alias": "Bad Rabbit",
+    "score": 10
+  },
+  {
+    "category": "Security Attack",
+    "word": "Adversary-in-the-Middle",
+    "alias": "Adversary-in-the-Middle",
+    "score": 10
+  },
+  {
+    "category": "Security Attack",
+    "word": "AiTM",
+    "alias": "Adversary-in-the-Middle",
+    "score": 10
+  },
+  {
+    "category": "Security Attack",
+    "word": "Account Takeover Fraud",
+    "alias": "Account Takeover Fraud",
+    "score": 10
+  },
+  {
+    "category": "Security Attack",
+    "word": "Identity Theft",
+    "alias": "Identity Theft",
+    "score": 10
   }
 ]
