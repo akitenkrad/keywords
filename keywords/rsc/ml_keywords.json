@@ -1528,5 +1528,17 @@
     "word": "Mixed Reality",
     "alias": "Mixed Reality (MR)",
     "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "Deep Neural Network",
+    "alias": "Deep Neural Network",
+    "score": 5
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "DNN",
+    "alias": "Deep Neural Network",
+    "score": 5
   }
 ]

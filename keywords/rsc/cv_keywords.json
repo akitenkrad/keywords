@@ -64,5 +64,17 @@
     "word": "Diffusion Model",
     "alias": "Diffusion Model",
     "score": 10
+  },  
+  {
+    "category": "CV Model",
+    "word": "Convolutional Neural Network",
+    "alias": "Convolutional Neural Network",
+    "score": 5
+  },
+  {
+    "category": "CV Model",
+    "word": "CNN",
+    "alias": "Convolutional Neural Network",
+    "score": 5
   }
 ]

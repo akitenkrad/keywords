@@ -931,8 +931,14 @@
   },
   {
     "category": "NLP Topic",
-    "word": "Chain-of-thought Prompt",
-    "alias": "Chain-of-thought Prompt",
+    "word": "Chain-of-thought",
+    "alias": "Chain-of-thought",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "word": "CoT",
+    "alias": "Chain-of-thought",
     "score": 10
   },
   {
@@ -1947,6 +1953,24 @@
     "category": "NLP Task",
     "word": "Text2SQL",
     "alias": "Text2SQL",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Visually Rich Document Understanding",
+    "alias": "Visually Rich Document Understanding",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "VRDU",
+    "alias": "Visually Rich Document Understanding",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Key Entity Extraction",
+    "alias": "Key Entity Extraction",
     "score": 10
   }
 ]
