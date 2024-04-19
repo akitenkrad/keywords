@@ -26,6 +26,7 @@ setuptools.setup(
     long_description=long_description,
     install_requires=[
         "attrdict @ git+https://github.com/akitenkrad/attrdict",
+        "argostranslate",
         "click",
         "colorama",
         "gensim",

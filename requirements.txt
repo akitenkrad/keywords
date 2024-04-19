@@ -1,4 +1,5 @@
 attrdict @ git+https://github.com/akitenkrad/attrdict
+argostranslate
 black
 click
 colorama
