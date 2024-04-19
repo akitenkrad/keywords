@@ -235,7 +235,7 @@ def extract_keywords(
 ) -> list[Keyword]:
     extracted = []
 
-    if target_lang != "en":
+    if target_lang == "en":
         pass
     elif target_lang == "ja":
         tokenizer = MeCab.Tagger(f"-d {ipadic.DICDIR} -u {USER_DIC} -Owakati")
