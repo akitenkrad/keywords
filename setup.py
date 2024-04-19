@@ -42,6 +42,7 @@ setuptools.setup(
         "progressbar",
         "py-cpuinfo",
         "pykakasi",
+        "pypdf",
         "python-dateutil",
         "python-dotenv",
         "requests",
