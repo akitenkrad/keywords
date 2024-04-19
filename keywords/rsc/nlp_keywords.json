@@ -36,6 +36,12 @@
     "score": 10
   },
   {
+    "category": "NLP Topic",
+    "word": "Bing",
+    "alias": "Bing",
+    "score": 10
+  },
+  {
     "category": "NLP Model",
     "word": "Box Embedding",
     "alias": "Box Embedding",
@@ -1971,6 +1977,18 @@
     "category": "NLP Task",
     "word": "Key Entity Extraction",
     "alias": "Key Entity Extraction",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Text Spotting",
+    "alias": "Text Spotting",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "word": "Text Detection",
+    "alias": "Text Detection",
     "score": 10
   }
 ]

@@ -6,10 +6,13 @@ import re
 from dataclasses import dataclass
 from enum import Enum
 from functools import total_ordering
+from logging import Logger
 from pathlib import Path
-from typing import Any
+from typing import Any, Optional
 
-from IPython.display import HTML, display
+from argostranslate import package, translate
+from IPython.display import HTML
+from tqdm import tqdm
 
 
 class KeywordCategory(Enum):
@@ -26,6 +29,7 @@ class KeywordCategory(Enum):
     SECURITY_TOPIC = "Security Topic"
     SECURITY_ATTACK = "Security Attack"
     SECURITY_TASK = "Security Task"
+    ICT_TOPIC = "ICT Topic"
     OTHER = "Other"
 
     @classmethod
@@ -55,6 +59,15 @@ class Keyword(object):
         assert isinstance(other, Keyword)
         return (self.category.name, self.keyword) < (other.category.name, other.keyword)
 
+    @classmethod
+    def __prepare_argostranslate(cls, from_code: str, to_code: str):
+        package.update_package_index()
+        available_packages = package.get_available_packages()
+        packages_to_install = next(
+            filter(lambda x: x.from_code == from_code and x.to_code == to_code, available_packages)
+        )
+        package.install_from_path(packages_to_install.download())
+
     @property
     def keyword(self) -> str:
         if self.use_alias:
@@ -63,7 +76,12 @@ class Keyword(object):
             return self.word
 
     @classmethod
-    def load_keywords(cls, categories: list[KeywordCategory] = []) -> list[Keyword]:
+    def load_keywords(
+        cls, categories: list[KeywordCategory] = [], with_translated: str = "", logger: Optional[Logger] = None
+    ) -> list[Keyword]:
+        if with_translated != "":
+            cls.__prepare_argostranslate("en", with_translated)
+
         keywords = []
 
         with open(Path(__file__).parent / "rsc" / "ml_keywords.json", mode="rt", encoding="utf-8") as f:
@@ -91,9 +109,29 @@ class Keyword(object):
                 Keyword(KeywordCategory.from_str(item["category"]), item["word"], item["alias"], True, item["score"])
                 for item in json.load(f)
             ]
+        with open(Path(__file__).parent / "rsc" / "ict_keywords.json", mode="rt", encoding="utf-8") as f:
+            keywords += [
+                Keyword(KeywordCategory.from_str(item["category"]), item["word"], item["alias"], True, item["score"])
+                for item in json.load(f)
+            ]
 
         if len(categories) > 0:
             keywords = [keyword for keyword in keywords if keyword.category in categories]
+
+        if with_translated != "":
+            n_kws = len(keywords)
+            for i in tqdm(range(n_kws), desc="Translating keywords", leave=False):
+                try:
+                    keyword = keywords[i]
+                    translated = translate.translate(keyword.word, "en", with_translated)
+                    keywords.append(
+                        Keyword(keyword.category, translated, keyword.alias, keyword.use_alias, keyword.score)
+                    )
+                except Exception as e:
+                    if logger:
+                        logger.error(f"Error translating {keyword.word}: {e}")
+                    else:
+                        tqdm.write(f"Error translating {keyword.word}: {e}")
 
         keywords = sorted(list(set(keywords)))
 

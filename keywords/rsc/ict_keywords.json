@@ -1,0 +1,200 @@
+[
+    {
+        "category": "ICT Topic",
+        "word": "3D Print",
+        "alias": "3D Print",
+        "score": 10
+    },
+    {
+        "category": "ICT Topic",
+        "word": "3D Printer",
+        "alias": "3D Printer",
+        "score": 10
+    },
+    {
+        "category": "ICT Topic",
+        "word": "AWS",
+        "alias": "AWS",
+        "score": 10
+    },
+    {
+        "category": "ICT Topic",
+        "word": "Adobe",
+        "alias": "Adobe",
+        "score": 10
+    },
+    {
+        "category": "ICT Topic",
+        "word": "Alder Lake",
+        "alias": "AlderLake",
+        "score": 10
+    },
+    {
+        "category": "ICT Topic",
+        "word": "AlderLake",
+        "alias": "AlderLake",
+        "score": 10
+    },
+    {
+        "category": "ICT Topic",
+        "word": "Alibaba",
+        "alias": "Alibaba",
+        "score": 10
+    },
+    {
+        "category": "ICT Topic",
+        "word": "Amazon",
+        "alias": "Amazon",
+        "score": 10
+    },
+    {
+        "category": "ICT Topic",
+        "word": "Azure",
+        "alias": "Azure",
+        "score": 10
+    },
+    {
+        "category": "ICT Topic",
+        "word": "GCP",
+        "alias": "GCP",
+        "score": 10
+    },
+    {
+        "category": "ICT Topic",
+        "word": "GPUSOROBAN",
+        "alias": "GPUSOROBAN",
+        "score": 10
+    },
+    {
+        "category": "ICT Topic",
+        "word": "Baidu",
+        "alias": "Baidu",
+        "score": 10
+    },
+    {
+        "category": "ICT Topic",
+        "word": "Connected Car",
+        "alias": "Connected Car",
+        "score": 10
+    },
+    {
+        "category": "ICT Topic",
+        "word": "DeepMind",
+        "alias": "DeepMind",
+        "score": 10
+    },
+    {
+        "category": "ICT Topic",
+        "word": "Docker",
+        "alias": "Docker",
+        "score": 10
+    },
+    {
+        "category": "ICT Topic",
+        "word": "Facebook",
+        "alias": "Facebook",
+        "score": 10
+    },
+    {
+        "category": "ICT Topic",
+        "word": "Twitter",
+        "alias": "Twitter",
+        "score": 10
+    },
+    {
+        "category": "ICT Topic",
+        "word": "Instagram",
+        "alias": "Instagram",
+        "score": 10
+    },
+    {
+        "category": "ICT Topic",
+        "word": "Bluesky",
+        "alias": "Bluesky",
+        "score": 10
+    },
+    {
+        "category": "ICT Topic",
+        "word": "Mastodon",
+        "alias": "Mastodon",
+        "score": 10
+    },
+    {
+        "category": "ICT Topic",
+        "word": "Web3",
+        "alias": "Web3",
+        "score": 10
+    },
+    {
+        "category": "ICT Topic",
+        "word": "Digital Human",
+        "alias": "Digital Human",
+        "score": 10
+    },
+    {
+        "category": "ICT Topic",
+        "word": "Falcom",
+        "alias": "Falcom",
+        "score": 10
+    },
+    {
+        "category": "ICT Topic",
+        "word": "Google",
+        "alias": "Google",
+        "score": 3
+    },
+    {
+        "category": "ICT Topic",
+        "word": "Apple",
+        "alias": "Apple",
+        "score": 3
+    },
+    {
+        "category": "ICT Topic",
+        "word": "Microsoft",
+        "alias": "Microsoft",
+        "score": 3
+    },
+    {
+        "category": "ICT Topic",
+        "word": "HaggingFace",
+        "alias": "HaggingFace",
+        "score": 10
+    },
+    {
+        "category": "ICT Topic",
+        "word": "Hagging Face",
+        "alias": "HaggingFace",
+        "score": 10
+    },
+    {
+        "category": "ICT Topic",
+        "word": "IBM",
+        "alias": "IBM",
+        "score": 3
+    },
+    {
+        "category": "ICT Topic",
+        "word": "PyTorch",
+        "alias": "PyTorch",
+        "score": 3
+    },
+    {
+        "category": "ICT Topic",
+        "word": "Tensorflow",
+        "alias": "Tensorflow",
+        "score": 3
+    },
+    {
+        "category": "ICT Topic",
+        "word": "Open Source",
+        "alias": "OSS",
+        "score": 5
+    },
+    {
+        "category": "ICT Topic",
+        "word": "Open Source Software",
+        "alias": "OSS",
+        "score": 5
+    }
+]

@@ -328,5 +328,11 @@
     "word": "Identity Theft",
     "alias": "Identity Theft",
     "score": 10
+  },
+  {
+    "category": "Security Topic",
+    "word": "Cyber Security",
+    "alias": "Cyber Security",
+    "score": 10
   }
 ]

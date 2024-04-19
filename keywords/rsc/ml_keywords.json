@@ -1540,5 +1540,11 @@
     "word": "DNN",
     "alias": "Deep Neural Network",
     "score": 5
+  },
+  {
+    "category": "Machine Learning Topic",
+    "word": "AutoML",
+    "alias": "AutoML",
+    "score": 10
   }
 ]
