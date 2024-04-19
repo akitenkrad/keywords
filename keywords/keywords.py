@@ -1,8 +1,10 @@
 from __future__ import annotations
 
+import csv
 import json
 import os
 import re
+import subprocess
 from dataclasses import dataclass
 from enum import Enum
 from functools import total_ordering
@@ -10,9 +12,15 @@ from logging import Logger
 from pathlib import Path
 from typing import Any, Optional
 
+import ipadic
+import MeCab
+import pykakasi
 from argostranslate import package, translate
 from IPython.display import HTML
 from tqdm import tqdm
+
+TEMP_DICT_CSV = Path("/tmp/tmp_dict.csv")
+USER_DIC = "/usr/local/lib/mecab/user.dic"
 
 
 class KeywordCategory(Enum):
@@ -186,8 +194,57 @@ class Keyword(object):
         }
 
 
-def extract_keywords(text: str, keywords: list[Keyword], remove_stopwords: bool = False) -> list[Keyword]:
+class MeCabPos(Enum):
+    NOUN = "名詞"
+    NOUN_GENERAL = "一般"
+    NOUN_NAMED_ENTITY = "固有名詞"
+    NOUN_NUMBER = "数"
+
+
+@dataclass
+class MeCabItem(object):
+    word: str
+    tag: MeCabPos = MeCabPos.NOUN
+    pos1: MeCabPos = MeCabPos.NOUN_GENERAL
+    pos2: str = "*"
+    pos3: str = "*"
+    cost: int = 10
+
+    def to_list(self) -> list[str]:
+        kks = pykakasi.kakasi()
+        kana = "".join([token["kana"] for token in kks.convert(self.word)])
+        return [
+            self.word.strip(),
+            "*",
+            "*",
+            str(self.cost),
+            self.tag.value,
+            self.pos1.value,
+            self.pos2,
+            self.pos3,
+            "*",
+            "*",
+            self.word.strip(),
+            kana,
+            kana,
+        ]
+
+
+def extract_keywords(
+    text: str, keywords: list[Keyword], remove_stopwords: bool = False, target_lang: str = "en"
+) -> list[Keyword]:
     extracted = []
+
+    if target_lang != "en":
+        pass
+    elif target_lang == "ja":
+        tokenizer = MeCab.Tagger(f"-d {ipadic.DICDIR} -u {USER_DIC} -Owakati")
+        tokens = [t.strip() for t in tokenizer.parse(text).split()]
+        tokens = list(set([t.lower() for t in tokens if len(t) > 0]))
+        text = " ".join(tokens)
+    else:
+        raise ValueError(f"Unsupported language: {target_lang}")
+
     for kw in keywords:
         if remove_stopwords and kw.score <= 1:
             continue
@@ -196,3 +253,55 @@ def extract_keywords(text: str, keywords: list[Keyword], remove_stopwords: bool 
             extracted.append((m.start(), m.end(), kw))
     extracted = sorted(extracted, key=lambda x: x[0])
     return [kw for _, _, kw in extracted]
+
+
+def add_noun_to_mecab_dict(items: list[MeCabItem], user_dic: Path = Path(USER_DIC)):
+    """add a new word to MeCab user dictionary
+
+    Args:
+        items (List[MeCabItem]): MeCabItems to add to the dictionary.
+    """
+    words: dict[str, list[str]] = {}
+
+    # check the dictionary if the word is already added
+    if TEMP_DICT_CSV.exists():
+        with open(TEMP_DICT_CSV, mode="r", encoding="utf-8") as f:
+            reader = csv.reader(f)
+            words = {line[0]: line for line in reader}
+
+    # register new word
+    for item in items:
+        if item.word in words:
+            if item.pos2 != "*":
+                words[item.word][6] = item.pos2
+            if item.pos3 != "*":
+                words[item.word][7] = item.pos3
+            if item.cost != 10:
+                words[item.word][3] = str(item.cost)
+        else:
+            words[item.word] = item.to_list()
+
+    # write into the user dictionary csv
+    with open(TEMP_DICT_CSV, mode="w", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerows(words.values())
+
+    # update the mecab dictionary
+    mecab_dict_index = Path("/usr/lib/mecab/mecab-dict-index")
+    assert mecab_dict_index.exists(), f"No Such File: {str(mecab_dict_index.absolute())}"
+
+    Path(user_dic).parent.mkdir(exist_ok=True, parents=True)
+
+    subprocess.run(
+        f"{str(mecab_dict_index.absolute())} "
+        + f"-d {ipadic.DICDIR} "
+        + f"-u {str(user_dic)} -f utf-8 -t utf-8 {str(TEMP_DICT_CSV)}",
+        shell=True,
+    )
+
+    print(f"compiled user dictionary -> {user_dic}")
+
+
+def add_keywords_to_mecab_dic(keywords: list[Keyword]):
+    items = [MeCabItem(w.keyword) for w in keywords]
+    add_noun_to_mecab_dict(items)
