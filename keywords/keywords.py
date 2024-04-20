@@ -8,6 +8,7 @@ import subprocess
 from dataclasses import dataclass
 from enum import Enum
 from functools import total_ordering
+from glob import glob
 from logging import Logger
 from pathlib import Path
 from typing import Any, Optional
@@ -287,8 +288,9 @@ def add_noun_to_mecab_dict(items: list[MeCabItem], user_dic: Path = Path(USER_DI
         writer.writerows(words.values())
 
     # update the mecab dictionary
-    mecab_dict_index = Path("/usr/lib/mecab/mecab-dict-index")
-    assert mecab_dict_index.exists(), f"No Such File: {str(mecab_dict_index.absolute())}"
+    mecab_dict_index_list = [Path(f) for f in glob("/usr/**/mecab-dict-index", recursive=True)]
+    assert len(mecab_dict_index_list) > 0, "No MeCab dictionary index found"
+    mecab_dict_index = mecab_dict_index_list[0]
 
     Path(user_dic).parent.mkdir(exist_ok=True, parents=True)
 
