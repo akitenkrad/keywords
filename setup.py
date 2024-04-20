@@ -25,7 +25,6 @@ setuptools.setup(
     + ["Programming Language :: Python :: 3.{}".format(i) for i in range(python_min_version[1], version_range_max)],
     long_description=long_description,
     install_requires=[
-        "attrdict @ git+https://github.com/akitenkrad/attrdict",
         "argostranslate",
         "click",
         "colorama",
