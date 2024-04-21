@@ -293,7 +293,7 @@ def add_noun_to_mecab_dict(items: list[MeCabItem], user_dic: Path = Path(USER_DI
         writer.writerows(words.values())
 
     # update the mecab dictionary
-    mecab_dict_index_list = [Path(f) for f in glob("/usr/**/mecab-dict-index", recursive=True)]
+    mecab_dict_index_list = [Path(f) for f in glob("/usr/lib*/**/mecab-dict-index", recursive=True)]
     assert len(mecab_dict_index_list) > 0, "No MeCab dictionary index found"
     mecab_dict_index = mecab_dict_index_list[0]
 
