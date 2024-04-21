@@ -240,9 +240,7 @@ def extract_keywords(
         pass
     elif target_lang == "ja":
         tokenizer = MeCab.Tagger(f"-d {ipadic.DICDIR} -u {USER_DIC} -Owakati")
-        tokens = [t.strip() for t in tokenizer.parse(text).split()]
-        tokens = list(set([t.lower() for t in tokens if len(t) > 0]))
-        text = " ".join(tokens)
+        text = " ".join([t.strip() for t in tokenizer.parse(text).split()])
     else:
         raise ValueError(f"Unsupported language: {target_lang}")
 
