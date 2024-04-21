@@ -256,7 +256,7 @@ def extract_keywords(
     return [kw for _, _, kw in extracted]
 
 
-def add_noun_to_mecab_dict(items: list[MeCabItem], user_dic: Path = Path(USER_DIC)):
+def add_noun_to_mecab_dict(items: list[MeCabItem], user_dic: Path = Path(USER_DIC), logger: Optional[Logger] = None):
     """add a new word to MeCab user dictionary
 
     Args:
@@ -270,8 +270,13 @@ def add_noun_to_mecab_dict(items: list[MeCabItem], user_dic: Path = Path(USER_DI
             reader = csv.reader(f)
             words = {line[0]: line for line in reader}
 
+            if logger:
+                logger.info(f"Loaded {len(words)} words from the user dictionary")
+            else:
+                print(f"Loaded {len(words)} words from the user dictionary")
+
     # register new word
-    for item in items:
+    for item in tqdm(items, desc="Adding new words to the dictionary", leave=False):
         if item.word in words:
             if item.pos2 != "*":
                 words[item.word][6] = item.pos2
@@ -292,16 +297,25 @@ def add_noun_to_mecab_dict(items: list[MeCabItem], user_dic: Path = Path(USER_DI
     assert len(mecab_dict_index_list) > 0, "No MeCab dictionary index found"
     mecab_dict_index = mecab_dict_index_list[0]
 
+    if logger:
+        logger.info(f"Using MeCab dictionary index: {mecab_dict_index}")
+    else:
+        print(f"Using MeCab dictionary index: {mecab_dict_index}")
+
     Path(user_dic).parent.mkdir(exist_ok=True, parents=True)
 
-    subprocess.run(
+    cmd = (
         f"{str(mecab_dict_index.absolute())} "
         + f"-d {ipadic.DICDIR} "
-        + f"-u {str(user_dic)} -f utf-8 -t utf-8 {str(TEMP_DICT_CSV)}",
-        shell=True,
+        + f"-u {str(user_dic)} -f utf-8 -t utf-8 {str(TEMP_DICT_CSV)}"
     )
+    subprocess.run(cmd, shell=True)
 
-    print(f"compiled user dictionary -> {user_dic}")
+    if logger:
+        logger.info(f"Added {len(words)} words to the user dictionary")
+        logger.info(f"compiled user dictionary -> {user_dic}")
+    else:
+        print(f"compiled user dictionary -> {user_dic}")
 
 
 def add_keywords_to_mecab_dic(keywords: list[Keyword]):
