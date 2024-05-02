@@ -72,22 +72,35 @@ class Keyword(object):
     word: str
     alias: str
     use_alias: bool = True
+    use_category: bool = False
     score: float = -1
 
     def __eq__(self, other):
         assert isinstance(other, Keyword)
         assert self.use_alias == other.use_alias, "Keywords are not comparable"
         if self.use_alias:
-            return self.category == other.category and self.alias == other.alias
+            return ((self.category == other.category) != self.use_category) and self.alias == other.alias
         else:
-            return self.category == other.category and self.word == other.word
+            return ((self.category == other.category) != self.use_category) and self.word == other.word
 
     def __lt__(self, other):
         assert isinstance(other, Keyword)
-        return (self.category.name, self.keyword) < (other.category.name, other.keyword)
+        if self.use_category:
+            return (self.category.name, self.keyword) < (other.category.name, other.keyword)
+        else:
+            return self.keyword < other.keyword
 
     def __hash__(self):
-        return hash((self.category, self.word, self.alias))
+        if self.use_alias:
+            if self.use_category:
+                return hash((self.category, self.alias))
+            else:
+                return hash(self.alias)
+        else:
+            if self.use_category:
+                return hash((self.category, self.word))
+            else:
+                return hash(self.word)
 
     @property
     def keyword(self) -> str:
