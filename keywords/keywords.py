@@ -136,7 +136,11 @@ class Keyword(object):
                     translated = translate.translate(keyword.word, "en", with_translated)
                     keywords.append(
                         Keyword(
-                            keyword.category, translated, translated, keyword.use_alias, np.max(0, keyword.score - 2)
+                            keyword.category,
+                            translated,
+                            translated,
+                            keyword.use_alias,
+                            np.max([0, int(keyword.score / 2)]),
                         )
                     )
                 except Exception as e:
