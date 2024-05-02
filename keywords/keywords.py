@@ -136,7 +136,7 @@ class Keyword(object):
                     translated = translate.translate(keyword.word, "en", with_translated)
                     keywords.append(
                         Keyword(
-                            keyword.category,
+                            KeywordCategory.OTHER,
                             translated,
                             translated,
                             keyword.use_alias,
