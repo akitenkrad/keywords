@@ -69,6 +69,9 @@ class Keyword(object):
         assert isinstance(other, Keyword)
         return (self.category.name, self.keyword) < (other.category.name, other.keyword)
 
+    def __hash__(self):
+        return hash((self.category, self.word, self.alias))
+
     @classmethod
     def __prepare_argostranslate(cls, from_code: str, to_code: str):
         package.update_package_index()
