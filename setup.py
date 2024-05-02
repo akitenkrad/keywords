@@ -10,7 +10,7 @@ python_min_version = (3, 11, 0)
 
 setuptools.setup(
     name="keywords",
-    version="0.0.1",
+    version="1.0.0",
     author="akitenkrad",
     author_email="akitenkrad@gmail.com",
     packages=setuptools.find_packages(),
@@ -25,7 +25,6 @@ setuptools.setup(
     + ["Programming Language :: Python :: 3.{}".format(i) for i in range(python_min_version[1], version_range_max)],
     long_description=long_description,
     install_requires=[
-        "argostranslate",
         "click",
         "colorama",
         "gensim",
@@ -52,19 +51,4 @@ setuptools.setup(
         "unidic",
         "wordcloud",
     ],
-    extras_require={
-        "dev": [
-            "pytest",
-            "black",
-            "mypy",
-            "flake8",
-            "isort",
-            "jupyterlab",
-            "types-python-dateutil",
-            "types-PyYAML",
-            "types-requests",
-            "typing-extensions",
-            "types-toml",
-        ]
-    },
 )

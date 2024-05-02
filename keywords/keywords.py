@@ -17,12 +17,24 @@ import ipadic
 import MeCab
 import numpy as np
 import pykakasi
-from argostranslate import package, translate
 from IPython.display import HTML
 from tqdm import tqdm
 
 TEMP_DICT_CSV = Path("/tmp/tmp_dict.csv")
 USER_DIC = "/usr/local/lib/mecab/user.dic"
+
+
+class KeywordLanguage(Enum):
+    EN = "en"
+    JA = "ja"
+
+    @classmethod
+    def from_str(cls, w: str) -> KeywordLanguage:
+        w = w.lower()
+        kw_map = {k.value.lower(): k for k in KeywordLanguage}
+        if w not in kw_map:
+            raise ValueError(f"Unsupported language: {w}")
+        return kw_map[w]
 
 
 class KeywordCategory(Enum):
@@ -40,11 +52,15 @@ class KeywordCategory(Enum):
     SECURITY_ATTACK = "Security Attack"
     SECURITY_TASK = "Security Task"
     ICT_TOPIC = "ICT Topic"
+    JAPANESE_KEYWORD = "Japanese Keyword"
     OTHER = "Other"
 
     @classmethod
     def from_str(cls, w: str) -> KeywordCategory:
-        kw_map = {k.value: k for k in KeywordCategory}
+        w = w.lower()
+        kw_map = {k.value.lower(): k for k in KeywordCategory}
+        if w not in kw_map:
+            raise ValueError(f"Unsupported category: {w}")
         return kw_map[w]
 
 
@@ -52,6 +68,7 @@ class KeywordCategory(Enum):
 @dataclass(frozen=True)
 class Keyword(object):
     category: KeywordCategory
+    language: KeywordLanguage
     word: str
     alias: str
     use_alias: bool = True
@@ -72,15 +89,6 @@ class Keyword(object):
     def __hash__(self):
         return hash((self.category, self.word, self.alias))
 
-    @classmethod
-    def __prepare_argostranslate(cls, from_code: str, to_code: str):
-        package.update_package_index()
-        available_packages = package.get_available_packages()
-        packages_to_install = next(
-            filter(lambda x: x.from_code == from_code and x.to_code == to_code, available_packages)
-        )
-        package.install_from_path(packages_to_install.download())
-
     @property
     def keyword(self) -> str:
         if self.use_alias:
@@ -89,71 +97,29 @@ class Keyword(object):
             return self.word
 
     @classmethod
-    def load_keywords(
-        cls, categories: list[KeywordCategory] = [], with_translated: str = "", logger: Optional[Logger] = None
-    ) -> list[Keyword]:
-        if with_translated != "":
-            cls.__prepare_argostranslate("en", with_translated)
+    def load_keywords(cls, categories: list[KeywordCategory] = []) -> list[Keyword]:
 
         keywords = []
 
-        with open(Path(__file__).parent / "rsc" / "ml_keywords.json", mode="rt", encoding="utf-8") as f:
-            keywords += [
-                Keyword(KeywordCategory.from_str(item["category"]), item["word"], item["alias"], True, item["score"])
-                for item in json.load(f)
-            ]
-        with open(Path(__file__).parent / "rsc" / "nlp_keywords.json", mode="rt", encoding="utf-8") as f:
-            keywords += [
-                Keyword(KeywordCategory.from_str(item["category"]), item["word"], item["alias"], True, item["score"])
-                for item in json.load(f)
-            ]
-        with open(Path(__file__).parent / "rsc" / "graph_keywords.json", mode="rt", encoding="utf-8") as f:
-            keywords += [
-                Keyword(KeywordCategory.from_str(item["category"]), item["word"], item["alias"], True, item["score"])
-                for item in json.load(f)
-            ]
-        with open(Path(__file__).parent / "rsc" / "security_keywords.json", mode="rt", encoding="utf-8") as f:
-            keywords += [
-                Keyword(KeywordCategory.from_str(item["category"]), item["word"], item["alias"], True, item["score"])
-                for item in json.load(f)
-            ]
-        with open(Path(__file__).parent / "rsc" / "cv_keywords.json", mode="rt", encoding="utf-8") as f:
-            keywords += [
-                Keyword(KeywordCategory.from_str(item["category"]), item["word"], item["alias"], True, item["score"])
-                for item in json.load(f)
-            ]
-        with open(Path(__file__).parent / "rsc" / "ict_keywords.json", mode="rt", encoding="utf-8") as f:
-            keywords += [
-                Keyword(KeywordCategory.from_str(item["category"]), item["word"], item["alias"], True, item["score"])
-                for item in json.load(f)
-            ]
+        keyword_files = [Path(f) for f in glob(str(Path(__file__).parent / "rsc" / "*.json"))]
+        for kf in keyword_files:
+            with open(Path(__file__).parent / "rsc" / kf, mode="rt", encoding="utf-8") as f:
+                keywords += [
+                    Keyword(
+                        category=KeywordCategory.from_str(item["category"]),
+                        word=item["word"],
+                        alias=item["alias"],
+                        language=KeywordLanguage.from_str(item["language"]),
+                        use_alias=True,
+                        score=item["score"],
+                    )
+                    for item in json.load(f)
+                ]
 
         if len(categories) > 0:
             keywords = [keyword for keyword in keywords if keyword.category in categories]
 
-        if with_translated != "":
-            n_kws = len(keywords)
-            for i in tqdm(range(n_kws), desc="Translating keywords", leave=False):
-                try:
-                    keyword = keywords[i]
-                    translated = translate.translate(keyword.word, "en", with_translated)
-                    keywords.append(
-                        Keyword(
-                            KeywordCategory.OTHER,
-                            translated,
-                            translated,
-                            keyword.use_alias,
-                            np.max([0, int(keyword.score / 2)]),
-                        )
-                    )
-                except Exception as e:
-                    if logger:
-                        logger.error(f"Error translating {keyword.word}: {e}")
-                    else:
-                        tqdm.write(f"Error translating {keyword.word}: {e}")
-
         keywords = sorted(list(set(keywords)))
-
         return keywords
 
     @classmethod

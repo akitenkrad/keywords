@@ -1,78 +1,91 @@
 [
   {
     "category": "CV Task",
+    "language": "en",
     "word": "Face Recognition",
     "alias": "Face Recognition",
     "score": 10
   },
   {
     "category": "CV Task",
+    "language": "en",
     "word": "Object Detection",
     "alias": "Object Detection",
     "score": 10
   },
   {
     "category": "CV Task",
+    "language": "en",
     "word": "OCR",
     "alias": "Optical Character Recognition",
     "score": 10
   },
   {
     "category": "CV Task",
+    "language": "en",
     "word": "Optical Character Recognition",
     "alias": "Optical Character Recognition",
     "score": 10
   },
   {
     "category": "CV Topic",
+    "language": "en",
     "word": "Computer Vision",
     "alias": "Computer Vision",
     "score": 1
   },
   {
     "category": "CV Task",
+    "language": "en",
     "word": "MNIST",
     "alias": "MNIST",
     "score": 10
   },
   {
     "category": "CV Model",
+    "language": "en",
     "word": "Sora",
     "alias": "Sora",
     "score": 10
   },
   {
     "category": "CV Model",
+    "language": "en",
     "word": "Vision Transformer",
     "alias": "Vision Transformer",
     "score": 10
   },
   {
     "category": "CV Model",
+    "language": "en",
     "word": "Yolo",
     "alias": "Yolo",
     "score": 10
   },
   {
     "category": "CV Model",
+    "language": "en",
     "word": "ControlNet",
     "alias": "ControlNet",
     "score": 10
   },
   {
     "category": "CV Model",
+    "language": "en",
     "word": "Diffusion Model",
     "alias": "Diffusion Model",
     "score": 10
-  },  
+  },
   {
     "category": "CV Model",
+    "language": "en",
     "word": "Convolutional Neural Network",
     "alias": "Convolutional Neural Network",
     "score": 5
   },
   {
     "category": "CV Model",
+    "language": "en",
     "word": "CNN",
     "alias": "Convolutional Neural Network",
     "score": 5

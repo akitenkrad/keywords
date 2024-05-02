@@ -1,4 +1,3 @@
-argostranslate
 black
 click
 colorama
