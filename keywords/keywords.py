@@ -15,6 +15,7 @@ from typing import Any, Optional
 
 import ipadic
 import MeCab
+import numpy as np
 import pykakasi
 from argostranslate import package, translate
 from IPython.display import HTML
@@ -134,7 +135,9 @@ class Keyword(object):
                     keyword = keywords[i]
                     translated = translate.translate(keyword.word, "en", with_translated)
                     keywords.append(
-                        Keyword(keyword.category, translated, keyword.alias, keyword.use_alias, keyword.score)
+                        Keyword(
+                            keyword.category, translated, translated, keyword.use_alias, np.max(0, keyword.score - 2)
+                        )
                     )
                 except Exception as e:
                     if logger:
