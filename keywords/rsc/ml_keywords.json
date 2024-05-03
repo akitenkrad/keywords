@@ -1811,5 +1811,61 @@
     "word": "Split Learning",
     "alias": "Split Learning",
     "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "language": "en",
+    "word": "Concept Activation Vectors",
+    "alias": "Concept Activation Vectors",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "language": "en",
+    "word": "CAV",
+    "alias": "Concept Activation Vectors",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "language": "en",
+    "word": "Low-Rank Adaptation",
+    "alias": "Low-Rank Adaptation",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "language": "en",
+    "word": "LoRA",
+    "alias": "Low-Rank Adaptation",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "language": "en",
+    "word": "Echo-Chamber",
+    "alias": "Echo-Chamber",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "language": "en",
+    "word": "Echo Chamber",
+    "alias": "Echo-Chamber",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "language": "en",
+    "word": "Metric Local Differential Privacy",
+    "alias": "Metric Local Differential Privacy",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "language": "en",
+    "word": "MLDP",
+    "alias": "Metric Local Differential Privacy",
+    "score": 10
   }
 ]
