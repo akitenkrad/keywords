@@ -89,5 +89,75 @@
     "word": "CNN",
     "alias": "Convolutional Neural Network",
     "score": 5
+  },
+  {
+    "category": "CV Topic",
+    "language": "en",
+    "word": "Image Dehazing",
+    "alias": "Image Dehazing",
+    "score": 10
+  },
+  {
+    "category": "CV Topic",
+    "language": "en",
+    "word": "Dehazing",
+    "alias": "Image Dehazing",
+    "score": 10
+  },
+  {
+    "category": "CV Task",
+    "language": "en",
+    "word": "Moment Retrieval",
+    "alias": "Moment Retrieval",
+    "score": 10
+  },
+  {
+    "category": "CV Task",
+    "language": "en",
+    "word": "Hilight Detection",
+    "alias": "Hilight Detection",
+    "score": 10
+  },
+  {
+    "category": "CV Task",
+    "language": "en",
+    "word": "Video Summarization",
+    "alias": "Video Summarization",
+    "score": 10
+  },
+  {
+    "category": "CV Task",
+    "language": "en",
+    "word": "Video2Text",
+    "alias": "Video2Text",
+    "score": 10
+  },
+  {
+    "category": "CV Task",
+    "language": "en",
+    "word": "Video-to-Text",
+    "alias": "Video2Text",
+    "score": 10
+  },
+  {
+    "category": "CV Task",
+    "language": "en",
+    "word": "Image Fusion",
+    "alias": "Image Fusion",
+    "score": 10
+  },
+  {
+    "category": "CV Task",
+    "language": "en",
+    "word": "Body Estimation",
+    "alias": "Body Estimation",
+    "score": 10
+  },
+  {
+    "category": "CV Task",
+    "language": "en",
+    "word": "Change Detection",
+    "alias": "Change Detection",
+    "score": 10
   }
 ]

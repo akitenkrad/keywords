@@ -1804,5 +1804,12 @@
     "word": "AutoML",
     "alias": "AutoML",
     "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "language": "en",
+    "word": "Split Learning",
+    "alias": "Split Learning",
+    "score": 10
   }
 ]

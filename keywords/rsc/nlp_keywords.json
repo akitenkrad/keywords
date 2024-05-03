@@ -2322,5 +2322,26 @@
     "word": "Text Detection",
     "alias": "Text Detection",
     "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "language": "en",
+    "word": "Blockwise Parallel Decoding",
+    "alias": "Blockwise Parallel Decoding",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "language": "en",
+    "word": "Multimodal Large Language Model",
+    "alias": "Multimodal Large Language Model",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "language": "en",
+    "word": "MLLM",
+    "alias": "Multimodal Large Language Model",
+    "score": 10
   }
 ]

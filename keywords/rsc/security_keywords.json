@@ -390,5 +390,12 @@
     "word": "Cyber Security",
     "alias": "Cyber Security",
     "score": 10
+  },
+  {
+    "category": "Security Attack",
+    "language": "en",
+    "word": "Hijacking Attack",
+    "alias": "Hijacking Attack",
+    "score": 10
   }
 ]
