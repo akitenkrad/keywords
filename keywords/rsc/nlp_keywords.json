@@ -310,6 +310,13 @@
   {
     "category": "NLP Task",
     "language": "en",
+    "word": "Co-Reference Resolution",
+    "alias": "Coreference Resolution",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "language": "en",
     "word": "Counterfactual Reasoning",
     "alias": "Counterfactual Reasoning",
     "score": 10
@@ -2342,6 +2349,27 @@
     "language": "en",
     "word": "MLLM",
     "alias": "Multimodal Large Language Model",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "language": "en",
+    "word": "Claim Verification",
+    "alias": "Claim Verification",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "language": "en",
+    "word": "Logical Fallacy Understanding",
+    "alias": "Logical Fallacy Understanding",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "language": "en",
+    "word": "LFU",
+    "alias": "Logical Fallacy Understanding",
     "score": 10
   }
 ]
