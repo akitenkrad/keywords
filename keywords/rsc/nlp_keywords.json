@@ -2371,5 +2371,12 @@
     "word": "LFU",
     "alias": "Logical Fallacy Understanding",
     "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "language": "en",
+    "word": "Event Coreference Resolution",
+    "alias": "Event Coreference Resolution",
+    "score": 10
   }
 ]
