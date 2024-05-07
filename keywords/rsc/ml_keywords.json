@@ -1867,5 +1867,12 @@
     "word": "MLDP",
     "alias": "Metric Local Differential Privacy",
     "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "language": "en",
+    "word": "Formal Concept Analysis",
+    "alias": "Formal Concept Analysis",
+    "score": 10
   }
 ]
