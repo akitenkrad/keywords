@@ -159,5 +159,33 @@
     "word": "Change Detection",
     "alias": "Change Detection",
     "score": 10
+  },
+  {
+    "category": "CV Task",
+    "language": "en",
+    "word": "Few-Shot Object Detection",
+    "alias": "Few-Shot Object Detection",
+    "score": 10
+  },
+  {
+    "category": "CV Task",
+    "language": "en",
+    "word": "Open-Vocabulary Object Detection",
+    "alias": "Open-Vocabulary Object Detection",
+    "score": 10
+  },
+  {
+    "category": "CV Task",
+    "language": "en",
+    "word": "Pose Estimation",
+    "alias": "Pose Estimation",
+    "score": 10
+  },
+  {
+    "category": "CV Task",
+    "language": "en",
+    "word": "Causal Inference",
+    "alias": "Causal Inference",
+    "score": 10
   }
 ]

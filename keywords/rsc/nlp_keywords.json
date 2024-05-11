@@ -2378,5 +2378,33 @@
     "word": "Event Coreference Resolution",
     "alias": "Event Coreference Resolution",
     "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "language": "en",
+    "word": "Text-to-Text",
+    "alias": "Text-to-Text",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "language": "en",
+    "word": "Text2Text",
+    "alias": "Text-to-Text",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "language": "en",
+    "word": "Plausibility",
+    "alias": "Plausibility",
+    "score": 8
+  },
+  {
+    "category": "NLP Task",
+    "language": "en",
+    "word": "Automated Essay Scoring",
+    "alias": "Automated Essay Scoring",
+    "score": 10
   }
 ]

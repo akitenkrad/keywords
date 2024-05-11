@@ -1874,5 +1874,33 @@
     "word": "Formal Concept Analysis",
     "alias": "Formal Concept Analysis",
     "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "language": "en",
+    "word": "Automated Ontology Instantiation",
+    "alias": "Automated Ontology Instantiation",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "language": "en",
+    "word": "Mixture-of-Experts",
+    "alias": "Mixture-of-Experts",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "language": "en",
+    "word": "Entity Linking",
+    "alias": "Entity Linking",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "language": "en",
+    "word": "Web Agent",
+    "alias": "Web Agent",
+    "score": 10
   }
 ]
