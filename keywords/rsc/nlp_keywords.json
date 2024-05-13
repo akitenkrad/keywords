@@ -2406,5 +2406,19 @@
     "word": "Automated Essay Scoring",
     "alias": "Automated Essay Scoring",
     "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "language": "en",
+    "word": "Text Reranking",
+    "alias": "Text Reranking",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "language": "en",
+    "word": "Debiasing",
+    "alias": "Debiasing",
+    "score": 10
   }
 ]
