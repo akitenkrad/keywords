@@ -2420,5 +2420,33 @@
     "word": "Debiasing",
     "alias": "Debiasing",
     "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "language": "en",
+    "word": "GPT-4o",
+    "alias": "GPT-4o",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "language": "en",
+    "word": "Sarcasm Detection",
+    "alias": "Sarcasm Detection",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "language": "en",
+    "word": "Fake Review Detection",
+    "alias": "Fake Review Detection",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "language": "en",
+    "word": "Fake Review Identification",
+    "alias": "Fake Review Identification",
+    "score": 10
   }
 ]
