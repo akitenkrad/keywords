@@ -2448,5 +2448,12 @@
     "word": "Fake Review Identification",
     "alias": "Fake Review Identification",
     "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "language": "en",
+    "word": "Cross-Lingual Alignment",
+    "alias": "Cross-Lingual Alignment",
+    "score": 10
   }
 ]
