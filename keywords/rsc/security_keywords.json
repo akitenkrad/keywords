@@ -397,5 +397,19 @@
     "word": "Hijacking Attack",
     "alias": "Hijacking Attack",
     "score": 10
+  },
+  {
+    "category": "Security Attack",
+    "language": "en",
+    "word": "Membership Inference Attack",
+    "alias": "Membership Inference Attack",
+    "score": 10
+  },
+  {
+    "category": "Security Attack",
+    "language": "en",
+    "word": "MIA",
+    "alias": "Membership Inference Attack",
+    "score": 10
   }
 ]

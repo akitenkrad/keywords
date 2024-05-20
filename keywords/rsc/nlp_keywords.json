@@ -2455,5 +2455,40 @@
     "word": "Cross-Lingual Alignment",
     "alias": "Cross-Lingual Alignment",
     "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "language": "en",
+    "word": "Complex Logical Query Answering",
+    "alias": "Complex Logical Query Answering",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "language": "en",
+    "word": "CLQA",
+    "alias": "Complex Logical Query Answering",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "language": "en",
+    "word": "Long-form Question Answering",
+    "alias": "Long-form Question Answering",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "language": "en",
+    "word": "LFQA",
+    "alias": "Long-form Question Answering",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "language": "en",
+    "word": "Groundedness",
+    "alias": "Groundedness",
+    "score": 8
   }
 ]
