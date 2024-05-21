@@ -187,5 +187,19 @@
     "word": "Causal Inference",
     "alias": "Causal Inference",
     "score": 10
+  },
+  {
+    "category": "CV Task",
+    "language": "en",
+    "word": "Image Quality Assessment",
+    "alias": "Image Quality Assessment",
+    "score": 10
+  },
+  {
+    "category": "CV Task",
+    "language": "en",
+    "word": "IQA",
+    "alias": "Image Quality Assessment",
+    "score": 10
   }
 ]
