@@ -1132,5 +1132,26 @@
         "word": "顔認識",
         "alias": "顔認識",
         "score": 10
+    },
+    {
+        "category": "Japanese Keyword",
+        "language": "ja",
+        "word": "社会課題",
+        "alias": "社会課題",
+        "score": 5
+    },
+    {
+        "category": "Japanese Keyword",
+        "language": "ja",
+        "word": "社会実装",
+        "alias": "社会実装",
+        "score": 5
+    },
+    {
+        "category": "Japanese Keyword",
+        "language": "ja",
+        "word": "ウェルビーイング",
+        "alias": "ウェルビーイング",
+        "score": 5
     }
 ]

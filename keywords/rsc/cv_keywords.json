@@ -201,5 +201,26 @@
     "word": "IQA",
     "alias": "Image Quality Assessment",
     "score": 10
+  },
+  {
+    "category": "CV Task",
+    "language": "en",
+    "word": "Multi-Object Tracking",
+    "alias": "Multi-Object Tracking",
+    "score": 10
+  },
+  {
+    "category": "CV Task",
+    "language": "en",
+    "word": "Multiple Object Tracking",
+    "alias": "Multi-Object Tracking",
+    "score": 10
+  },
+  {
+    "category": "CV Task",
+    "language": "en",
+    "word": "MOT",
+    "alias": "Multi-Object Tracking",
+    "score": 10
   }
 ]
