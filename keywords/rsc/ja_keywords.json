@@ -1153,5 +1153,19 @@
         "word": "ウェルビーイング",
         "alias": "ウェルビーイング",
         "score": 5
+    },
+    {
+        "category": "Japanese Keyword",
+        "language": "ja",
+        "word": "標準化",
+        "alias": "標準化",
+        "score": 10
+    },
+    {
+        "category": "Japanese Keyword",
+        "language": "ja",
+        "word": "シミュレーション",
+        "alias": "シミュレーション",
+        "score": 10
     }
 ]

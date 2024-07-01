@@ -2490,5 +2490,12 @@
     "word": "Groundedness",
     "alias": "Groundedness",
     "score": 8
+  },
+  {
+    "category": "NLP Task",
+    "language": "en",
+    "word": "Knowledge Graph Completion",
+    "alias": "Knowledge Graph Completion",
+    "score": 8
   }
 ]

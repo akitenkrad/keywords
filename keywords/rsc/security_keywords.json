@@ -411,5 +411,12 @@
     "word": "MIA",
     "alias": "Membership Inference Attack",
     "score": 10
+  },
+  {
+    "category": "Security Topic",
+    "language": "en",
+    "word": "Application Recognition",
+    "alias": "Application Recognition",
+    "score": 7
   }
 ]
