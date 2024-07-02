@@ -229,5 +229,40 @@
         "word": "Open Source Software",
         "alias": "OSS",
         "score": 5
+    },
+    {
+        "category": "Machine Learning Topic",
+        "language": "en",
+        "word": "Hugging Face",
+        "alias": "Hugging Face",
+        "score": 8
+    },
+    {
+        "category": "Machine Learning Topic",
+        "language": "en",
+        "word": "NVIDIA",
+        "alias": "NVIDIA",
+        "score": 8
+    },
+    {
+        "category": "Machine Learning Topic",
+        "language": "en",
+        "word": "Security Operation Center",
+        "alias": "Security Operation Center",
+        "score": 8
+    },
+    {
+        "category": "Machine Learning Topic",
+        "language": "en",
+        "word": "SOC",
+        "alias": "Security Operation Center",
+        "score": 8
+    },
+    {
+        "category": "Machine Learning Topic",
+        "language": "en",
+        "word": "OpenSSH",
+        "alias": "OpenSSH",
+        "score": 8
     }
 ]

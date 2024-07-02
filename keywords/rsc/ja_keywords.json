@@ -1075,7 +1075,7 @@
         "language": "ja",
         "word": "脆弱性",
         "alias": "脆弱性",
-        "score": 8
+        "score": 3
     },
     {
         "category": "Japanese Keyword",
@@ -1167,5 +1167,47 @@
         "word": "シミュレーション",
         "alias": "シミュレーション",
         "score": 10
+    },
+    {
+        "category": "Japanese Keyword",
+        "language": "ja",
+        "word": "自動運転",
+        "alias": "自動運転",
+        "score": 10
+    },
+    {
+        "category": "Japanese Keyword",
+        "language": "ja",
+        "word": "生成AI",
+        "alias": "生成AI",
+        "score": 10
+    },
+    {
+        "category": "Japanese Keyword",
+        "language": "ja",
+        "word": "マルチモーダル",
+        "alias": "マルチモーダル",
+        "score": 3
+    },
+    {
+        "category": "Japanese Keyword",
+        "language": "ja",
+        "word": "オープンソース",
+        "alias": "Open Source Software",
+        "score": 3
+    },
+    {
+        "category": "Japanese Keyword",
+        "language": "ja",
+        "word": "負荷テスト",
+        "alias": "負荷テスト",
+        "score": 3
+    },
+    {
+        "category": "Japanese Keyword",
+        "language": "ja",
+        "word": "ペネトレーションテスト",
+        "alias": "ペネトレーションテスト",
+        "score": 5
     }
 ]
