@@ -418,5 +418,26 @@
     "word": "Application Recognition",
     "alias": "Application Recognition",
     "score": 7
+  },
+  {
+    "category": "Security Topic",
+    "language": "en",
+    "word": "Data Poisoning Attack",
+    "alias": "Data Poisoning Attack",
+    "score": 10
+  },
+  {
+    "category": "Security Topic",
+    "language": "en",
+    "word": "Retrieval Poisoning Attack",
+    "alias": "Retrieval Poisoning Attack",
+    "score": 10
+  },
+  {
+    "category": "Security Topic",
+    "language": "en",
+    "word": "Poisoning Attack",
+    "alias": "Poisoning Attack",
+    "score": 10
   }
 ]

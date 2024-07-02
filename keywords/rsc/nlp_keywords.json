@@ -2496,6 +2496,13 @@
     "language": "en",
     "word": "Knowledge Graph Completion",
     "alias": "Knowledge Graph Completion",
-    "score": 8
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "language": "en",
+    "word": "Counterfactual Text Generation",
+    "alias": "Counterfactual Text Generation",
+    "score": 10
   }
 ]

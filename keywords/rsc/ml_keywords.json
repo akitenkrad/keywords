@@ -1909,5 +1909,12 @@
     "word": "Personalization",
     "alias": "Personalization",
     "score": 8
+  },
+  {
+    "category": "Machine Learning Topic",
+    "language": "en",
+    "word": "Memorization Quantification",
+    "alias": "Memorization Quantification",
+    "score": 10
   }
 ]
