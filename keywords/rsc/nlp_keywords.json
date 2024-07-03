@@ -2504,5 +2504,19 @@
     "word": "Counterfactual Text Generation",
     "alias": "Counterfactual Text Generation",
     "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "language": "en",
+    "word": "RAG",
+    "alias": "Retrieval-Augmented Generation",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "language": "en",
+    "word": "Retrieval-Augmented Generation",
+    "alias": "Retrieval-Augmented Generation",
+    "score": 10
   }
 ]

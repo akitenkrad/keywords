@@ -53,6 +53,8 @@ class KeywordCategory(Enum):
     SECURITY_TASK = "Security Task"
     SECURITY_HACKER_GROUP = "HACKER GROUP"
     ICT_TOPIC = "ICT Topic"
+    ICT_PRODUCT = "ICT Product"
+    ICT_INSTITUTION = "ICT Institution"
     JAPANESE_KEYWORD = "Japanese Keyword"
     OTHER = "Other"
 

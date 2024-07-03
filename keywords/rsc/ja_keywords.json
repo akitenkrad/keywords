@@ -3,574 +3,574 @@
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "3Dプリンター",
-        "alias": "3Dプリンタ",
+        "alias": "3D Printer",
         "score": 3
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "3Dプリント",
-        "alias": "3Dプリンタ",
+        "alias": "3D Print",
         "score": 3
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "AIセキュリティ",
-        "alias": "AIセキュリティ",
+        "alias": "AI Security",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "テキスト検出",
-        "alias": "テキスト検出",
+        "alias": "Text Detection",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "ヘイトスピーチ",
-        "alias": "ヘイトスピーチ",
+        "alias": "Hate Speech",
         "score": 8
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "KLダイバージェンス",
-        "alias": "KLダイバージェンス",
+        "alias": "KL-Divergence",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "マルコフ過程",
-        "alias": "マルコフ過程",
+        "alias": "Markov Process",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "Nグラム",
-        "alias": "Nグラム",
+        "alias": "N-gram",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "SQLインジェクション",
-        "alias": "SQLインジェクション",
+        "alias": "SQL Injection",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "アウトオブドメイン",
-        "alias": "アウトオブドメイン",
+        "alias": "Out-of-Domain",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "アウトオブボキャブラリ",
-        "alias": "アウトオブボキャブラリ",
+        "alias": "Out-of-Vocabulary",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "アウトオブボキャブラリー",
-        "alias": "アウトオブボキャブラリー",
+        "alias": "Out-of-Vocabulary",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "アクティブラーニング",
-        "alias": "アクティブラーニング",
+        "alias": "Active Learning",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "感情分析",
-        "alias": "感情分析",
+        "alias": "Sentiment Analysis",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "アスペクト抽出",
-        "alias": "アスペクト抽出",
+        "alias": "Aspect Extraction",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "アノテーション",
-        "alias": "アノテーション",
+        "alias": "Annotation",
         "score": 3
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "アラインメント",
-        "alias": "アラインメント",
+        "alias": "Alignment",
         "score": 8
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "アンサンブル",
-        "alias": "アンサンブル",
+        "alias": "Ansemble",
         "score": 3
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "イベント抽出",
-        "alias": "イベント抽出",
+        "alias": "Event Extraction",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "イベント検出",
-        "alias": "イベント検出",
+        "alias": "Event Detection",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "インテント検出",
-        "alias": "インテント検出",
+        "alias": "Intent Extraction",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "シミュレーター",
-        "alias": "シミュレーター",
+        "alias": "Simulator",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "シミュレータ",
-        "alias": "シミュレータ",
+        "alias": "Simulator",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "エッジ予測",
-        "alias": "エッジ予測",
+        "alias": "Link Prediction",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "エッジ分類",
-        "alias": "エッジ分類",
+        "alias": "Edge Classification",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "エッジ異常検知",
-        "alias": "エッジ異常検知",
+        "alias": "Edge Anomaly Detection",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "エミュレータ",
-        "alias": "エミュレータ",
+        "alias": "Emulator",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "エミュレート",
-        "alias": "エミュレータ",
+        "alias": "Emulator",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "エンコーダ",
-        "alias": "エンコーダ",
+        "alias": "Encoder",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "エージェント",
-        "alias": "エージェント",
+        "alias": "Agent",
         "score": 7
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "オフトピック検出",
-        "alias": "オフトピック検出",
+        "alias": "Off-topic Detection",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
-        "word": "オフライン補強学習",
-        "alias": "オフライン補強学習",
+        "word": "オフライン強化学習",
+        "alias": "Offline Reinforcement Learning",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "オブジェクト検出",
-        "alias": "オブジェクト検出",
+        "alias": "Object Detection",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
-        "word": "オンライン補強学習",
-        "alias": "オンライン補強学習",
+        "word": "オンライン強化学習",
+        "alias": "Online Reinforcement Learning",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
-        "word": "補強学習",
-        "alias": "補強学習",
+        "word": "強化学習",
+        "alias": "Reinforcement Learning",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "過適合",
-        "alias": "過適合",
+        "alias": "Overfitting",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "オープンソース",
-        "alias": "オープンソースソフトウェア",
+        "alias": "Open Source Software",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "オープンソースソフトウェア",
-        "alias": "オープンソースソフトウェア",
+        "alias": "Open Source Software",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "オープンドメイン",
-        "alias": "オープンドメイン",
+        "alias": "Open Domain",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "質問応答",
-        "alias": "質問応答",
+        "alias": "Question Answering",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "チャットボット",
-        "alias": "チャットボット",
+        "alias": "Chatbot",
         "score": 7
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "情報抽出",
-        "alias": "情報抽出",
+        "alias": "Information Extraction",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "カリキュラム学習",
-        "alias": "カリキュラム学習",
+        "alias": "Curriculum Learning",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "キーワード検出",
-        "alias": "キーワード検出",
+        "alias": "Keyword Detection",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "キーワード抽出",
-        "alias": "キーワード抽出",
+        "alias": "Keyword Extraction",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "キーワード認識",
-        "alias": "キーワード認識",
+        "alias": "Keyword Recognition",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "クラスタリング",
-        "alias": "クラスタリング",
+        "alias": "Clustering",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "クロスサイトスクリプティング",
-        "alias": "クロスサイトスクリプティング",
+        "alias": "Cross-Site Scripting",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "グラフ",
-        "alias": "グラフ",
+        "alias": "Graph",
         "score": 3
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "グラフ分類",
-        "alias": "グラフ分類",
+        "alias": "Graph Classification",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "グラフ埋め込み",
-        "alias": "グラフ埋め込み",
+        "alias": "Graph Embedding",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "グラフニューラルネットワーク",
-        "alias": "グラフニューラルネットワーク",
+        "alias": "Graph Neural Network",
         "score": 8
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "グラフ異常検知",
-        "alias": "グラフ異常検知",
+        "alias": "Graph Anomaly Detection",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "コネクテッドカー",
-        "alias": "コネクテッドカー",
+        "alias": "Connected Car",
         "score": 7
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "コンテキスト埋め込み",
-        "alias": "コンテキスト埋め込み",
+        "alias": "Context Embedding",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "コンテキスト学習",
-        "alias": "コンテキスト学習",
+        "alias": "In-context Learning",
         "score": 8
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "コンピュータウイルス",
-        "alias": "コンピュータウイルス",
+        "alias": "Computer Virus",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "コンピュータビジョン",
-        "alias": "コンピュータビジョン",
+        "alias": "Computer Vision",
         "score": 3
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "コンプライアンス",
-        "alias": "コンプライアンス",
+        "alias": "Compliance",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "コード生成",
-        "alias": "コード生成",
+        "alias": "Code Generation",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "コーパス",
-        "alias": "コーパス",
+        "alias": "Corpus",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "サイバーセキュリティ",
-        "alias": "サイバーセキュリティ",
+        "alias": "Cyber Security",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "サブワード",
-        "alias": "サブワード",
+        "alias": "Subword",
         "score": 7
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "要約",
-        "alias": "要約",
+        "alias": "Abstraction",
         "score": 3
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "サンプリング",
-        "alias": "サンプリング",
+        "alias": "Sampling",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "サンプルサイズ",
-        "alias": "サンプルサイズ",
+        "alias": "Sampling Size",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "シンタックス",
-        "alias": "シンタックス",
+        "alias": "Syntax",
         "score": 3
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "敵対的学習",
-        "alias": "敵対的学習",
+        "alias": "Adversarial Learning",
         "score": 7
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "スタンス検出",
-        "alias": "スタンス検出",
+        "alias": "Stance Detection",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "スプーフィング",
-        "alias": "スプーフィング",
+        "alias": "Spoofing",
         "score": 8
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "セキュリティ",
-        "alias": "セキュリティ",
+        "alias": "Security",
         "score": 7
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "文章埋め込み",
-        "alias": "文章埋め込み",
+        "alias": "Document Embedding",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "ゼロショット",
-        "alias": "ゼロショット",
+        "alias": "Zero-shot",
         "score": 7
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "ゼロショット学習",
-        "alias": "ゼロショット学習",
+        "alias": "Zero-shot Learning",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "ゼロトラスト",
-        "alias": "ゼロトラスト",
+        "alias": "Zero Trust",
         "score": 8
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "故障予測",
-        "alias": "故障予測",
+        "alias": "Failure Prediction",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "故障検出",
-        "alias": "故障検出",
+        "alias": "Failure Detection",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "ソフトマックス",
-        "alias": "ソフトマックス",
+        "alias": "Softmax",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "ソーシャルメディア",
-        "alias": "ソーシャルメディア",
+        "alias": "Social Media",
         "score": 3
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "ダイアログ",
-        "alias": "ダイアログ",
+        "alias": "Dialogue",
         "score": 3
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "テキスト分類",
-        "alias": "テキスト分類",
+        "alias": "Text Classification",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "データ拡張",
-        "alias": "データ拡張",
+        "alias": "Data Augmentation",
         "score": 8
     },
     {
@@ -885,21 +885,21 @@
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "単語埋め込み",
-        "alias": "単語埋め込み",
+        "alias": "Word Embedding",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "基盤モデル",
-        "alias": "基盤モデル",
+        "alias": "Fundamental Model",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "変分オートエンコーダ",
-        "alias": "変分オートエンコーダ",
+        "alias": "Variational Autoencoder",
         "score": 10
     },
     {
@@ -1081,21 +1081,21 @@
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "自然言語処理",
-        "alias": "自然言語処理",
+        "alias": "Natural Language Processing",
         "score": 7
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "言語モデル",
-        "alias": "言語モデル",
+        "alias": "Language Model",
         "score": 8
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "説明可能なAI",
-        "alias": "説明可能なAI",
+        "alias": "Explainable AI",
         "score": 10
     },
     {
@@ -1172,21 +1172,21 @@
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "自動運転",
-        "alias": "自動運転",
+        "alias": "Self-driving",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "生成AI",
-        "alias": "生成AI",
+        "alias": "Generative AI",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "マルチモーダル",
-        "alias": "マルチモーダル",
+        "alias": "Multi-modal",
         "score": 3
     },
     {
@@ -1200,42 +1200,63 @@
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "負荷テスト",
-        "alias": "負荷テスト",
+        "alias": "Stress Test",
         "score": 3
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "ペネトレーションテスト",
-        "alias": "ペネトレーションテスト",
+        "alias": "Penetration Test",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "ガートナー",
-        "alias": "ガートナー",
+        "alias": "Gartner",
         "score": 3
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "ハミング距離",
-        "alias": "ハミング距離",
+        "alias": "Hamming Distance",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "ユークリッド距離",
-        "alias": "ユークリッド距離",
+        "alias": "Euqlidean Distance",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "マハラノビス距離",
-        "alias": "マハラノビス距離",
+        "alias": "Mahalanobis Distance",
         "score": 5
+    },
+    {
+        "category": "Japanese Keyword",
+        "language": "ja",
+        "word": "情報通信研究機構",
+        "alias": "NICT",
+        "score": 10
+    },
+    {
+        "category": "Japanese Keyword",
+        "language": "ja",
+        "word": "NICT",
+        "alias": "NICT",
+        "score": 10
+    },
+    {
+        "category": "Japanese Keyword",
+        "language": "ja",
+        "word": "楽天",
+        "alias": "Rakuten",
+        "score": 10
     }
 ]

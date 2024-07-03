@@ -14,70 +14,70 @@
         "score": 10
     },
     {
-        "category": "ICT Topic",
+        "category": "ICT Product",
         "language": "en",
         "word": "AWS",
         "alias": "AWS",
         "score": 8
     },
     {
-        "category": "ICT Topic",
+        "category": "ICT Product",
         "language": "en",
         "word": "Adobe",
         "alias": "Adobe",
-        "score": 8
+        "score": 5
     },
     {
-        "category": "ICT Topic",
+        "category": "ICT Product",
         "language": "en",
         "word": "Alder Lake",
         "alias": "AlderLake",
-        "score": 10
+        "score": 3
     },
     {
-        "category": "ICT Topic",
+        "category": "ICT Product",
         "language": "en",
         "word": "AlderLake",
         "alias": "AlderLake",
         "score": 10
     },
     {
-        "category": "ICT Topic",
+        "category": "ICT Institution",
         "language": "en",
         "word": "Alibaba",
         "alias": "Alibaba",
         "score": 8
     },
     {
-        "category": "ICT Topic",
+        "category": "ICT Institution",
         "language": "en",
         "word": "Amazon",
         "alias": "Amazon",
         "score": 8
     },
     {
-        "category": "ICT Topic",
+        "category": "ICT Product",
         "language": "en",
         "word": "Azure",
         "alias": "Azure",
         "score": 8
     },
     {
-        "category": "ICT Topic",
+        "category": "ICT Product",
         "language": "en",
         "word": "GCP",
         "alias": "GCP",
         "score": 8
     },
     {
-        "category": "ICT Topic",
+        "category": "ICT Institution",
         "language": "en",
         "word": "GPUSOROBAN",
         "alias": "GPUSOROBAN",
         "score": 8
     },
     {
-        "category": "ICT Topic",
+        "category": "ICT Institution",
         "language": "en",
         "word": "Baidu",
         "alias": "Baidu",
@@ -91,7 +91,7 @@
         "score": 10
     },
     {
-        "category": "ICT Topic",
+        "category": "ICT Institution",
         "language": "en",
         "word": "DeepMind",
         "alias": "DeepMind",
@@ -105,35 +105,42 @@
         "score": 10
     },
     {
-        "category": "ICT Topic",
+        "category": "ICT Product",
         "language": "en",
         "word": "Facebook",
         "alias": "Facebook",
         "score": 5
     },
     {
-        "category": "ICT Topic",
+        "category": "ICT Product",
         "language": "en",
         "word": "Twitter",
         "alias": "Twitter",
         "score": 5
     },
     {
-        "category": "ICT Topic",
+        "category": "ICT Product",
+        "language": "en",
+        "word": "X",
+        "alias": "X",
+        "score": 1
+    },
+    {
+        "category": "ICT Product",
         "language": "en",
         "word": "Instagram",
         "alias": "Instagram",
         "score": 5
     },
     {
-        "category": "ICT Topic",
+        "category": "ICT Product",
         "language": "en",
         "word": "Bluesky",
         "alias": "Bluesky",
         "score": 5
     },
     {
-        "category": "ICT Topic",
+        "category": "ICT Product",
         "language": "en",
         "word": "Mastodon",
         "alias": "Mastodon",
@@ -154,49 +161,49 @@
         "score": 10
     },
     {
-        "category": "ICT Topic",
+        "category": "ICT Institution",
         "language": "en",
         "word": "Falcom",
         "alias": "Falcom",
         "score": 10
     },
     {
-        "category": "ICT Topic",
+        "category": "ICT Institution",
         "language": "en",
         "word": "Google",
         "alias": "Google",
         "score": 3
     },
     {
-        "category": "ICT Topic",
+        "category": "ICT Institution",
         "language": "en",
         "word": "Apple",
         "alias": "Apple",
         "score": 3
     },
     {
-        "category": "ICT Topic",
+        "category": "ICT Institution",
         "language": "en",
         "word": "Microsoft",
         "alias": "Microsoft",
         "score": 3
     },
     {
-        "category": "ICT Topic",
+        "category": "ICT Product",
         "language": "en",
-        "word": "HaggingFace",
-        "alias": "HaggingFace",
+        "word": "HuggingFace",
+        "alias": "HuggingFace",
         "score": 8
     },
     {
-        "category": "ICT Topic",
+        "category": "ICT Product",
         "language": "en",
-        "word": "Hagging Face",
-        "alias": "HaggingFace",
+        "word": "Hugging Face",
+        "alias": "HuggingFace",
         "score": 8
     },
     {
-        "category": "ICT Topic",
+        "category": "ICT Institution",
         "language": "en",
         "word": "IBM",
         "alias": "IBM",
@@ -231,14 +238,7 @@
         "score": 5
     },
     {
-        "category": "ICT Topic",
-        "language": "en",
-        "word": "Hugging Face",
-        "alias": "Hugging Face",
-        "score": 8
-    },
-    {
-        "category": "ICT Topic",
+        "category": "ICT Institution",
         "language": "en",
         "word": "NVIDIA",
         "alias": "NVIDIA",
@@ -264,5 +264,40 @@
         "word": "OpenSSH",
         "alias": "OpenSSH",
         "score": 8
+    },
+    {
+        "category": "ICT Institution",
+        "language": "en",
+        "word": "KDDI",
+        "alias": "KDDI",
+        "score": 10
+    },
+    {
+        "category": "ICT Institution",
+        "language": "en",
+        "word": "NTT",
+        "alias": "NTT",
+        "score": 10
+    },
+    {
+        "category": "ICT Institution",
+        "language": "en",
+        "word": "Rakuten",
+        "alias": "Rakuten",
+        "score": 10
+    },
+    {
+        "category": "ICT Product",
+        "language": "en",
+        "word": "au",
+        "alias": "au",
+        "score": 10
+    },
+    {
+        "category": "ICT Product",
+        "language": "en",
+        "word": "docomo",
+        "alias": "docomo",
+        "score": 10
     }
 ]
