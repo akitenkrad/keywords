@@ -1916,5 +1916,12 @@
     "word": "Memorization Quantification",
     "alias": "Memorization Quantification",
     "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "language": "en",
+    "word": "Cellular Automaton",
+    "alias": "Cellular Automaton",
+    "score": 10
   }
 ]

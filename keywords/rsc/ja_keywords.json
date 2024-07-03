@@ -1209,5 +1209,33 @@
         "word": "ペネトレーションテスト",
         "alias": "ペネトレーションテスト",
         "score": 5
+    },
+    {
+        "category": "Japanese Keyword",
+        "language": "ja",
+        "word": "ガートナー",
+        "alias": "ガートナー",
+        "score": 3
+    },
+    {
+        "category": "Japanese Keyword",
+        "language": "ja",
+        "word": "ハミング距離",
+        "alias": "ハミング距離",
+        "score": 5
+    },
+    {
+        "category": "Japanese Keyword",
+        "language": "ja",
+        "word": "ユークリッド距離",
+        "alias": "ユークリッド距離",
+        "score": 5
+    },
+    {
+        "category": "Japanese Keyword",
+        "language": "ja",
+        "word": "マハラノビス距離",
+        "alias": "マハラノビス距離",
+        "score": 5
     }
 ]
