@@ -439,5 +439,12 @@
     "word": "Poisoning Attack",
     "alias": "Poisoning Attack",
     "score": 10
+  },
+  {
+    "category": "Hacker Group",
+    "language": "en",
+    "word": "BlackSuit",
+    "alias": "BlackSuit",
+    "score": 8
   }
 ]

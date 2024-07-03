@@ -264,12 +264,5 @@
         "word": "OpenSSH",
         "alias": "OpenSSH",
         "score": 8
-    },
-    {
-        "category": "Hacker Group",
-        "language": "en",
-        "word": "BlackSuit",
-        "alias": "BlackSuit",
-        "score": 8
     }
 ]
