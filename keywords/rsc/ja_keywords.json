@@ -822,63 +822,63 @@
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "モラルバイアス",
-        "alias": "モラルバイアス",
+        "alias": "Moral Bias",
         "score": 8
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "ランサムウェア",
-        "alias": "ランサムウェア",
+        "alias": "Ransomware",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "不均衡データ",
-        "alias": "不均衡データ",
+        "alias": "Unbalanced Data",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "事実検証",
-        "alias": "事実検証",
+        "alias": "Fact Verification",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "人工知能",
-        "alias": "人工知能",
+        "alias": "AI",
         "score": 8
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "フェイクニュース",
-        "alias": "フェイクニュース",
+        "alias": "Fake News",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "フェイクニュース検出",
-        "alias": "フェイクニュース検出",
+        "alias": "Fake News Detection",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "偽陽性比率",
-        "alias": "偽陽性比率",
+        "alias": "False Positive Rate",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
-        "word": "再発ニューラルネットワーク",
-        "alias": "再発ニューラルネットワーク",
+        "word": "再帰ニューラルネットワーク",
+        "alias": "Recurrent Neural Network",
         "score": 10
     },
     {
@@ -906,175 +906,175 @@
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "対照学習",
-        "alias": "対照学習",
+        "alias": "Contrastive Learning",
         "score": 7
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "対話システム",
-        "alias": "対話システム",
+        "alias": "Dialogue System",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "対話応答生成",
-        "alias": "対話応答生成",
+        "alias": "Dialogue Response Generation",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "対話状態追跡",
-        "alias": "対話状態追跡",
+        "alias": "Dialogue State Tracking",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "属性グラフ",
-        "alias": "属性グラフ",
+        "alias": "Attribute Graph",
         "score": 7
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "ハルシネーション",
-        "alias": "ハルシネーション",
+        "alias": "Hallucination",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "弱教師あり学習",
-        "alias": "弱教師あり学習",
+        "alias": "Semi-supervised Learning",
         "score": 8
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "強化学習",
-        "alias": "強化学習",
+        "alias": "Reinforcement Learning",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "形態素解析",
-        "alias": "形態素解析",
+        "alias": "Morphological Analysis",
         "score": 8
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "情報圧縮",
-        "alias": "情報圧縮",
+        "alias": "Information Compression",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "情報検索",
-        "alias": "情報検索",
+        "alias": "Information Extraction",
         "score": 7
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "意図抽出",
-        "alias": "意図抽出",
+        "alias": "Intent Extraction",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "感情認識",
-        "alias": "感情認識",
+        "alias": "Sentiment Analysis",
         "score": 8
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "拡張現実",
-        "alias": "拡張現実",
+        "alias": "AR",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "拡散モデル",
-        "alias": "拡散モデル",
+        "alias": "Diffusion Model",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "文書分類",
-        "alias": "文書分類",
+        "alias": "Document Classification",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "文書埋め込み",
-        "alias": "文書埋め込み",
+        "alias": "Document Embedding",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "機械翻訳",
-        "alias": "機械翻訳",
+        "alias": "Machine Translation",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "異常検知",
-        "alias": "異常検知",
+        "alias": "Anomaly Detection",
         "score": 8
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "知識蒸留",
-        "alias": "知識蒸留",
+        "alias": "Knowledge Distillation",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "知識グラフ",
-        "alias": "知識グラフ",
+        "alias": "Knowledge Graph",
         "score": 8
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "知識ベース",
-        "alias": "知識ベース",
+        "alias": "Knowledge Base",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "知識移転",
-        "alias": "知識移転",
+        "alias": "Knowledge Transfer",
         "score": 8
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "確率モデル",
-        "alias": "確率モデル",
+        "alias": "Probabilistic Model",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "脆弱性",
-        "alias": "脆弱性",
+        "alias": "Vulnerability",
         "score": 3
     },
     {
@@ -1102,70 +1102,70 @@
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "連続グラフ",
-        "alias": "連続グラフ",
+        "alias": "Continuous Graph",
         "score": 8
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "階層クラスタリング",
-        "alias": "階層クラスタリング",
+        "alias": "Hierarchical Clustering",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "静的グラフ",
-        "alias": "静的グラフ",
+        "alias": "Static Graph",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "音声認識",
-        "alias": "音声認識",
+        "alias": "Automatic Speech Recognition",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "顔認識",
-        "alias": "顔認識",
+        "alias": "Face Recognition",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "社会課題",
-        "alias": "社会課題",
+        "alias": "Social Problem",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "社会実装",
-        "alias": "社会実装",
+        "alias": "Sotial Implementation",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "ウェルビーイング",
-        "alias": "ウェルビーイング",
+        "alias": "Well-beging",
         "score": 5
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "標準化",
-        "alias": "標準化",
+        "alias": "Standardization",
         "score": 10
     },
     {
         "category": "Japanese Keyword",
         "language": "ja",
         "word": "シミュレーション",
-        "alias": "シミュレーション",
+        "alias": "Simulation",
         "score": 10
     },
     {
@@ -1257,6 +1257,13 @@
         "language": "ja",
         "word": "楽天",
         "alias": "Rakuten",
+        "score": 10
+    },
+    {
+        "category": "Japanese Keyword",
+        "language": "ja",
+        "word": "サイバーエージェント",
+        "alias": "CyberAgent",
         "score": 10
     }
 ]
