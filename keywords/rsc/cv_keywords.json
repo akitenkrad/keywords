@@ -222,5 +222,12 @@
     "word": "MOT",
     "alias": "Multi-Object Tracking",
     "score": 10
+  },
+  {
+    "category": "CV Task",
+    "language": "en",
+    "word": "Video Understanding",
+    "alias": "Video Understanding",
+    "score": 10
   }
 ]
