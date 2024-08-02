@@ -15,7 +15,6 @@ from typing import Any, Optional
 
 import ipadic
 import MeCab
-import numpy as np
 import pykakasi
 from IPython.display import HTML
 from tqdm import tqdm
@@ -113,7 +112,7 @@ class Keyword(object):
             return self.word
 
     @classmethod
-    def load_keywords(cls, categories: list[KeywordCategory] = []) -> list[Keyword]:
+    def load_keywords(cls, categories: list[KeywordCategory] = [], add_kws_to_mecab: bool = False) -> list[Keyword]:
 
         keywords = []
 
@@ -134,6 +133,9 @@ class Keyword(object):
 
         if len(categories) > 0:
             keywords = [keyword for keyword in keywords if keyword.category in categories]
+
+        if add_kws_to_mecab:
+            add_keywords_to_mecab_dic(keywords)
 
         keywords = sorted(list(set(keywords)))
         return keywords
