@@ -2518,5 +2518,12 @@
     "word": "Retrieval-Augmented Generation",
     "alias": "Retrieval-Augmented Generation",
     "score": 10
+  },
+  {
+    "category": "NLP Model",
+    "language": "en",
+    "word": "SearchGPT",
+    "alias": "SearchGPT",
+    "score": 10
   }
 ]
