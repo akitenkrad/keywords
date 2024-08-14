@@ -2525,5 +2525,12 @@
     "word": "SearchGPT",
     "alias": "SearchGPT",
     "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "language": "en",
+    "word": "Document Layout Analysis",
+    "alias": "Document Layout Analysis",
+    "score": 10
   }
 ]

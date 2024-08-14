@@ -1923,5 +1923,19 @@
     "word": "Cellular Automaton",
     "alias": "Cellular Automaton",
     "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "language": "en",
+    "word": "Pattern Recognition",
+    "alias": "Pattern Recognition",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "language": "en",
+    "word": "Pattern Matching",
+    "alias": "Pattern Matching",
+    "score": 10
   }
 ]
