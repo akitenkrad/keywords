@@ -446,5 +446,12 @@
     "word": "BlackSuit",
     "alias": "BlackSuit",
     "score": 8
+  },
+  {
+    "category": "Security Task",
+    "language": "en",
+    "word": "Vulnerability Detection",
+    "alias": "Vulnerability Detection",
+    "score": 10
   }
 ]
