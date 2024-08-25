@@ -2532,5 +2532,19 @@
     "word": "Document Layout Analysis",
     "alias": "Document Layout Analysis",
     "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "language": "en",
+    "word": "Byte Pair Encoding",
+    "alias": "Byte Pair Encoding",
+    "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "language": "en",
+    "word": "Dialogue Relation Extraction",
+    "alias": "Dialogue Relation Extraction",
+    "score": 10
   }
 ]

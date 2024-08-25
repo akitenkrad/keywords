@@ -1265,5 +1265,12 @@
         "word": "サイバーエージェント",
         "alias": "CyberAgent",
         "score": 10
+    },
+    {
+        "category": "Japanese Keyword",
+        "language": "ja",
+        "word": "スケーリング法則",
+        "alias": "Scaling Law",
+        "score": 10
     }
 ]

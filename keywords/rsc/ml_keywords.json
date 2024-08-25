@@ -1937,5 +1937,33 @@
     "word": "Pattern Matching",
     "alias": "Pattern Matching",
     "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "language": "en",
+    "word": "Temporal Scaling Law",
+    "alias": "Temporal Scaling Law",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "language": "en",
+    "word": "Common Core Ontologies",
+    "alias": "Common Core Ontologies",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "language": "en",
+    "word": "Q-Learning",
+    "alias": "Q-Learning",
+    "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "language": "en",
+    "word": "Commonsense Knowledge Base",
+    "alias": "Commonsense Knowledge Base",
+    "score": 10
   }
 ]

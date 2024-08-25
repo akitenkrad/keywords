@@ -453,5 +453,12 @@
     "word": "Vulnerability Detection",
     "alias": "Vulnerability Detection",
     "score": 10
+  },
+  {
+    "category": "Security Topic",
+    "language": "en",
+    "word": "Watermarking",
+    "alias": "Watermarking",
+    "score": 10
   }
 ]
