@@ -2546,5 +2546,19 @@
     "word": "Dialogue Relation Extraction",
     "alias": "Dialogue Relation Extraction",
     "score": 10
+  },
+  {
+    "category": "NLP Topic",
+    "language": "en",
+    "word": "Bias Detection",
+    "alias": "Bias Detection",
+    "score": 10
+  },
+  {
+    "category": "NLP Task",
+    "language": "en",
+    "word": "Spell Correction",
+    "alias": "Spell Correction",
+    "score": 10
   }
 ]

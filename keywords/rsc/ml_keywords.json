@@ -1965,5 +1965,12 @@
     "word": "Commonsense Knowledge Base",
     "alias": "Commonsense Knowledge Base",
     "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "language": "en",
+    "word": "Copilot",
+    "alias": "Copilot",
+    "score": 10
   }
 ]
