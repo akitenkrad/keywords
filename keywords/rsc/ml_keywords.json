@@ -1972,5 +1972,12 @@
     "word": "Copilot",
     "alias": "Copilot",
     "score": 10
+  },
+  {
+    "category": "Machine Learning Topic",
+    "language": "en",
+    "word": "Truth-value Judgement",
+    "alias": "Truth-value Judgement",
+    "score": 10
   }
 ]

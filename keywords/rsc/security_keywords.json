@@ -460,5 +460,19 @@
     "word": "Watermarking",
     "alias": "Watermarking",
     "score": 10
+  },
+  {
+    "category": "Security Topic",
+    "language": "en",
+    "word": "Detoxification",
+    "alias": "Detoxification",
+    "score": 10
+  },
+  {
+    "category": "Security Topic",
+    "language": "en",
+    "word": "Copyright Safeguarding",
+    "alias": "Copyright Safeguarding",
+    "score": 10
   }
 ]
