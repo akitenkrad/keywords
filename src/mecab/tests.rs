@@ -34,7 +34,8 @@ fn test_add_word_to_user_dic() {
     add_word_to_user_dic("ビットコイン");
     add_word_to_user_dic("サムアルトマン");
 
-    let tokens = mecab_tokenize("東京都斎藤飛鳥本とカレーの街ビットコインサムアルトマン ChatGPT");
-    assert_eq!(tokens.len(), 11);
+    let tokens =
+        mecab_tokenize("東京都斎藤飛鳥本とカレーの街やビットコインとサムアルトマン ChatGPT");
     println!("{:?}", tokens);
+    assert_eq!(tokens.len(), 14);
 }

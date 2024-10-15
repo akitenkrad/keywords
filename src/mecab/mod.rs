@@ -90,6 +90,6 @@ pub fn add_word_to_user_dic(word: &str) {
         .append(true)
         .open(USER_DIC)
         .unwrap();
-    file.write_all(format!("{},1293,1293,0,カスタム名詞,{}\n", word, word).as_bytes())
+    file.write_all(format!("{},1000,1000,0,カスタム名詞,{}\n", word, word).as_bytes())
         .unwrap();
 }
