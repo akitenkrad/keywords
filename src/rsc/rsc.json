@@ -1,0 +1,7093 @@
+[
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "AI",
+        "alias": "AI",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Accuracy",
+        "alias": "Accuracy",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Active Learning",
+        "alias": "Active Learning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Adversarial Detection",
+        "alias": "Adversarial Detection",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Adversarial Learning",
+        "alias": "Adversarial Learning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Adversarial Training",
+        "alias": "Adversarial Learning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Agent",
+        "alias": "Agent",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Annotation",
+        "alias": "Annotation",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Autoencoder",
+        "alias": "Autoencoder",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Automatic Evaluation",
+        "alias": "Automatic Evaluation",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Bias",
+        "alias": "Bias",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Calibration",
+        "alias": "Calibration",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Causal Intervention",
+        "alias": "Causal Intervention",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Classification",
+        "alias": "Classification",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Classifier",
+        "alias": "Classifier",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Clustering",
+        "alias": "Clustering",
+        "score": 3
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Online Clustering",
+        "alias": "Online Clustering",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Compositionality",
+        "alias": "Compositionality",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Confidence",
+        "alias": "Confidence",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Constrained Learning",
+        "alias": "Constrained Learning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Contamination",
+        "alias": "Contamination",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Continual Learning",
+        "alias": "Continual Learning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Contrastive Learning",
+        "alias": "Contrastive Learning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Convolution",
+        "alias": "Convolution",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "CNN",
+        "alias": "Convolutional Neural Network",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Convolution Network",
+        "alias": "Convolutional Neural Network",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Convolutional Network",
+        "alias": "Convolutional Neural Network",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Convolutional Neural Network",
+        "alias": "Convolutional Neural Network",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Correlation",
+        "alias": "Correlation",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Counter-factual",
+        "alias": "Counter-factual",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Curriculum Learning",
+        "alias": "Curriculum Learning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Curse of Dimentionality",
+        "alias": "Curse of Dimentionality",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Data Augmentation",
+        "alias": "Data Augmentation",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Data Distribution",
+        "alias": "Data Distribution",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Data-driven",
+        "alias": "Data-driven",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Dataset",
+        "alias": "Dataset",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Decoder",
+        "alias": "Decoder",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Deep Learning",
+        "alias": "Deep Learning",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Deep-Learning Based",
+        "alias": "Deep Learning",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Dense Retrieval",
+        "alias": "Dense Retrieval",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Detector",
+        "alias": "Detector",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Downstream Task",
+        "alias": "Downstream Task",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Emulate",
+        "alias": "Emulator",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Emulator",
+        "alias": "Emulator",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Encoder",
+        "alias": "Encoder",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "E2E",
+        "alias": "End-to-end",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "End-to-end",
+        "alias": "End-to-end",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Ensemble",
+        "alias": "Ensemble",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Ensembling",
+        "alias": "Ensemble",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Estimation",
+        "alias": "Estimation",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Estimator",
+        "alias": "Estimator",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Explainability",
+        "alias": "Explainability",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Explainable AI",
+        "alias": "Explainable AI",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "F1",
+        "alias": "F1",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "FPR",
+        "alias": "FPR",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Fairness",
+        "alias": "Fairness",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Truthfullness",
+        "alias": "Truthfullness",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "False Positive Ratio",
+        "alias": "False Positive Ratio",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Feed Foward Layer",
+        "alias": "Feed Foward Network",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Feed Foward Network",
+        "alias": "Feed Foward Network",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "FFN",
+        "alias": "Feed Foward Network",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Few-shot",
+        "alias": "Few-shot",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Few-shot Learning",
+        "alias": "Few-shot Learning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Fine-tune",
+        "alias": "Fine-tuning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Fine-tuning",
+        "alias": "Fine-tuning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Gaussian Process",
+        "alias": "Gaussian Process",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Generalization",
+        "alias": "Generalization",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Generative",
+        "alias": "Generative",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Generative AI",
+        "alias": "Generative AI",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "GAN",
+        "alias": "Generative Adversarial Network",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Generative Adversarial Network",
+        "alias": "Generative Adversarial Network",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Heterogeneous",
+        "alias": "Heterogeneous",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Heuristic Approach",
+        "alias": "Heuristic Approach",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Hierarchical Clustering",
+        "alias": "Hierarchical Clustering",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "High-Resource",
+        "alias": "High-Resource",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Homogeneous",
+        "alias": "Homogeneous",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Human Intervention",
+        "alias": "Human Intervention",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "In-domain",
+        "alias": "In-domain",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Inference",
+        "alias": "Inference",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "JIF",
+        "alias": "Journal Impact Factor",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Journal Impact Factor",
+        "alias": "Journal Impact Factor",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "KL-divergence",
+        "alias": "KL-divergence",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Key-value",
+        "alias": "Key-value",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Distill",
+        "alias": "Knowledge Distillation",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Distillation",
+        "alias": "Knowledge Distillation",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "KD",
+        "alias": "Knowledge Distillation",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Knowledge Distillation",
+        "alias": "Knowledge Distillation",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Knowledge Transfer",
+        "alias": "Knowledge Transfer",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Label Smoothing",
+        "alias": "Label Smoothing",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Labor-intensive",
+        "alias": "Labor-intensive",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Labour-intensive",
+        "alias": "Labor-intensive",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Embedding Space",
+        "alias": "Latent Space",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Latent Space",
+        "alias": "Latent Space",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Layer-wise",
+        "alias": "Layer-wise",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Localization",
+        "alias": "Localization",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Logistic Regression",
+        "alias": "Logistic Regression",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Low-Resource",
+        "alias": "Low-Resource",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Resource-scarce",
+        "alias": "Low-Resource",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Machine Unlearning",
+        "alias": "Machine Unlearning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Maximization",
+        "alias": "Maximization",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Meta",
+        "alias": "Meta",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Meta Learning",
+        "alias": "Meta Learning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Minimization",
+        "alias": "Minimization",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Model Compression",
+        "alias": "Model Compression",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Model Distillation",
+        "alias": "Model Distillation",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Model Pruning",
+        "alias": "Model Pruning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Model Quantization",
+        "alias": "Model Quantization",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Multi-class",
+        "alias": "Multi-class",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Multi-label",
+        "alias": "Multi-class",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Multi-modal",
+        "alias": "Multi-modal",
+        "score": 3
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Multimodal",
+        "alias": "Multi-modal",
+        "score": 3
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Multi-task",
+        "alias": "Multi-task",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Multiple Instance Learning",
+        "alias": "Multiple Instance Learning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Mutual Information",
+        "alias": "Mutual Information",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "NN",
+        "alias": "Neural Network",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Neural Network",
+        "alias": "Neural Network",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Noise",
+        "alias": "Noise",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Noise-tolerant",
+        "alias": "Noise-tolerant",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Offline Reinforcement Learning",
+        "alias": "Offline Reinforcement Learning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Online Reinforcement Learning",
+        "alias": "Online Reinforcement Learning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Open-Domain",
+        "alias": "Open-Domain",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Optimization",
+        "alias": "Optimization",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Out-of-distribution",
+        "alias": "Out-of-distribution",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Out-of-domain",
+        "alias": "Out-of-domain",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Outlier Detection",
+        "alias": "Outlier Detection",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Overfit",
+        "alias": "Overfit",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Overfitted",
+        "alias": "Overfit",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Overfitting",
+        "alias": "Overfit",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Precision",
+        "alias": "Precision",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Prediction",
+        "alias": "Prediction",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Probabilistic",
+        "alias": "Probabilistic",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Probabilistic Model",
+        "alias": "Probabilistic Model",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Pruning",
+        "alias": "Pruning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Quantization",
+        "alias": "Quantization",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Quantize",
+        "alias": "Quantization",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Rank",
+        "alias": "Rank",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Recall",
+        "alias": "Recall",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Recognition",
+        "alias": "Recognition",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Recognizer",
+        "alias": "Recognizer",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Recommendation",
+        "alias": "Recommendation",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Recommender System",
+        "alias": "Recommender System",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Reconstruction",
+        "alias": "Reconstruction",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Reconstruction Loss",
+        "alias": "Reconstruction Loss",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Redundancy",
+        "alias": "Redundancy",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Regularization",
+        "alias": "Regularization",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Reinforcement Learning",
+        "alias": "Reinforcement Learning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Reliability",
+        "alias": "Reliability",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Reliable",
+        "alias": "Reliability",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Rerank",
+        "alias": "Rerank",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Robust",
+        "alias": "Robustness",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Robustness",
+        "alias": "Robustness",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Rule-based",
+        "alias": "Rule-based",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Sampling",
+        "alias": "Sampling",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Self-Distillation",
+        "alias": "Self-Distillation",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Self-adaption",
+        "alias": "Self-adaption",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Self-adaptive Learning",
+        "alias": "Self-adaptive Learning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Self-supervised",
+        "alias": "Self-supervised Learning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Self-supervised Learning",
+        "alias": "Self-supervised Learning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Self-supervised Pre-training",
+        "alias": "Self-supervised Pre-training",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Semantic Similarity",
+        "alias": "Semantic Similarity",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Sensitivity",
+        "alias": "Sensitivity",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Similarity",
+        "alias": "Similarity",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Simulation",
+        "alias": "Simulation",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Simulation",
+        "alias": "Simulator",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "SGD",
+        "alias": "Stochastic Gradient Descent",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Stochastic Gradient Descent",
+        "alias": "Stochastic Gradient Descent",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Supervised",
+        "alias": "Supervised Learning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Supervised Learning",
+        "alias": "Supervised Learning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Synthesize",
+        "alias": "Synthesize",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Task-specific",
+        "alias": "Task-specific",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Test",
+        "alias": "Test",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Theoretical Framework",
+        "alias": "Theoretical Framework",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Theory",
+        "alias": "Theory",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Time-consuming",
+        "alias": "Time-consuming",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Topic Model",
+        "alias": "Topic Model",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Train",
+        "alias": "Train",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Transfer Learning",
+        "alias": "Transfer Learning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Unbalanced",
+        "alias": "Unbalanced Data",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Unbalanced Data",
+        "alias": "Unbalanced Data",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Unseen Domain",
+        "alias": "Unseen Domain",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Unsupervised",
+        "alias": "Unsupervised Learning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Unsupervised Learning",
+        "alias": "Unsupervised Learning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Variational Autoencoder",
+        "alias": "Variational Autoencoder",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Weakly-supervised",
+        "alias": "Weakly-supervised Learning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Weakly-supervised Learning",
+        "alias": "Weakly-supervised Learning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Zero-shot",
+        "alias": "Zero-shot",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "cosine",
+        "alias": "cosine",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "github.com",
+        "alias": "github.com",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "human-in-the-loop",
+        "alias": "human-in-the-loop",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "many-to-many",
+        "alias": "many-to-many",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "one-to-many",
+        "alias": "one-to-many",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "one-to-one",
+        "alias": "one-to-one",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "pre-train",
+        "alias": "pre-train",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "self-train",
+        "alias": "self-train",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "sine",
+        "alias": "sine",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "SOTA",
+        "alias": "state-of-the-art",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "state-of-the-art",
+        "alias": "state-of-the-art",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "synthetic data",
+        "alias": "synthetic data",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "tangent",
+        "alias": "tangent",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Semi-Supervised Learning",
+        "alias": "Semi-Supervised Learning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Semi-Supervised Training",
+        "alias": "Semi-Supervised Training",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Hopping",
+        "alias": "Hopping",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Softmax",
+        "alias": "Softmax",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Activation Function",
+        "alias": "Activation Function",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Parameter Sharing",
+        "alias": "Parameter Sharing",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Tensor Decomposition",
+        "alias": "Tensor Decomposition",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Sub-Quadratic Transformer",
+        "alias": "Sub-Quadratic Transformer",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Foundation Model",
+        "alias": "Foundation Model",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Sample Size",
+        "alias": "Sample Size",
+        "score": 3
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Square Loss",
+        "alias": "Square Loss",
+        "score": 5
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Phase-shift Detector",
+        "alias": "Phase-shift Detector",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Bandit Algorithm",
+        "alias": "Bandit Algorithm",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Structured Bandit",
+        "alias": "Structured Bandit",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Bandit",
+        "alias": "Bandit Algorithm",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Software Fault Prediction",
+        "alias": "Software Fault Prediction",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Software Fault Detection",
+        "alias": "Software Fault Detection",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Planning Domain Descrition Language",
+        "alias": "Planning Domain Descrition Language",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "PDDL",
+        "alias": "Planning Domain Descrition Language",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Retrieval Augmented Generation",
+        "alias": "Retrieval-Augmented Generation",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Retrieval-Augmented Generation",
+        "alias": "Retrieval-Augmented Generation",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "RAG",
+        "alias": "Retrieval-Augmented Generation",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Benchmarking",
+        "alias": "Benchmarking",
+        "score": 3
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Benchmark",
+        "alias": "Benchmarking",
+        "score": 3
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Reinforcement Learning from Human Feedback",
+        "alias": "Reinforcement Learning from Human Feedback",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "RLHF",
+        "alias": "Reinforcement Learning from Human Feedback",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Federated Learning",
+        "alias": "Federated Learning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Knowledge Graph",
+        "alias": "Knowledge Graph",
+        "score": 5
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "KG",
+        "alias": "Knowledge Graph",
+        "score": 5
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Distributional Reinforcement Learning",
+        "alias": "Distributional Reinforcement Learning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "DistRL",
+        "alias": "Distributional Reinforcement Learning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Anomaly Detection",
+        "alias": "Anomaly Detection",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Markov Decision Process",
+        "alias": "Markov Decision Process",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "MDPs",
+        "alias": "Markov Decision Process",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Markov Game",
+        "alias": "Markov Game",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Karush-Kuhn-Tucker",
+        "alias": "Karush-Kuhn-Tucker",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "KKT",
+        "alias": "Karush-Kuhn-Tucker",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Geometry",
+        "alias": "Geometry",
+        "score": 5
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Black Box",
+        "alias": "Black Box",
+        "score": 5
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Representation Learning",
+        "alias": "Representation Learning",
+        "score": 5
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Distribution Shift",
+        "alias": "Distribution Shift",
+        "score": 5
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Distribution-Shift",
+        "alias": "Distribution Shift",
+        "score": 5
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Continuous-Time",
+        "alias": "Continuous Time",
+        "score": 5
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Continuous Time",
+        "alias": "Continuous Time",
+        "score": 5
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Discrete Time",
+        "alias": "Discrete Time",
+        "score": 5
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Discrete-Time",
+        "alias": "Discrete Time",
+        "score": 5
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Direct Preference Optimization",
+        "alias": "Direct Preference Optimization",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Hopfield Network",
+        "alias": "Hopfield Network",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Hopfield Net",
+        "alias": "Hopfield Network",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Hopfield Model",
+        "alias": "Hopfield Network",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "VR",
+        "alias": "Virtual Reality (VR)",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Virtual Reality",
+        "alias": "Virtual Reality (VR)",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "AR",
+        "alias": "Augmented Reality (AR)",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Augmented Reality",
+        "alias": "Augmented Reality (AR)",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "MR",
+        "alias": "Mixed Reality (MR)",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Mixed Reality",
+        "alias": "Mixed Reality (MR)",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Deep Neural Network",
+        "alias": "Deep Neural Network",
+        "score": 5
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "DNN",
+        "alias": "Deep Neural Network",
+        "score": 5
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "AutoML",
+        "alias": "AutoML",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Split Learning",
+        "alias": "Split Learning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Concept Activation Vectors",
+        "alias": "Concept Activation Vectors",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "CAV",
+        "alias": "Concept Activation Vectors",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Low-Rank Adaptation",
+        "alias": "Low-Rank Adaptation",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "LoRA",
+        "alias": "Low-Rank Adaptation",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Echo-Chamber",
+        "alias": "Echo-Chamber",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Echo Chamber",
+        "alias": "Echo-Chamber",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Metric Local Differential Privacy",
+        "alias": "Metric Local Differential Privacy",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "MLDP",
+        "alias": "Metric Local Differential Privacy",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Formal Concept Analysis",
+        "alias": "Formal Concept Analysis",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Automated Ontology Instantiation",
+        "alias": "Automated Ontology Instantiation",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Mixture-of-Experts",
+        "alias": "Mixture-of-Experts",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Entity Linking",
+        "alias": "Entity Linking",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Web Agent",
+        "alias": "Web Agent",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Personalization",
+        "alias": "Personalization",
+        "score": 8
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Memorization Quantification",
+        "alias": "Memorization Quantification",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Cellular Automaton",
+        "alias": "Cellular Automaton",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Pattern Recognition",
+        "alias": "Pattern Recognition",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Pattern Matching",
+        "alias": "Pattern Matching",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Temporal Scaling Law",
+        "alias": "Temporal Scaling Law",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Common Core Ontologies",
+        "alias": "Common Core Ontologies",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Q-Learning",
+        "alias": "Q-Learning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Commonsense Knowledge Base",
+        "alias": "Commonsense Knowledge Base",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Copilot",
+        "alias": "Copilot",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Truth-value Judgement",
+        "alias": "Truth-value Judgement",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Alpaca",
+        "alias": "Alpaca",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "BART",
+        "alias": "BART",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "BERT",
+        "alias": "BERT",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "BLOOM",
+        "alias": "BLOOM",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Bag-of-Words",
+        "alias": "Bag-of-Words",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Bard",
+        "alias": "Bard",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Bing",
+        "alias": "Bing",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Box Embedding",
+        "alias": "Box Embedding",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "ChatGPT",
+        "alias": "ChatGPT",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "CodeGen",
+        "alias": "CodeGen",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "CtrlEval",
+        "alias": "CtrlEval",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Disambiguation",
+        "alias": "Disambiguation",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Doc2vec",
+        "alias": "Doc2vec",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "GPT",
+        "alias": "GPT",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "GPT-2",
+        "alias": "GPT-2",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "GPT-3",
+        "alias": "GPT-3",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "GPT-3.5",
+        "alias": "GPT-3.5",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "GPT-4",
+        "alias": "GPT-4",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "GPT-4 turbo",
+        "alias": "GPT-4 turbo",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "InstructGPT",
+        "alias": "InstructGPT",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "LLaMA",
+        "alias": "LLaMA",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "LaMDA",
+        "alias": "LaMDA",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "N-gram",
+        "alias": "N-gram",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "PaLM",
+        "alias": "PaLM",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "RNN",
+        "alias": "Recurrent Neural Network",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Recurrent Neural Network",
+        "alias": "Recurrent Neural Network",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "RoBERTa",
+        "alias": "RoBERTa",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Transformer",
+        "alias": "Transformer",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Word2box",
+        "alias": "Word2box",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Word2vec",
+        "alias": "Word2vec",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "X-VLM",
+        "alias": "X-VLM",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "falcon",
+        "alias": "falcon",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Abstractive Conversation Summarization",
+        "alias": "Abstractive Conversation Summarization",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Aspect Extraction",
+        "alias": "Aspect Extraction",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Aspect-based Sentiment Analysis",
+        "alias": "Aspect-based Sentiment Analysis",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Attention Alignment",
+        "alias": "Attention Alignment",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "ASR",
+        "alias": "Automatic Speech Recognition",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Automatic Speech Recognition",
+        "alias": "Automatic Speech Recognition",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Speech Recognition",
+        "alias": "Automatic Speech Recognition",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Chatbot",
+        "alias": "Chatbot",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Code Generation",
+        "alias": "Code Generation",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Common-sense Reasoning",
+        "alias": "Common-sense Reasoning",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Continual Relation Extraction",
+        "alias": "Continual Relation Extraction",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Coreference Resolution",
+        "alias": "Coreference Resolution",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Co-Reference Resolution",
+        "alias": "Coreference Resolution",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Counterfactual Reasoning",
+        "alias": "Counterfactual Reasoning",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Dialogue Response Generation",
+        "alias": "Dialogue Response Generation",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Dialogue State Tracking",
+        "alias": "Dialogue State Tracking",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Dialogue System",
+        "alias": "Dialogue System",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Document Classification",
+        "alias": "Document Classification",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Document Ranking",
+        "alias": "Document Ranking",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Emotion Recognition",
+        "alias": "Emotion Recognition",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Essay Scoring",
+        "alias": "Essay Scoring",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Event Argument Extraction",
+        "alias": "Event Argument Extraction",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Event Detection",
+        "alias": "Event Detection",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Event-Relation Extraction",
+        "alias": "Event-Relation Extraction",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Explainable Recommendation",
+        "alias": "Explainable Recommendation",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Fact Verification",
+        "alias": "Fact Verification",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Fake News Detection",
+        "alias": "Fake News Detection",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Finantial Sentiment Analysis",
+        "alias": "Finantial Sentiment Analysis",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "GEC",
+        "alias": "Grammatical Error Correction",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Grammatical Error Correction",
+        "alias": "Grammatical Error Correction",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Grounding",
+        "alias": "Grounding",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Hate Speech Detection",
+        "alias": "Hate Speech Detection",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Idiom Usage Detection",
+        "alias": "Idiom Usage Detection",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Idiom Usage Extraction",
+        "alias": "Idiom Usage Detection",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Idiom Usage Recognition",
+        "alias": "Idiom Usage Detection",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Image Translation",
+        "alias": "Image2text",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Image-text",
+        "alias": "Image2text",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Image-to-text",
+        "alias": "Image2text",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Image2text",
+        "alias": "Image2text",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Information Compression",
+        "alias": "Information Compression",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Information Extraction",
+        "alias": "Information Retrieval",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Information Retrieval",
+        "alias": "Information Retrieval",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Instruction Following",
+        "alias": "Instruction Following",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Intent Detection",
+        "alias": "Intent Detection",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Intent Extraction",
+        "alias": "Intent Detection",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Intent Recognition",
+        "alias": "Intent Detection",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "KPA",
+        "alias": "Key Point Analysis",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Key Point Analysis",
+        "alias": "Key Point Analysis",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Keyword Detection",
+        "alias": "Keyword Extraction",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Keyword Extraction",
+        "alias": "Keyword Extraction",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Keyword Recognition",
+        "alias": "Keyword Extraction",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Language Generation",
+        "alias": "Language Generation",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Lemmatization",
+        "alias": "Lemmatization",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "MT",
+        "alias": "Neural Machine Translation",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Machine Translation",
+        "alias": "Neural Machine Translation",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Mathematical Reasoning",
+        "alias": "Mathematical Reasoning",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Metaphor Detection",
+        "alias": "Metaphor Detection",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Metaphor Extraction",
+        "alias": "Metaphor Detection",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Metaphor Recognition",
+        "alias": "Metaphor Detection",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Mixture-of-Memory Augmentation",
+        "alias": "Mixture-of-Memory Augmentation",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Morphological Analysis",
+        "alias": "Morphological Analysis",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Named Entity Disambiguation",
+        "alias": "Named Entity Disambiguation",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "NLG",
+        "alias": "Natural Language Generation",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Natural Language Generation",
+        "alias": "Natural Language Generation",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "NLI",
+        "alias": "Natural Language Inference",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Natural Language Inference",
+        "alias": "Natural Language Inference",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Natural Language Video Localization",
+        "alias": "Natural Language Video Localization",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "NMT",
+        "alias": "Neural Machine Translation",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Neural Machine Translation",
+        "alias": "Neural Machine Translation",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Next Sentence Prediction",
+        "alias": "Next Sentence Prediction",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Off-Topic Detection",
+        "alias": "Off-Topic Detection",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Open Information Extraction",
+        "alias": "Open Information Extraction",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "ODQA",
+        "alias": "Open-Domain Question Answering",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Open-Domain Question Answering",
+        "alias": "Open-Domain Question Answering",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "OpenIE",
+        "alias": "OpenIE",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Opinion Summarization",
+        "alias": "Opinion Summarization",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Probabilistic Reasoning",
+        "alias": "Probabilistic Reasoning",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "QA",
+        "alias": "Question Answering",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Question Answering",
+        "alias": "Question Answering",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Reasoning",
+        "alias": "Reasoning",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Relation Detection",
+        "alias": "Relation Extraction",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Relation Extraction",
+        "alias": "Relation Extraction",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Relation Recognition",
+        "alias": "Relation Extraction",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Semantic Parsing",
+        "alias": "Semantic Parsing",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Sentence Embedding",
+        "alias": "Sentence Embedding",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Sentiment Analysis",
+        "alias": "Sentiment Analysis",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Speech Translation",
+        "alias": "Speech-to-Speech Translation",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Speech-to-Speech",
+        "alias": "Speech-to-Speech Translation",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Stemming",
+        "alias": "Stemming",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Table Filling",
+        "alias": "Table Filling",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Text Analysis",
+        "alias": "Text Analysis",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Text Augmentation",
+        "alias": "Text Augmentation",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Text Classification",
+        "alias": "Text Classification",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Text Clustering",
+        "alias": "Text Clustering",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Neural Text Generation",
+        "alias": "Text Generation",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Text Data Generation",
+        "alias": "Text Generation",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Text Generation",
+        "alias": "Text Generation",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Text Inference",
+        "alias": "Text Inference",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Text Mining",
+        "alias": "Text Mining",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Text Normalization",
+        "alias": "Text Normalization",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Text Segmentation",
+        "alias": "Text Segmentation",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Text Summarization",
+        "alias": "Text Summarization",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Text Transformation",
+        "alias": "Text Transformation",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "TTS",
+        "alias": "Text-to-speech",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Text-to-speech",
+        "alias": "Text-to-speech",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Text-image",
+        "alias": "Text2image",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Text-to-image",
+        "alias": "Text2image",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Text2image",
+        "alias": "Text2image",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Textual Adversarial Detection",
+        "alias": "Textual Adversarial Detection",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Textual Entailment",
+        "alias": "Textual Entailment",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Textual Generation",
+        "alias": "Textual Generation",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Tokenization",
+        "alias": "Tokenization",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Topic Segmentation",
+        "alias": "Topic Segmentation",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "VQA",
+        "alias": "Visual Question Answering",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Visual Question Answering",
+        "alias": "Visual Question Answering",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Word Sense Disambiguation",
+        "alias": "Word Sense Disambiguation",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Academic Paper",
+        "alias": "Academic Paper",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Scientific Paper",
+        "alias": "Academic Paper",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Alignment",
+        "alias": "Alignment",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Attention",
+        "alias": "Attention",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "BERTScore",
+        "alias": "BERTScore",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "BLEU",
+        "alias": "BLEU",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Bilingual",
+        "alias": "Bilingual",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "CCG",
+        "alias": "CCG",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Caption",
+        "alias": "Caption",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Chain-of-thought",
+        "alias": "Chain-of-thought",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "CoT",
+        "alias": "Chain-of-thought",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Character",
+        "alias": "Character",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Chinese",
+        "alias": "Chinese",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Combinatory Categorical Grammar",
+        "alias": "Combinatory Categorical Grammar",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Common Sense",
+        "alias": "Common Sense",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Context",
+        "alias": "Context",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Contextual Embedding",
+        "alias": "Contextual Embedding",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Conversation",
+        "alias": "Conversation",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Corpora",
+        "alias": "Corpus",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Corpus",
+        "alias": "Corpus",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Cross-Lingual",
+        "alias": "Cross-Lingual",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Danish",
+        "alias": "Danish",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Dependency Parsing",
+        "alias": "Dependency Parsing",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Dialect",
+        "alias": "Dialect",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Dialogue",
+        "alias": "Dialogue",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Discourse",
+        "alias": "Discourse",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Document",
+        "alias": "Document",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Document Embedding",
+        "alias": "Document Embedding",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Domain Adaptation",
+        "alias": "Domain Adaptation",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Dwonstream Application",
+        "alias": "Dwonstream Task",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Dwonstream Task",
+        "alias": "Dwonstream Task",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Embedding Space",
+        "alias": "Embedding Space",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Emotion",
+        "alias": "Emotion",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "English",
+        "alias": "English",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Explicit",
+        "alias": "Explicit",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Factual Consistency",
+        "alias": "Factual Consistency",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Fake News",
+        "alias": "Fake News Detection",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Farsi",
+        "alias": "Farsi",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "French",
+        "alias": "French",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "GLUE",
+        "alias": "GLUE",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "German",
+        "alias": "German",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Grammar",
+        "alias": "Grammar",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Grammatical",
+        "alias": "Grammar",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Hallucinate",
+        "alias": "Hallucination",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Hallucination",
+        "alias": "Hallucination",
+        "score": 8
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Hallucination Detection",
+        "alias": "Hallucination Detection",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Hallucination Recognition",
+        "alias": "Hallucination Detection",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Implicit",
+        "alias": "Implicit",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "ICL",
+        "alias": "In-context Learning",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "In-context",
+        "alias": "In-context Learning",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "In-context Learner",
+        "alias": "In-context Learning",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "In-context Learning",
+        "alias": "In-context Learning",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Indian",
+        "alias": "Indian",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Italian",
+        "alias": "Italian",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Japanese",
+        "alias": "Japanese",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Key Phrase",
+        "alias": "Key Phrase",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Key Point",
+        "alias": "Key Point",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Knowledge",
+        "alias": "Knowledge",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "KB",
+        "alias": "Knowledge Base",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Knowledge Base",
+        "alias": "Knowledge Base",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Knowledge Base Question Answering",
+        "alias": "Knowledge Base Question Answering",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "KBQA",
+        "alias": "Knowledge Based Question Answering",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Knowledge Based Question Answering",
+        "alias": "Knowledge Based Question Answering",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Knowledge Graph",
+        "alias": "Knowledge Graph",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Language",
+        "alias": "Language",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "LM",
+        "alias": "Language Model",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Language Model",
+        "alias": "Language Model",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "LLM",
+        "alias": "Large Language Model",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Large Language Model",
+        "alias": "Large Language Model",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Latin",
+        "alias": "Latin",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Lexic",
+        "alias": "Lexic",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Long Context",
+        "alias": "Long Document",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Long Document",
+        "alias": "Long Document",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Long Sentence",
+        "alias": "Long Document",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Long Text",
+        "alias": "Long Document",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Lyric",
+        "alias": "Lyric",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "MLM",
+        "alias": "Masked Language Model",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Masked Language Model",
+        "alias": "Masked Language Model",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Metaphor",
+        "alias": "Metaphor",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Monolingual",
+        "alias": "Monolingual",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Moral",
+        "alias": "Moral",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Moral Bias",
+        "alias": "Moral Bias",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Multi-party Dialogue",
+        "alias": "Multi-party Dialogue",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Multilingual",
+        "alias": "Multilingual",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "NER",
+        "alias": "Named Entity Recognition",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Named Entity Recognition",
+        "alias": "Named Entity Recognition",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Narrative",
+        "alias": "Narrative",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Natural Language Explanation",
+        "alias": "Natural Language Explanation",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "NLP",
+        "alias": "Natural Language Processing",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Natural Language Processing",
+        "alias": "Natural Language Processing",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Natural Language Understanding",
+        "alias": "Natural Language Understanding",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Open-Domain Dialogue",
+        "alias": "Open-Domain Dialogue",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "OOV",
+        "alias": "Out-of-vocabulary",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Out-of-vocabulary",
+        "alias": "Out-of-vocabulary",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "POS Tagging",
+        "alias": "POS Tagging",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Part-of-Speech Tagging",
+        "alias": "POS Tagging",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Paragraph",
+        "alias": "Paragraph",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Passage",
+        "alias": "Passage",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Perplexity",
+        "alias": "Perplexity",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Phrase",
+        "alias": "Phrase",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Polysemous",
+        "alias": "Polysemous",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Positional Enconding",
+        "alias": "Positional Encoding",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Pre-trained Autoregression",
+        "alias": "Pre-trained Autoregression",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Pre-trained Autoregressive Language Model",
+        "alias": "Pre-trained Autoregressive Language Model",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "PLM",
+        "alias": "Pre-trained Language Model",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Pre-trained Language Model",
+        "alias": "Pre-trained Language Model",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Prompt",
+        "alias": "Prompt",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Prompt Learning",
+        "alias": "Prompt Learning",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Query",
+        "alias": "Query",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Representation",
+        "alias": "Representation",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Retrieval Augmentation",
+        "alias": "Retrieval Augmentation",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Review",
+        "alias": "Review",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Romance",
+        "alias": "Romance",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Rouge",
+        "alias": "Rouge",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Rouge-L",
+        "alias": "Rouge-L",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Scaling Law",
+        "alias": "Scaling Law",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Scientific Text",
+        "alias": "Scientific Text",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Selective Prediction",
+        "alias": "Selective Prediction",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Self-Attention",
+        "alias": "Self-Attention",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Semantic",
+        "alias": "Semantic",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Sentence",
+        "alias": "Sentence",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Simile",
+        "alias": "Simile",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Social Media",
+        "alias": "Social Media",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Speech",
+        "alias": "Speech",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Stop Words",
+        "alias": "Stop Words",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Sub-word",
+        "alias": "Sub-word",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Summarization",
+        "alias": "Summarization",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Summarize",
+        "alias": "Summarization",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "SuperGLUE",
+        "alias": "SuperGLUE",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Survey",
+        "alias": "Survey",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Syntax",
+        "alias": "Syntax",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Synthetic Language",
+        "alias": "Synthetic Language",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "TF-IDF",
+        "alias": "TF-IDF",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Taxonomy",
+        "alias": "Taxonomy",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "TKG",
+        "alias": "Temporal Knowledge Graph",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Temporal Knowledge Graph",
+        "alias": "Temporal Knowledge Graph",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Text",
+        "alias": "Text",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Text Embedding",
+        "alias": "Text Embedding",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Text Understanding",
+        "alias": "Text Understanding",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Textual",
+        "alias": "Textual",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Textual Reinforcement Learning",
+        "alias": "Textual Reinforcement Learning",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Token",
+        "alias": "Token",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Topic Modeling",
+        "alias": "Topic Modeling",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Transcript",
+        "alias": "Transcript",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Transcription",
+        "alias": "Transcription",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Translation",
+        "alias": "Translation",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Two-party Dialogue",
+        "alias": "Two-party Dialogue",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "UniEval",
+        "alias": "UniEval",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Video-and-Language",
+        "alias": "Video-and-Language",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Vision-Language",
+        "alias": "Vision-and-Language",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Vision-and-Language",
+        "alias": "Vision-and-Language",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Vocabulary",
+        "alias": "Vocabulary",
+        "score": 1
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Weak Supervision",
+        "alias": "Weakly Supervised Learning",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Weakly Supervised Learning",
+        "alias": "Weakly Supervised Learning",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Word Cloud",
+        "alias": "Word Cloud",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Word Embedding",
+        "alias": "Word Embedding",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Zero-shot Learning",
+        "alias": "Zero-shot Learning",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Stance Detection",
+        "alias": "Stance Detection",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Fact Check",
+        "alias": "Fact Verification",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Content Detection",
+        "alias": "Content Detection",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Generative Adversarial Attack",
+        "alias": "Generative Adversarial Attack",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Slot Filling",
+        "alias": "Slot Filling",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "AI-generated Text Detection",
+        "alias": "AI-generated Text Detection",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "T5",
+        "alias": "T5",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Instruction Tuning",
+        "alias": "Instruction Tuning",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Style Transfer",
+        "alias": "Style Transfer",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Long Short Term Memory",
+        "alias": "LSTM",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Long Short-Term Memory",
+        "alias": "LSTM",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "LSTM",
+        "alias": "LSTM",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Gemini",
+        "alias": "Gemini",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Cohere",
+        "alias": "Cohere",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Claude",
+        "alias": "Claude",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Vision Transformer",
+        "alias": "Vision Transformer",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Massive Multitask Language Understanding",
+        "alias": "Massive Multitask Language Understanding (MMLU)",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "MMLU",
+        "alias": "Massive Multitask Language Understanding (MMLU)",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Massive Multi-task Language Understanding",
+        "alias": "Massive Multitask Language Understanding (MMLU)",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Mistral",
+        "alias": "Mistral",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "XLNet",
+        "alias": "XLNet",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Text-to-SQL",
+        "alias": "Text2SQL",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Text2SQL",
+        "alias": "Text2SQL",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Visually Rich Document Understanding",
+        "alias": "Visually Rich Document Understanding",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "VRDU",
+        "alias": "Visually Rich Document Understanding",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Key Entity Extraction",
+        "alias": "Key Entity Extraction",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Text Spotting",
+        "alias": "Text Spotting",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Text Detection",
+        "alias": "Text Detection",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Blockwise Parallel Decoding",
+        "alias": "Blockwise Parallel Decoding",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Multimodal Large Language Model",
+        "alias": "Multimodal Large Language Model",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "MLLM",
+        "alias": "Multimodal Large Language Model",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Claim Verification",
+        "alias": "Claim Verification",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Logical Fallacy Understanding",
+        "alias": "Logical Fallacy Understanding",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "LFU",
+        "alias": "Logical Fallacy Understanding",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Event Coreference Resolution",
+        "alias": "Event Coreference Resolution",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Text-to-Text",
+        "alias": "Text-to-Text",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Text2Text",
+        "alias": "Text-to-Text",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Plausibility",
+        "alias": "Plausibility",
+        "score": 8
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Automated Essay Scoring",
+        "alias": "Automated Essay Scoring",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Text Reranking",
+        "alias": "Text Reranking",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Debiasing",
+        "alias": "Debiasing",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "GPT-4o",
+        "alias": "GPT-4o",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Sarcasm Detection",
+        "alias": "Sarcasm Detection",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Fake Review Detection",
+        "alias": "Fake Review Detection",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Fake Review Identification",
+        "alias": "Fake Review Identification",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Cross-Lingual Alignment",
+        "alias": "Cross-Lingual Alignment",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Complex Logical Query Answering",
+        "alias": "Complex Logical Query Answering",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "CLQA",
+        "alias": "Complex Logical Query Answering",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Long-form Question Answering",
+        "alias": "Long-form Question Answering",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "LFQA",
+        "alias": "Long-form Question Answering",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Groundedness",
+        "alias": "Groundedness",
+        "score": 8
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Knowledge Graph Completion",
+        "alias": "Knowledge Graph Completion",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Counterfactual Text Generation",
+        "alias": "Counterfactual Text Generation",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "RAG",
+        "alias": "Retrieval-Augmented Generation",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Retrieval-Augmented Generation",
+        "alias": "Retrieval-Augmented Generation",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "SearchGPT",
+        "alias": "SearchGPT",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Document Layout Analysis",
+        "alias": "Document Layout Analysis",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Byte Pair Encoding",
+        "alias": "Byte Pair Encoding",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Dialogue Relation Extraction",
+        "alias": "Dialogue Relation Extraction",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Bias Detection",
+        "alias": "Bias Detection",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Spell Correction",
+        "alias": "Spell Correction",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Adversarial Attack",
+        "alias": "Adversarial Attack",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Anna Kournikova",
+        "alias": "Anna Kournikova",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "CryptoLocker",
+        "alias": "CryptoLocker",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "ILOVEYOU",
+        "alias": "ILOVEYOU",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Mirai",
+        "alias": "Mirai",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "MyDoom",
+        "alias": "MyDoom",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Netsky",
+        "alias": "Netsky",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Petya",
+        "alias": "Petya",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Sasser",
+        "alias": "Sasser",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Slammer",
+        "alias": "Slammer",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Storm Worm",
+        "alias": "Storm Worm",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Stuxnet",
+        "alias": "Stuxnet",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "WannaCry",
+        "alias": "WannaCry",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Bot Detection",
+        "alias": "Botnet Detection",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Botnet Detection",
+        "alias": "Botnet Detection",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "AI Security",
+        "alias": "AI Security",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Adversarial Purification",
+        "alias": "Adversarial Purification",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Bot",
+        "alias": "Botnet",
+        "score": 1
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Botnet",
+        "alias": "Botnet",
+        "score": 1
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Privacy",
+        "alias": "Privacy",
+        "score": 1
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Security",
+        "alias": "Security",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Vulnerabilities",
+        "alias": "Vulnerability",
+        "score": 1
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Vulnerability",
+        "alias": "Vulnerability",
+        "score": 1
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Zero Trust",
+        "alias": "Zero Trust",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Model Extraction",
+        "alias": "Model Extraction",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Differential Privacy",
+        "alias": "Differential Privacy",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Ransomware",
+        "alias": "Ransomware",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Phishing",
+        "alias": "Phihsing",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Password Attack",
+        "alias": "Password Attack",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "SQL Injection",
+        "alias": "SQL Injection",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Spoofing",
+        "alias": "Spoofing",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "DDoS",
+        "alias": "DDoS",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Distributed Denial of Service",
+        "alias": "DDoS",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "DoS",
+        "alias": "DoS",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Denial of Service",
+        "alias": "DoS",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "XSS",
+        "alias": "XSS",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Cross Site Scripting",
+        "alias": "XSS",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Malware",
+        "alias": "Malware",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Email Scams",
+        "alias": "Email Scams",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "DNS Spoofing",
+        "alias": "DNS Spoofing",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Data Exfiltration",
+        "alias": "Data Exfiltration",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Data Breach",
+        "alias": "Data Breach",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "CryptoWall",
+        "alias": "CryptoWall",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Credential Stuffing",
+        "alias": "Credential Stuffing",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Computer Virus",
+        "alias": "Computer Virus",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Compliance Violation",
+        "alias": "Compliance Violation",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Compliance Risk",
+        "alias": "Compliance Risk",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Brute-Force Attack",
+        "alias": "Brute-Force Attack",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "BEC",
+        "alias": "Business Email Compromise",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Business Email Compromise",
+        "alias": "Business Email Compromise",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Bad Rabbit",
+        "alias": "Bad Rabbit",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Adversary-in-the-Middle",
+        "alias": "Adversary-in-the-Middle",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "AiTM",
+        "alias": "Adversary-in-the-Middle",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Account Takeover Fraud",
+        "alias": "Account Takeover Fraud",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Identity Theft",
+        "alias": "Identity Theft",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Cyber Security",
+        "alias": "Cyber Security",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Hijacking Attack",
+        "alias": "Hijacking Attack",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Membership Inference Attack",
+        "alias": "Membership Inference Attack",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "MIA",
+        "alias": "Membership Inference Attack",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Application Recognition",
+        "alias": "Application Recognition",
+        "score": 7
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Data Poisoning Attack",
+        "alias": "Data Poisoning Attack",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Retrieval Poisoning Attack",
+        "alias": "Retrieval Poisoning Attack",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Poisoning Attack",
+        "alias": "Poisoning Attack",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "BlackSuit",
+        "alias": "BlackSuit",
+        "score": 8
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Vulnerability Detection",
+        "alias": "Vulnerability Detection",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Watermarking",
+        "alias": "Watermarking",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Detoxification",
+        "alias": "Detoxification",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Copyright Safeguarding",
+        "alias": "Copyright Safeguarding",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "E-GraphSAGE",
+        "alias": "E-GraphSAGE",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "GAT",
+        "alias": "Graph Attention Networks",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Graph Attention Networks",
+        "alias": "Graph Attention Networks",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "GCN",
+        "alias": "Graph Convolutional Network",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Graph Convolutional Network",
+        "alias": "Graph Convolutional Network",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "GraphSAGE",
+        "alias": "GraphSAGE",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Message-Passing",
+        "alias": "Message-Passing",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Edge Anomaly Detection",
+        "alias": "Edge Anomaly Detection",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Edge Classification",
+        "alias": "Edge Classification",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Edge Prediction",
+        "alias": "Link Prediction",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Graph Anomaly Detection",
+        "alias": "Graph Anomaly Detection",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Graph Classification",
+        "alias": "Graph Classification",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Node Anomaly Detection",
+        "alias": "Node Anomaly Detection",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Node Classification",
+        "alias": "Node Classification",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Subgraph Anomaly Detection",
+        "alias": "Subgraph Anomaly Detection",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Attributed Graph",
+        "alias": "Attributed Graph",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Bi-directional",
+        "alias": "Bi-directional",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Continuous Graph",
+        "alias": "Continuous Graph",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Dynamic Graph",
+        "alias": "Dynamic Graph",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Edge Embedding",
+        "alias": "Edge Embedding",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Graph",
+        "alias": "Graph",
+        "score": 3
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Graph Embedding",
+        "alias": "Graph Embedding",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "GNN",
+        "alias": "Graph Neural Network",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Graph Neural Network",
+        "alias": "Graph Neural Network",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Heterogeneous Graph",
+        "alias": "Heterogeneous Graph",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Homogeneous Graph",
+        "alias": "Homogeneous Graph",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Network",
+        "alias": "Network",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Node Embedding",
+        "alias": "Node Embedding",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Static Graph",
+        "alias": "Static Graph",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Topological",
+        "alias": "Topological",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Topology",
+        "alias": "Topology",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Uni-Directional",
+        "alias": "Uni-Directional",
+        "score": 1
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Graph Contrastive Learning",
+        "alias": "Graph Contrastive Learning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "GCL",
+        "alias": "Graph Contrastive Learning",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Graph Masked Autoencoder",
+        "alias": "GraphMAE",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "GraphMAE",
+        "alias": "GraphMAE",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Link Prediction",
+        "alias": "Link Prediction",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Role-Playing Language Agent",
+        "alias": "Role-Playing Language Agent",
+        "score": 10
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "Face Recognition",
+        "alias": "Face Recognition",
+        "score": 10
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "Object Detection",
+        "alias": "Object Detection",
+        "score": 10
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "OCR",
+        "alias": "Optical Character Recognition",
+        "score": 10
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "Optical Character Recognition",
+        "alias": "Optical Character Recognition",
+        "score": 10
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "Computer Vision",
+        "alias": "Computer Vision",
+        "score": 1
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "MNIST",
+        "alias": "MNIST",
+        "score": 10
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "Sora",
+        "alias": "Sora",
+        "score": 10
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "Vision Transformer",
+        "alias": "Vision Transformer",
+        "score": 10
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "Yolo",
+        "alias": "Yolo",
+        "score": 10
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "ControlNet",
+        "alias": "ControlNet",
+        "score": 10
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "Diffusion Model",
+        "alias": "Diffusion Model",
+        "score": 10
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "Convolutional Neural Network",
+        "alias": "Convolutional Neural Network",
+        "score": 5
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "CNN",
+        "alias": "Convolutional Neural Network",
+        "score": 5
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "Image Dehazing",
+        "alias": "Image Dehazing",
+        "score": 10
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "Dehazing",
+        "alias": "Image Dehazing",
+        "score": 10
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "Moment Retrieval",
+        "alias": "Moment Retrieval",
+        "score": 10
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "Hilight Detection",
+        "alias": "Hilight Detection",
+        "score": 10
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "Video Summarization",
+        "alias": "Video Summarization",
+        "score": 10
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "Video2Text",
+        "alias": "Video2Text",
+        "score": 10
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "Video-to-Text",
+        "alias": "Video2Text",
+        "score": 10
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "Image Fusion",
+        "alias": "Image Fusion",
+        "score": 10
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "Body Estimation",
+        "alias": "Body Estimation",
+        "score": 10
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "Change Detection",
+        "alias": "Change Detection",
+        "score": 10
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "Few-Shot Object Detection",
+        "alias": "Few-Shot Object Detection",
+        "score": 10
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "Open-Vocabulary Object Detection",
+        "alias": "Open-Vocabulary Object Detection",
+        "score": 10
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "Pose Estimation",
+        "alias": "Pose Estimation",
+        "score": 10
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "Causal Inference",
+        "alias": "Causal Inference",
+        "score": 10
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "Image Quality Assessment",
+        "alias": "Image Quality Assessment",
+        "score": 10
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "IQA",
+        "alias": "Image Quality Assessment",
+        "score": 10
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "Multi-Object Tracking",
+        "alias": "Multi-Object Tracking",
+        "score": 10
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "Multiple Object Tracking",
+        "alias": "Multi-Object Tracking",
+        "score": 10
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "MOT",
+        "alias": "Multi-Object Tracking",
+        "score": 10
+    },
+    {
+        "category": "ComputerVision",
+        "language": "English",
+        "word": "Video Understanding",
+        "alias": "Video Understanding",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "3D Print",
+        "alias": "3D Print",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "3D Printer",
+        "alias": "3D Printer",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "AWS",
+        "alias": "AWS",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Adobe",
+        "alias": "Adobe",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Alder Lake",
+        "alias": "AlderLake",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "AlderLake",
+        "alias": "AlderLake",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Alibaba",
+        "alias": "Alibaba",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Amazon",
+        "alias": "Amazon",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Azure",
+        "alias": "Azure",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "GCP",
+        "alias": "GCP",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "GPUSOROBAN",
+        "alias": "GPUSOROBAN",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Baidu",
+        "alias": "Baidu",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Connected Car",
+        "alias": "Connected Car",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "DeepMind",
+        "alias": "DeepMind",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Docker",
+        "alias": "Docker",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Facebook",
+        "alias": "Facebook",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Twitter",
+        "alias": "Twitter",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "X",
+        "alias": "X",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Instagram",
+        "alias": "Instagram",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Bluesky",
+        "alias": "Bluesky",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Mastodon",
+        "alias": "Mastodon",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Web3",
+        "alias": "Web3",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Digital Human",
+        "alias": "Digital Human",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Falcom",
+        "alias": "Falcom",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Google",
+        "alias": "Google",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Apple",
+        "alias": "Apple",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Microsoft",
+        "alias": "Microsoft",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "HuggingFace",
+        "alias": "HuggingFace",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Hugging Face",
+        "alias": "HuggingFace",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "IBM",
+        "alias": "IBM",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "PyTorch",
+        "alias": "PyTorch",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Tensorflow",
+        "alias": "Tensorflow",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Open Source",
+        "alias": "OSS",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Open Source Software",
+        "alias": "OSS",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "NVIDIA",
+        "alias": "NVIDIA",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Security Operation Center",
+        "alias": "Security Operation Center",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "SOC",
+        "alias": "Security Operation Center",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "OpenSSH",
+        "alias": "OpenSSH",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "KDDI",
+        "alias": "KDDI",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "NTT",
+        "alias": "NTT",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Rakuten",
+        "alias": "Rakuten",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "au",
+        "alias": "au",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "docomo",
+        "alias": "docomo",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "3Dプリンター",
+        "alias": "3D Printer",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "3Dプリント",
+        "alias": "3D Print",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "AIセキュリティ",
+        "alias": "AI Security",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "テキスト検出",
+        "alias": "Text Detection",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ヘイトスピーチ",
+        "alias": "Hate Speech",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "KLダイバージェンス",
+        "alias": "KL-Divergence",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "マルコフ過程",
+        "alias": "Markov Process",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "Nグラム",
+        "alias": "N-gram",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "SQLインジェクション",
+        "alias": "SQL Injection",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "アウトオブドメイン",
+        "alias": "Out-of-Domain",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "アウトオブボキャブラリ",
+        "alias": "Out-of-Vocabulary",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "アウトオブボキャブラリー",
+        "alias": "Out-of-Vocabulary",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "アクティブラーニング",
+        "alias": "Active Learning",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "感情分析",
+        "alias": "Sentiment Analysis",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "アスペクト抽出",
+        "alias": "Aspect Extraction",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "アノテーション",
+        "alias": "Annotation",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "アラインメント",
+        "alias": "Alignment",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "アンサンブル",
+        "alias": "Ansemble",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "イベント抽出",
+        "alias": "Event Extraction",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "イベント検出",
+        "alias": "Event Detection",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "インテント検出",
+        "alias": "Intent Extraction",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "シミュレーター",
+        "alias": "Simulator",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "シミュレータ",
+        "alias": "Simulator",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "エッジ予測",
+        "alias": "Link Prediction",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "エッジ分類",
+        "alias": "Edge Classification",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "エッジ異常検知",
+        "alias": "Edge Anomaly Detection",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "エミュレータ",
+        "alias": "Emulator",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "エミュレート",
+        "alias": "Emulator",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "エンコーダ",
+        "alias": "Encoder",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "エージェント",
+        "alias": "Agent",
+        "score": 7
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "オフトピック検出",
+        "alias": "Off-topic Detection",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "オフライン強化学習",
+        "alias": "Offline Reinforcement Learning",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "オブジェクト検出",
+        "alias": "Object Detection",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "オンライン強化学習",
+        "alias": "Online Reinforcement Learning",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "強化学習",
+        "alias": "Reinforcement Learning",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "過適合",
+        "alias": "Overfitting",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "オープンソース",
+        "alias": "Open Source Software",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "オープンソースソフトウェア",
+        "alias": "Open Source Software",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "オープンドメイン",
+        "alias": "Open Domain",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "質問応答",
+        "alias": "Question Answering",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "チャットボット",
+        "alias": "Chatbot",
+        "score": 7
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "情報抽出",
+        "alias": "Information Extraction",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "カリキュラム学習",
+        "alias": "Curriculum Learning",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "キーワード検出",
+        "alias": "Keyword Detection",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "キーワード抽出",
+        "alias": "Keyword Extraction",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "キーワード認識",
+        "alias": "Keyword Recognition",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "クラスタリング",
+        "alias": "Clustering",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "クロスサイトスクリプティング",
+        "alias": "Cross-Site Scripting",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "グラフ",
+        "alias": "Graph",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "グラフ分類",
+        "alias": "Graph Classification",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "グラフ埋め込み",
+        "alias": "Graph Embedding",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "グラフニューラルネットワーク",
+        "alias": "Graph Neural Network",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "グラフ異常検知",
+        "alias": "Graph Anomaly Detection",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "コネクテッドカー",
+        "alias": "Connected Car",
+        "score": 7
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "コンテキスト埋め込み",
+        "alias": "Context Embedding",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "コンテキスト学習",
+        "alias": "In-context Learning",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "コンピュータウイルス",
+        "alias": "Computer Virus",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "コンピュータビジョン",
+        "alias": "Computer Vision",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "コンプライアンス",
+        "alias": "Compliance",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "コード生成",
+        "alias": "Code Generation",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "コーパス",
+        "alias": "Corpus",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "サイバーセキュリティ",
+        "alias": "Cyber Security",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "サブワード",
+        "alias": "Subword",
+        "score": 7
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "要約",
+        "alias": "Abstraction",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "サンプリング",
+        "alias": "Sampling",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "サンプルサイズ",
+        "alias": "Sampling Size",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "シンタックス",
+        "alias": "Syntax",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "敵対的学習",
+        "alias": "Adversarial Learning",
+        "score": 7
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "スタンス検出",
+        "alias": "Stance Detection",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "スプーフィング",
+        "alias": "Spoofing",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "セキュリティ",
+        "alias": "Security",
+        "score": 7
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "文章埋め込み",
+        "alias": "Document Embedding",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ゼロショット",
+        "alias": "Zero-shot",
+        "score": 7
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ゼロショット学習",
+        "alias": "Zero-shot Learning",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ゼロトラスト",
+        "alias": "Zero Trust",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "故障予測",
+        "alias": "Failure Prediction",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "故障検出",
+        "alias": "Failure Detection",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ソフトマックス",
+        "alias": "Softmax",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ソーシャルメディア",
+        "alias": "Social Media",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ダイアログ",
+        "alias": "Dialogue",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "テキスト分類",
+        "alias": "Text Classification",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "データ拡張",
+        "alias": "Data Augmentation",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "テキストマイニング",
+        "alias": "テキストマイニング",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "テキスト埋め込み",
+        "alias": "テキスト埋め込み",
+        "score": 7
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "テキスト生成",
+        "alias": "テキスト生成",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "テキスト解析",
+        "alias": "テキスト解析",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ディープニューラルネットワーク",
+        "alias": "ディープニューラルネットワーク",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ディープマインド",
+        "alias": "ディープマインド",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ディープラーニング",
+        "alias": "ディープラーニング",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "デコーダ",
+        "alias": "デコーダ",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "デジタルヒューマン",
+        "alias": "デジタルヒューマン",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "データドリブン",
+        "alias": "データドリブン",
+        "score": 7
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "トピックモデリング",
+        "alias": "トピックモデル",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "トピックモデル",
+        "alias": "トピックモデル",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "トランスフォーマー",
+        "alias": "トランスフォーマー",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ニューラルネットワーク",
+        "alias": "ニューラルネットワーク",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ノード分類",
+        "alias": "ノード分類",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ノード埋め込み",
+        "alias": "ノード埋め込み",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ノード異常検知",
+        "alias": "ノード異常検知",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "バイアス",
+        "alias": "バイアス",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "バンディット",
+        "alias": "バンディット",
+        "score": 7
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "バーチャルリアリティ",
+        "alias": "バーチャルリアリティ",
+        "score": 7
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "連合学習",
+        "alias": "連合学習",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ブラックボックス",
+        "alias": "ブラックボックス",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ブルートフォース攻撃",
+        "alias": "ブルートフォース攻撃",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "プライバシー",
+        "alias": "プライバシー",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "プライバシーポリシー",
+        "alias": "プライバシーポリシー",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "プロンプト学習",
+        "alias": "プロンプト学習",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ベンチマーク",
+        "alias": "ベンチマーク",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "マルウェア",
+        "alias": "マルウェア",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "メタラーニング",
+        "alias": "メタラーニング",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "メール詐欺",
+        "alias": "メール詐欺",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "モデル圧縮",
+        "alias": "モデル圧縮",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "モデル剪定",
+        "alias": "モデル剪定",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "モデル軽量化",
+        "alias": "モデル軽量化",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "モデル抽出",
+        "alias": "モデル抽出",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "モデル蒸留",
+        "alias": "モデル蒸留",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "モラルバイアス",
+        "alias": "Moral Bias",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ランサムウェア",
+        "alias": "Ransomware",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "不均衡データ",
+        "alias": "Unbalanced Data",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "事実検証",
+        "alias": "Fact Verification",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "人工知能",
+        "alias": "AI",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "フェイクニュース",
+        "alias": "Fake News",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "フェイクニュース検出",
+        "alias": "Fake News Detection",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "偽陽性比率",
+        "alias": "False Positive Rate",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "再帰ニューラルネットワーク",
+        "alias": "Recurrent Neural Network",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "単語埋め込み",
+        "alias": "Word Embedding",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "基盤モデル",
+        "alias": "Fundamental Model",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "変分オートエンコーダ",
+        "alias": "Variational Autoencoder",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "対照学習",
+        "alias": "Contrastive Learning",
+        "score": 7
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "対話システム",
+        "alias": "Dialogue System",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "対話応答生成",
+        "alias": "Dialogue Response Generation",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "対話状態追跡",
+        "alias": "Dialogue State Tracking",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "属性グラフ",
+        "alias": "Attribute Graph",
+        "score": 7
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ハルシネーション",
+        "alias": "Hallucination",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "弱教師あり学習",
+        "alias": "Semi-supervised Learning",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "強化学習",
+        "alias": "Reinforcement Learning",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "形態素解析",
+        "alias": "Morphological Analysis",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "情報圧縮",
+        "alias": "Information Compression",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "情報検索",
+        "alias": "Information Extraction",
+        "score": 7
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "意図抽出",
+        "alias": "Intent Extraction",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "感情認識",
+        "alias": "Sentiment Analysis",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "拡張現実",
+        "alias": "AR",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "拡散モデル",
+        "alias": "Diffusion Model",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "文書分類",
+        "alias": "Document Classification",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "文書埋め込み",
+        "alias": "Document Embedding",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "機械翻訳",
+        "alias": "Machine Translation",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "異常検知",
+        "alias": "Anomaly Detection",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "知識蒸留",
+        "alias": "Knowledge Distillation",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "知識グラフ",
+        "alias": "Knowledge Graph",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "知識ベース",
+        "alias": "Knowledge Base",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "知識移転",
+        "alias": "Knowledge Transfer",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "確率モデル",
+        "alias": "Probabilistic Model",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "脆弱性",
+        "alias": "Vulnerability",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "自然言語処理",
+        "alias": "Natural Language Processing",
+        "score": 7
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "言語モデル",
+        "alias": "Language Model",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "説明可能なAI",
+        "alias": "Explainable AI",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "連続グラフ",
+        "alias": "Continuous Graph",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "階層クラスタリング",
+        "alias": "Hierarchical Clustering",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "静的グラフ",
+        "alias": "Static Graph",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "音声認識",
+        "alias": "Automatic Speech Recognition",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "顔認識",
+        "alias": "Face Recognition",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "社会課題",
+        "alias": "Social Problem",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "社会実装",
+        "alias": "Sotial Implementation",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ウェルビーイング",
+        "alias": "Well-beging",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "標準化",
+        "alias": "Standardization",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "シミュレーション",
+        "alias": "Simulation",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "自動運転",
+        "alias": "Self-driving",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "生成AI",
+        "alias": "Generative AI",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "マルチモーダル",
+        "alias": "Multi-modal",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "オープンソース",
+        "alias": "Open Source Software",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "負荷テスト",
+        "alias": "Stress Test",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ペネトレーションテスト",
+        "alias": "Penetration Test",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ガートナー",
+        "alias": "Gartner",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ハミング距離",
+        "alias": "Hamming Distance",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ユークリッド距離",
+        "alias": "Euqlidean Distance",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "マハラノビス距離",
+        "alias": "Mahalanobis Distance",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "情報通信研究機構",
+        "alias": "NICT",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "NICT",
+        "alias": "NICT",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "楽天",
+        "alias": "Rakuten",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "サイバーエージェント",
+        "alias": "CyberAgent",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "スケーリング法則",
+        "alias": "Scaling Law",
+        "score": 10
+    }
+]
