@@ -21,9 +21,26 @@ pub struct MeCabToken {
 static MECAB_TOKENIZER: Lazy<Tokenizer> = Lazy::new(|| get_tokenizer());
 static MECAB_WORKER: Lazy<Mutex<Worker>> = Lazy::new(|| Mutex::new(MECAB_TOKENIZER.new_worker()));
 
+fn download_dic() {
+    let url = "https://github.com/daac-tools/vibrato/releases/download/v0.5.0/unidic-cwj-3_1_1+compact-dual.tar.xz";
+    let rt = tokio::runtime::Builder::new_current_thread()
+        .enable_all()
+        .build()
+        .unwrap();
+    rt.block_on(async {
+        let response = reqwest::get(url).await;
+        let body = response.unwrap().bytes().await.unwrap();
+        let decoder = xz2::read::XzDecoder::new(&body[..]);
+        let mut archive = tar::Archive::new(decoder);
+        archive.unpack("src/mecab/dic/").unwrap();
+    })
+}
 fn get_tokenizer() -> Tokenizer {
+    if !fs::exists(MECAB_DIC_PATH).unwrap() {
+        download_dic();
+    }
     // create tokenizer
-    let reader = zstd::Decoder::new(BufReader::new(MECAB_DIC_PATH)).unwrap();
+    let reader = zstd::Decoder::new(fs::File::open(MECAB_DIC_PATH).unwrap()).unwrap();
     let mut dic = Dictionary::read(reader).unwrap();
     let mut f = csv::Reader::from_reader(Cursor::new(MECAB_USER_DIC));
     let lines = f
