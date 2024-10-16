@@ -1,10 +1,12 @@
+use crate::MECAB_DIC_PATH;
+use crate::MECAB_USER_DIC;
 use once_cell::sync::Lazy;
 use std::fs;
-use std::io::Write;
+use std::io::{BufReader, Cursor, Write};
 use std::sync::Mutex;
 use vibrato::tokenizer::worker::Worker;
 use vibrato::{Dictionary, Tokenizer};
-use xz2::read::XzDecoder;
+
 #[cfg(test)]
 mod tests;
 
@@ -16,39 +18,22 @@ pub struct MeCabToken {
     pub feature: String,
 }
 
-const DIC_DIR: &str = "/usr/local/lib/mecab/dic/";
-const DIC_PATH: &str = "/usr/local/lib/mecab/dic/unidic-cwj-3_1_1+compact-dual/system.dic.zst";
-const DIC_URL: &str =
-"https://github.com/daac-tools/vibrato/releases/download/v0.5.0/unidic-cwj-3_1_1+compact-dual.tar.xz";
-const USER_DIC: &str = "/usr/local/lib/mecab/dic/user_dic.csv";
-
 static MECAB_TOKENIZER: Lazy<Tokenizer> = Lazy::new(|| get_tokenizer());
 static MECAB_WORKER: Lazy<Mutex<Worker>> = Lazy::new(|| Mutex::new(MECAB_TOKENIZER.new_worker()));
 
-pub async fn download_dict() {
-    if !fs::exists(DIC_DIR).unwrap() {
-        fs::create_dir_all(DIC_DIR).unwrap();
-    }
-    if !fs::exists(DIC_PATH).unwrap() {
-        let res = reqwest::get(DIC_URL).await.unwrap();
-        let body = res.bytes().await.unwrap();
-        let tar = XzDecoder::new(body.as_ref());
-        let mut archive = tar::Archive::new(tar);
-        archive.unpack(DIC_DIR).unwrap();
-    }
-}
-
 fn get_tokenizer() -> Tokenizer {
     // create tokenizer
-    let reader = zstd::Decoder::new(fs::File::open(DIC_PATH).unwrap()).unwrap();
+    let reader = zstd::Decoder::new(BufReader::new(MECAB_DIC_PATH)).unwrap();
     let mut dic = Dictionary::read(reader).unwrap();
-    if fs::exists(USER_DIC).unwrap() {
-        let lines = fs::read_to_string(USER_DIC).unwrap();
-        if lines.len() > 0 {
-            dic = dic
-                .reset_user_lexicon_from_reader(Some(fs::File::open(USER_DIC).unwrap()))
-                .unwrap();
-        }
+    let mut f = csv::Reader::from_reader(Cursor::new(MECAB_USER_DIC));
+    let lines = f
+        .records()
+        .map(|r| r.unwrap())
+        .collect::<Vec<csv::StringRecord>>();
+    if lines.len() > 0 {
+        dic = dic
+            .reset_user_lexicon_from_reader(Some(BufReader::new(Cursor::new(MECAB_USER_DIC))))
+            .unwrap();
     }
     return Tokenizer::new(dic)
         .ignore_space(true)
@@ -74,21 +59,23 @@ pub fn mecab_tokenize(text: &str) -> Vec<MeCabToken> {
 }
 
 pub fn add_word_to_user_dic(word: &str) {
-    let mut tokens: Vec<&str> = Vec::new();
-    if fs::exists(USER_DIC).unwrap() {
-        let user_dic_content = fs::read_to_string(USER_DIC).unwrap();
-        for line in user_dic_content.lines() {
-            let w = *line.split(',').collect::<Vec<&str>>().get(0).unwrap();
-            tokens.push(w);
-        }
-        if tokens.contains(&word) {
-            return;
-        }
+    let mut f = csv::Reader::from_reader(std::io::Cursor::new(MECAB_USER_DIC));
+    let lines = f
+        .records()
+        .map(|r| r.unwrap())
+        .collect::<Vec<csv::StringRecord>>();
+    let tokens = lines
+        .iter()
+        .map(|r| r.get(0).unwrap())
+        .collect::<Vec<&str>>();
+
+    if tokens.contains(&word) {
+        return;
     }
     let mut file = fs::OpenOptions::new()
         .create(true)
         .append(true)
-        .open(USER_DIC)
+        .open("src/mecab/dic/user_dic.csv")
         .unwrap();
     file.write_all(format!("{},1000,1000,0,カスタム名詞,{}\n", word, word).as_bytes())
         .unwrap();
