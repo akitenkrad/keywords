@@ -1,4 +1,4 @@
-use crate::MECAB_DIC_PATH;
+use crate::MECAB_DIC;
 use crate::MECAB_USER_DIC;
 use once_cell::sync::Lazy;
 use std::fs;
@@ -32,15 +32,24 @@ fn download_dic() {
         let body = response.unwrap().bytes().await.unwrap();
         let decoder = xz2::read::XzDecoder::new(&body[..]);
         let mut archive = tar::Archive::new(decoder);
-        archive.unpack("src/mecab/dic/").unwrap();
+        let dic_dir = format!("{}/.mecab/dic/", std::env::var("HOME").unwrap());
+        if !fs::exists(dic_dir.as_str()).unwrap() {
+            fs::create_dir_all(dic_dir.as_str()).unwrap();
+        }
+        archive.unpack(dic_dir.as_str()).unwrap();
     })
 }
 fn get_tokenizer() -> Tokenizer {
-    if !fs::exists(MECAB_DIC_PATH).unwrap() {
+    // create tokenizer
+    let mecab_dic_path = format!(
+        "{}/.mecab/dic/{}",
+        std::env::var("HOME").unwrap(),
+        MECAB_DIC
+    );
+    if !fs::exists(mecab_dic_path.as_str()).unwrap() {
         download_dic();
     }
-    // create tokenizer
-    let reader = zstd::Decoder::new(fs::File::open(MECAB_DIC_PATH).unwrap()).unwrap();
+    let reader = zstd::Decoder::new(fs::File::open(mecab_dic_path).unwrap()).unwrap();
     let mut dic = Dictionary::read(reader).unwrap();
     let mut f = csv::Reader::from_reader(Cursor::new(MECAB_USER_DIC));
     let lines = f
