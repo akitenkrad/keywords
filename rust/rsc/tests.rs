@@ -16,7 +16,8 @@ fn test_keyword_get_keyword_ptn() {
         language: Language::English,
         category: Category::MachineLearning,
     };
-    let re = keyword.get_keyword_ptn();
+    let re_str = keyword.get_keyword_ptn();
+    let re = Regex::new(&re_str).unwrap();
     assert!(re.is_match("Transformer"));
     assert!(re.is_match("transformer"));
     assert!(re.is_match("transformers"));
@@ -38,7 +39,7 @@ fn test_keyword_get_keyword_ptn() {
 fn test_extract_keywords_english() {
     let text = "This is a Transformer model.";
     let keywords = load_keywords();
-    let extracted_keywords = extract_keywords(text, &keywords, Language::English);
+    let extracted_keywords = extract_keywords(text, keywords, Language::English);
     println!("{:?}", extracted_keywords);
     assert!(extracted_keywords.len() > 0);
 }
@@ -47,7 +48,7 @@ fn test_extract_keywords_english() {
 fn test_extract_keywords_japanese() {
     let text = "これはTransformerモデルです。";
     let keywords = load_keywords();
-    let extracted_keywords = extract_keywords(text, &keywords, Language::Japanese);
+    let extracted_keywords = extract_keywords(text, keywords, Language::Japanese);
     println!("{:?}", extracted_keywords);
     assert!(extracted_keywords.len() > 0);
 }
