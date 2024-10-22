@@ -1,3 +1,4 @@
+use crate::mecab::mecab_tokenize;
 use crate::SRC_JSON;
 use regex::Regex;
 use serde::{Deserialize, Serialize};
@@ -58,23 +59,34 @@ impl Keyword {
     }
 }
 
-impl Keywords {
-    pub fn add(&mut self, keyword: Keyword) {
-        self.keywords.push(keyword);
-    }
-    pub fn remove(&mut self, keyword: Keyword) {
-        let index = self.keywords.iter().position(|x| x == &keyword).unwrap();
-        self.keywords.remove(index);
-    }
-    pub fn get(&self, index: usize) -> &Keyword {
-        &self.keywords[index]
-    }
+pub fn load_keywords() -> Vec<Keyword> {
+    return serde_json::from_slice(SRC_JSON).expect("Unable to parse json");
 }
 
-pub fn load_keywords() -> Keywords {
-    let mut keywords = Keywords {
-        keywords: Vec::new(),
-    };
-    keywords.keywords = serde_json::from_slice(SRC_JSON).expect("Unable to parse json");
-    return keywords;
+pub fn extract_keywords(text: &str, keywords: &Vec<Keyword>, lang: Language) -> Vec<Keyword> {
+    let mut extracted_keywords: Vec<Keyword> = Vec::new();
+
+    if lang == Language::English {
+        for keyword in keywords {
+            let re = keyword.get_keyword_ptn();
+            if re.is_match(text) {
+                extracted_keywords.push(keyword.clone());
+            }
+        }
+    } else if lang == Language::Japanese {
+        let tokens = mecab_tokenize(text);
+        let text = tokens
+            .iter()
+            .map(|t| t.surface.clone())
+            .collect::<Vec<String>>()
+            .join(" ");
+        for keyword in keywords {
+            let re = keyword.get_keyword_ptn();
+            if re.is_match(&text) {
+                extracted_keywords.push(keyword.clone());
+            }
+        }
+    }
+
+    return extracted_keywords;
 }
