@@ -1,5 +1,6 @@
 use crate::MECAB_DIC;
 use crate::MECAB_USER_DIC;
+use indicatif::ProgressBar;
 use once_cell::sync::Lazy;
 use std::fs;
 use std::io::{BufReader, Cursor, Write};
@@ -63,7 +64,7 @@ fn get_tokenizer() -> Tokenizer {
         if tokio::runtime::Handle::try_current().is_ok() {
             tokio::runtime::Handle::try_current()
                 .unwrap()
-                .spawn(async { download_dic_async() });
+                .spawn(async { download_dic_async().await });
         } else {
             download_dic();
         }
@@ -71,12 +72,14 @@ fn get_tokenizer() -> Tokenizer {
 
     // wait until the dictionary is downloaded
     loop {
+        let bar = ProgressBar::new(300);
         let mut retry_count = 300;
         if fs::exists(mecab_dic_path.as_str()).unwrap() {
             break;
         }
         std::thread::sleep(std::time::Duration::from_secs(1));
         retry_count -= 1;
+        bar.inc(1);
 
         if retry_count == 0 {
             panic!("Failed to download MeCab dictionary");
