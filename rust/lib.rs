@@ -1,12 +1,13 @@
+use pyo3::prelude::*;
+
 pub mod mecab;
 pub mod rsc;
-use pyo3::prelude::*;
 
 const SRC_JSON: &'static [u8] = include_bytes!("rsc/rsc.json");
 const MECAB_DIC: &'static str = "unidic-cwj-3_1_1+compact-dual/system.dic.zst";
 const MECAB_USER_DIC: &'static str = include_str!("mecab/dic/user_dic.csv");
 
-#[pymodule(name = "_lib")]
+#[pymodule(name = "keywords")]
 fn keywords(m: &Bound<'_, PyModule>) -> PyResult<()> {
     m.add_class::<rsc::Language>()?;
     m.add_class::<rsc::Category>()?;

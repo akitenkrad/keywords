@@ -18,7 +18,7 @@ setup(
     package_dir={"": "python"},
     rust_extensions=[
         RustExtension(
-            "keywords._lib",
+            "keywords.keywords",
             path="Cargo.toml",
             binding=Binding.PyO3,
         )
