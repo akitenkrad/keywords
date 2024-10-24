@@ -5530,18 +5530,18 @@
         "score": 10
     },
     {
-        "category": "Topic",
+        "category": "Item",
         "language": "English",
         "word": "AWS",
         "alias": "AWS",
-        "score": 8
+        "score": 3
     },
     {
-        "category": "Topic",
+        "category": "Item",
         "language": "English",
         "word": "Adobe",
         "alias": "Adobe",
-        "score": 5
+        "score": 3
     },
     {
         "category": "Topic",
@@ -5558,46 +5558,46 @@
         "score": 10
     },
     {
-        "category": "Topic",
+        "category": "Organization",
         "language": "English",
         "word": "Alibaba",
         "alias": "Alibaba",
-        "score": 8
+        "score": 3
     },
     {
-        "category": "Topic",
+        "category": "Organization",
         "language": "English",
         "word": "Amazon",
         "alias": "Amazon",
-        "score": 8
+        "score": 3
     },
     {
-        "category": "Topic",
+        "category": "Item",
         "language": "English",
         "word": "Azure",
         "alias": "Azure",
-        "score": 8
+        "score": 3
     },
     {
-        "category": "Topic",
+        "category": "Item",
         "language": "English",
         "word": "GCP",
         "alias": "GCP",
-        "score": 8
+        "score": 3
     },
     {
-        "category": "Topic",
+        "category": "Organization",
         "language": "English",
         "word": "GPUSOROBAN",
         "alias": "GPUSOROBAN",
-        "score": 8
+        "score": 3
     },
     {
-        "category": "Topic",
+        "category": "Organization",
         "language": "English",
         "word": "Baidu",
         "alias": "Baidu",
-        "score": 8
+        "score": 3
     },
     {
         "category": "Topic",
@@ -7089,5 +7089,89 @@
         "word": "スケーリング法則",
         "alias": "Scaling Law",
         "score": 10
+    },
+    {
+        "category": "Organization",
+        "language": "English",
+        "word": "ASUS",
+        "alias": "ASUS",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "Japanese",
+        "word": "LINEヤフー",
+        "alias": "LINEヤフー",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "Japanese",
+        "word": "JR西日本",
+        "alias": "JR西日本",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "Japanese",
+        "word": "JR東日本",
+        "alias": "JR東日本",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "データセンター",
+        "alias": "Data Center",
+        "score": 3
+    },
+    {
+        "category": "Item",
+        "language": "English",
+        "word": "Windows",
+        "alias": "Windows",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "English",
+        "word": "Fortinet",
+        "alias": "Fortinet",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "English",
+        "word": "Cisco",
+        "alias": "Cisco",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "Japanese",
+        "word": "クアルコム",
+        "alias": "Qualcomm",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "English",
+        "word": "Qualcomm",
+        "alias": "Qualcomm",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "Japanese",
+        "word": "テスラ",
+        "alias": "Tesla",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "English",
+        "word": "Tesla",
+        "alias": "Tesla",
+        "score": 3
     }
 ]
