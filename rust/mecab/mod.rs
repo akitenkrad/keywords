@@ -21,14 +21,14 @@ pub struct MeCabToken {
 static MECAB_TOKENIZER: Lazy<Tokenizer> = Lazy::new(|| get_tokenizer());
 static MECAB_WORKER: Lazy<Mutex<Worker>> = Lazy::new(|| Mutex::new(MECAB_TOKENIZER.new_worker()));
 
+const DIC_URL: &str = "https://github.com/daac-tools/vibrato/releases/download/v0.5.0/unidic-cwj-3_1_1+compact-dual.tar.xz";
 fn download_dic() {
-    let url = "https://github.com/daac-tools/vibrato/releases/download/v0.5.0/unidic-cwj-3_1_1+compact-dual.tar.xz";
     let rt = tokio::runtime::Builder::new_current_thread()
         .enable_all()
         .build()
         .unwrap();
     rt.block_on(async {
-        let response = reqwest::get(url).await;
+        let response = reqwest::get(DIC_URL).await;
         let body = response.unwrap().bytes().await.unwrap();
         let decoder = xz2::read::XzDecoder::new(&body[..]);
         let mut archive = tar::Archive::new(decoder);
@@ -39,6 +39,19 @@ fn download_dic() {
         archive.unpack(dic_dir.as_str()).unwrap();
     })
 }
+
+async fn download_dic_async() {
+    let response = reqwest::get(DIC_URL).await;
+    let body = response.unwrap().bytes().await.unwrap();
+    let decoder = xz2::read::XzDecoder::new(&body[..]);
+    let mut archive = tar::Archive::new(decoder);
+    let dic_dir = format!("{}/.mecab/dic/", std::env::var("HOME").unwrap());
+    if !fs::exists(dic_dir.as_str()).unwrap() {
+        fs::create_dir_all(dic_dir.as_str()).unwrap();
+    }
+    archive.unpack(dic_dir.as_str()).unwrap();
+}
+
 fn get_tokenizer() -> Tokenizer {
     // create tokenizer
     let mecab_dic_path = format!(
@@ -47,7 +60,13 @@ fn get_tokenizer() -> Tokenizer {
         MECAB_DIC
     );
     if !fs::exists(mecab_dic_path.as_str()).unwrap() {
-        download_dic();
+        if tokio::runtime::Handle::try_current().is_ok() {
+            tokio::runtime::Handle::try_current()
+                .unwrap()
+                .block_on(download_dic_async());
+        } else {
+            download_dic();
+        }
     }
     let reader = zstd::Decoder::new(fs::File::open(mecab_dic_path).unwrap()).unwrap();
     let mut dic = Dictionary::read(reader).unwrap();
