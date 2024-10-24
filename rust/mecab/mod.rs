@@ -63,7 +63,7 @@ fn get_tokenizer() -> Tokenizer {
         if tokio::runtime::Handle::try_current().is_ok() {
             tokio::runtime::Handle::try_current()
                 .unwrap()
-                .block_on(download_dic_async());
+                .spawn(async { download_dic_async() });
         } else {
             download_dic();
         }
