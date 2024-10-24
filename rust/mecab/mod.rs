@@ -68,6 +68,21 @@ fn get_tokenizer() -> Tokenizer {
             download_dic();
         }
     }
+
+    // wait until the dictionary is downloaded
+    loop {
+        let mut retry_count = 300;
+        if fs::exists(mecab_dic_path.as_str()).unwrap() {
+            break;
+        }
+        std::thread::sleep(std::time::Duration::from_secs(1));
+        retry_count -= 1;
+
+        if retry_count == 0 {
+            panic!("Failed to download MeCab dictionary");
+        }
+    }
+
     let reader = zstd::Decoder::new(fs::File::open(mecab_dic_path).unwrap()).unwrap();
     let mut dic = Dictionary::read(reader).unwrap();
     let mut f = csv::Reader::from_reader(Cursor::new(MECAB_USER_DIC));
