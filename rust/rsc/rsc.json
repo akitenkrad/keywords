@@ -5782,44 +5782,58 @@
         "score": 8
     },
     {
-        "category": "Topic",
+        "category": "Organization",
         "language": "English",
         "word": "KDDI",
         "alias": "KDDI",
-        "score": 10
+        "score": 3
     },
     {
-        "category": "Topic",
+        "category": "Organization",
         "language": "English",
         "word": "NTT",
         "alias": "NTT",
-        "score": 10
+        "score": 3
     },
     {
-        "category": "Topic",
+        "category": "Organization",
         "language": "English",
         "word": "Rakuten",
         "alias": "Rakuten",
-        "score": 10
+        "score": 3
     },
     {
-        "category": "Topic",
+        "category": "Organization",
         "language": "English",
         "word": "au",
         "alias": "au",
-        "score": 10
+        "score": 3
     },
     {
-        "category": "Topic",
+        "category": "Organization",
         "language": "English",
         "word": "docomo",
         "alias": "docomo",
-        "score": 10
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "Japanese",
+        "word": "ドコモ",
+        "alias": "docomo",
+        "score": 3
     },
     {
         "category": "Topic",
         "language": "Japanese",
         "word": "3Dプリンター",
+        "alias": "3D Printer",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "3Dプリンタ",
         "alias": "3D Printer",
         "score": 3
     },
@@ -7173,5 +7187,530 @@
         "word": "Tesla",
         "alias": "Tesla",
         "score": 3
+    },
+    {
+        "category": "Item",
+        "language": "English",
+        "word": "Next.js",
+        "alias": "Next.js",
+        "score": 5
+    },
+    {
+        "category": "Item",
+        "language": "English",
+        "word": "LINE",
+        "alias": "LINE",
+        "score": 5
+    },
+    {
+        "category": "Organization",
+        "language": "Japanese",
+        "word": "エレコム",
+        "alias": "ELECOM",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "English",
+        "word": "ELECOM",
+        "alias": "ELECOM",
+        "score": 3
+    },
+    {
+        "category": "Item",
+        "language": "Japanese",
+        "word": "スイッチングハブ",
+        "alias": "Switching Hub",
+        "score": 1
+    },
+    {
+        "category": "Item",
+        "language": "English",
+        "word": "Switching Hub",
+        "alias": "Switching Hub",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "エンジニア",
+        "alias": "Engineer",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Engineer",
+        "alias": "Engineer",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "スマートフォン",
+        "alias": "Smartphone",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "スマホ",
+        "alias": "Smartphone",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Smartphone",
+        "alias": "Smartphone",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "データ基盤",
+        "alias": "Data Analytics Platform",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "データ分析基盤",
+        "alias": "Data Analytics Platform",
+        "score": 1
+    },
+    {
+        "category": "Organization",
+        "language": "English",
+        "word": "VAIO",
+        "alias": "VAIO",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "English",
+        "word": "Sony",
+        "alias": "Sony",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "Japanese",
+        "word": "ソニー",
+        "alias": "Sony",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "Japanese",
+        "word": "任天堂",
+        "alias": "Nintendo",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "English",
+        "word": "Nintendo",
+        "alias": "Nintendo",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "Japanese",
+        "word": "ヤマハ",
+        "alias": "YAMAHA",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "English",
+        "word": "YAMAHA",
+        "alias": "YAMAHA",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "EC",
+        "alias": "EC",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "English",
+        "word": "Amplitude",
+        "alias": "Amplitude",
+        "score": 3
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "AB Test",
+        "alias": "A/B Test",
+        "score": 3
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "A/B Test",
+        "alias": "A/B Test",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "Japanese",
+        "word": "電通",
+        "alias": "DENTSU",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "Japanese",
+        "word": "DENTSU",
+        "alias": "DENTSU",
+        "score": 3
+    },
+    {
+        "category": "Item",
+        "language": "English",
+        "word": "iPhone",
+        "alias": "iPhone",
+        "score": 1
+    },
+    {
+        "category": "Item",
+        "language": "English",
+        "word": "iPad",
+        "alias": "iPad",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "フリーランス",
+        "alias": "Freelancer",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Freelancer",
+        "alias": "Freelancer",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "太陽光発電",
+        "alias": "Photovoltaic",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Photovoltaic",
+        "alias": "Photovoltaic",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Solar Power",
+        "alias": "Photovoltaic",
+        "score": 1
+    },
+    {
+        "category": "Security",
+        "language": "Japanese",
+        "word": "サイバー攻撃",
+        "alias": "Cyber Attack",
+        "score": 1
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Cyber Attack",
+        "alias": "Cyber Attack",
+        "score": 1
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "CyberAttack",
+        "alias": "Cyber Attack",
+        "score": 1
+    },
+    {
+        "category": "Organization",
+        "language": "Japanese",
+        "word": "メルカリ",
+        "alias": "Mercari",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "English",
+        "word": "Mercari",
+        "alias": "Mercari",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "EV",
+        "alias": "Electoric Vehicle",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "SDGs",
+        "alias": "SDGs",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "気候変動",
+        "alias": "Climate Change",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Climate Change",
+        "alias": "Climate Change",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "地球温暖化",
+        "alias": "Global Warming",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Global Warming",
+        "alias": "Global Warming",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "DX",
+        "alias": "Digital Transformation",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Digital Transformation",
+        "alias": "Digital Transformation",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Innovation",
+        "alias": "Innovation",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "イノベーション",
+        "alias": "Innovation",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "マイナ保険証",
+        "alias": "マイナ保険証",
+        "score": 1
+    },
+    {
+        "category": "Security",
+        "language": "Japanese",
+        "word": "フィッシング",
+        "alias": "Phishing",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "DHCP",
+        "alias": "DHCP",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "IPFIX",
+        "alias": "IPFIX",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "NetFlow",
+        "alias": "NetFlow",
+        "score": 5
+    },
+    {
+        "category": "Organization",
+        "language": "English",
+        "word": "Intel",
+        "alias": "Intel",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "Japanese",
+        "word": "インテル",
+        "alias": "Intel",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "Z世代",
+        "alias": "Z-Generation",
+        "score": 1
+    },
+    {
+        "category": "Organization",
+        "language": "Japanese",
+        "word": "パナソニック",
+        "alias": "Panasonic",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "QRコード",
+        "alias": "QR Code",
+        "score": 1
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "SSL/TLS",
+        "alias": "SSL/TLS",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Rust",
+        "alias": "Rust",
+        "score": 2
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "UI",
+        "alias": "UI",
+        "score": 1
+    },
+    {
+        "category": "Item",
+        "language": "English",
+        "word": "Linux",
+        "alias": "Linux",
+        "score": 1
+    },
+    {
+        "category": "Item",
+        "language": "English",
+        "word": "Ubuntu",
+        "alias": "Ubuntu",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "センサー",
+        "alias": "Sensor",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "位置情報",
+        "alias": "Location Information",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "量子コンピュータ",
+        "alias": "Quantum Computer",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Quantum Computer",
+        "alias": "Quantum Computer",
+        "score": 1
+    },
+    {
+        "category": "Item",
+        "language": "English",
+        "word": "Apple Watch",
+        "alias": "Apple Watch",
+        "score": 1
+    },
+    {
+        "category": "Item",
+        "language": "English",
+        "word": "MySQL",
+        "alias": "MySQL",
+        "score": 1
+    },
+    {
+        "category": "Item",
+        "language": "English",
+        "word": "PostgreSQL",
+        "alias": "PostgreSQL",
+        "score": 1
+    },
+    {
+        "category": "Item",
+        "language": "English",
+        "word": "Oracle",
+        "alias": "Oracle",
+        "score": 1
+    },
+    {
+        "category": "Item",
+        "language": "English",
+        "word": "SQL Server",
+        "alias": "SQL Server",
+        "score": 1
+    },
+    {
+        "category": "Item",
+        "language": "English",
+        "word": "Vision Pro",
+        "alias": "Vision Pro",
+        "score": 1
+    },
+    {
+        "category": "Item",
+        "language": "English",
+        "word": "Apple Intelligence",
+        "alias": "Apple Intelligence",
+        "score": 1
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "CVE",
+        "alias": "CVE",
+        "score": 1
     }
 ]
