@@ -35,7 +35,7 @@ pub enum Category {
 pub struct Keyword {
     pub word: String,
     pub alias: String,
-    pub score: u8,
+    pub score: i8,
     pub language: Language,
     pub category: Category,
 }
@@ -80,7 +80,7 @@ impl Keyword {
         let mut hasher = std::collections::hash_map::DefaultHasher::new();
         hasher.write(&self.word.as_bytes());
         hasher.write(&self.alias.as_bytes());
-        hasher.write_u8(self.score);
+        hasher.write_i8(self.score);
         return hasher.finish();
     }
     fn word(&self) -> String {
@@ -89,7 +89,7 @@ impl Keyword {
     fn alias(&self) -> String {
         return self.alias.clone();
     }
-    fn score(&self) -> u8 {
+    fn score(&self) -> i8 {
         return self.score;
     }
     fn language(&self) -> String {
@@ -119,7 +119,7 @@ pub fn extract_keywords(text: &str, keywords: Vec<Keyword>, lang: Language) -> V
         }
     } else if lang == Language::Japanese {
         let tokens = mecab_tokenize(text);
-        let text = tokens
+        let mecabed_text = tokens
             .iter()
             .map(|t| t.surface.clone())
             .collect::<Vec<String>>()
@@ -127,7 +127,9 @@ pub fn extract_keywords(text: &str, keywords: Vec<Keyword>, lang: Language) -> V
         for keyword in keywords {
             let re_str = keyword.get_keyword_ptn();
             let re = Regex::new(&re_str).unwrap();
-            if re.is_match(&text) {
+            if text.contains(&keyword.word) {
+                extracted_keywords.push(keyword.clone());
+            } else if re.is_match(&mecabed_text) {
                 extracted_keywords.push(keyword.clone());
             }
         }

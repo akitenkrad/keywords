@@ -52,3 +52,29 @@ fn test_extract_keywords_japanese() {
     println!("{:?}", extracted_keywords);
     assert!(extracted_keywords.len() > 0);
 }
+
+#[test]
+fn test_each_keywords() {
+    let kws = load_keywords();
+    for kw in kws.into_iter() {
+        let surface = kw.word.clone();
+        let text_en = format!("This is {} .", surface);
+        let text_ja = format!("これは{}です。", surface);
+        let extracted_keywords_en = extract_keywords(&text_en, vec![kw.clone()], Language::English);
+        let extracted_keywords_ja =
+            extract_keywords(&text_ja, vec![kw.clone()], Language::Japanese);
+
+        if !extracted_keywords_en.contains(&kw) {
+            println!(
+                "WARNING!(EN): {:?} (extracted: {:?})",
+                kw, extracted_keywords_en
+            );
+        }
+        if !extracted_keywords_ja.contains(&kw) {
+            println!(
+                "WARNING!(JA): {:?} (extracted: {:?})",
+                kw, extracted_keywords_ja
+            );
+        }
+    }
+}

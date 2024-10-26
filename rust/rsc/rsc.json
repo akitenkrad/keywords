@@ -7200,7 +7200,7 @@
         "language": "English",
         "word": "LINE",
         "alias": "LINE",
-        "score": 5
+        "score": 3
     },
     {
         "category": "Organization",
@@ -7382,6 +7382,13 @@
         "language": "English",
         "word": "iPad",
         "alias": "iPad",
+        "score": 1
+    },
+    {
+        "category": "Item",
+        "language": "English",
+        "word": "MacBook",
+        "alias": "MacBook",
         "score": 1
     },
     {
@@ -7712,5 +7719,383 @@
         "word": "CVE",
         "alias": "CVE",
         "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "発売",
+        "alias": "発売",
+        "score": -1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "販売",
+        "alias": "販売",
+        "score": -1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "価格",
+        "alias": "価格",
+        "score": -1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "税込",
+        "alias": "税込",
+        "score": -1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "おすすめ3選",
+        "alias": "おすすめ3選",
+        "score": -1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "おすすめ4選",
+        "alias": "おすすめ4選",
+        "score": -1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "おすすめ5選",
+        "alias": "おすすめ5選",
+        "score": -1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "おすすめ6選",
+        "alias": "おすすめ6選",
+        "score": -1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "おすすめ7選",
+        "alias": "おすすめ7選",
+        "score": -1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "おすすめ8選",
+        "alias": "おすすめ8選",
+        "score": -1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "おすすめ9選",
+        "alias": "おすすめ9選",
+        "score": -1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "おすすめ10選",
+        "alias": "おすすめ10選",
+        "score": -1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "キャンペーン",
+        "alias": "キャンペーン",
+        "score": -1
+    },
+    {
+        "category": "Organization",
+        "language": "Japanese",
+        "word": "トイザらス",
+        "alias": "TOYSRUS",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "仮想通貨",
+        "alias": "Cryptocurrency",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Cryptocurrency",
+        "alias": "Cryptocurrency",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ビットコイン",
+        "alias": "Bitcoin",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Bitcoin",
+        "alias": "Bitcoin",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "BTC",
+        "alias": "Bitcoin",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "暗号資産",
+        "alias": "Cryptocurrency",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ラインナップ",
+        "alias": "ラインナップ",
+        "score": -1
+    },
+    {
+        "category": "Organization",
+        "language": "Japanese",
+        "word": "メタ",
+        "alias": "Meta",
+        "score": 3
+    },
+    {
+        "category": "Security",
+        "language": "Japanese",
+        "word": "なりすまし",
+        "alias": "Spoofing",
+        "score": 8
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "デジタル広告",
+        "alias": "Digital Advertising",
+        "score": 8
+    },
+    {
+        "category": "Item",
+        "language": "English",
+        "word": "TikTok",
+        "alias": "TikTok",
+        "score": 5
+    },
+    {
+        "category": "Item",
+        "language": "English",
+        "word": "Netflix",
+        "alias": "Netflix",
+        "score": 2
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "配信スタート",
+        "alias": "配信スタート",
+        "score": -1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "新着作品",
+        "alias": "新着作品",
+        "score": -1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "新型",
+        "alias": "新型",
+        "score": -1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ランキング",
+        "alias": "ランキング",
+        "score": -1
+    },
+    {
+        "category": "Security",
+        "language": "Japanese",
+        "word": "ランサム",
+        "alias": "Ransomware",
+        "score": 5
+    },
+    {
+        "category": "Security",
+        "language": "Japanese",
+        "word": "情報流出",
+        "alias": "Data Leak",
+        "score": 8
+    },
+    {
+        "category": "Organization",
+        "language": "Japanese",
+        "word": "ソフトバンク",
+        "alias": "Softbank",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "フランチャイズ",
+        "alias": "Franchise",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "%オフ",
+        "alias": "%オフ",
+        "score": -1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "％オフ",
+        "alias": "％オフ",
+        "score": -1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ヘッドラインニュース",
+        "alias": "ヘッドラインニュース",
+        "score": -1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "スマートホーム",
+        "alias": "Smart Home",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "スマートハウス",
+        "alias": "Smart House",
+        "score": 1
+    },
+    {
+        "category": "Item",
+        "language": "English",
+        "word": "Raspberry Pi",
+        "alias": "Raspberry Pi",
+        "score": 1
+    },
+    {
+        "category": "Item",
+        "language": "Japanese",
+        "word": "ラズベリーパイ",
+        "alias": "Raspberry Pi",
+        "score": 1
+    },
+    {
+        "category": "Item",
+        "language": "Japanese",
+        "word": "ラズパイ",
+        "alias": "Raspberry Pi",
+        "score": 1
+    },
+    {
+        "category": "Item",
+        "language": "English",
+        "word": "CMS",
+        "alias": "Contents Management System",
+        "score": 1
+    },
+    {
+        "category": "Item",
+        "language": "Japanese",
+        "word": "人工衛星",
+        "alias": "Artificial Satellite",
+        "score": 1
+    },
+    {
+        "category": "Item",
+        "language": "Japanese",
+        "word": "au PAY",
+        "alias": "au PAY",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "レビュー",
+        "alias": "レビュー",
+        "score": -1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "比較",
+        "alias": "比較",
+        "score": -1
+    },
+    {
+        "category": "Security",
+        "language": "Japanese",
+        "word": "不正ログイン",
+        "alias": "Unauthorized Access",
+        "score": 5
+    },
+    {
+        "category": "Security",
+        "language": "Japanese",
+        "word": "アカウント乗っ取り",
+        "alias": "Account Takeover Fraud",
+        "score": 5
+    },
+    {
+        "category": "Security",
+        "language": "Japanese",
+        "word": "乗っ取り",
+        "alias": "Account Takeover Fraud",
+        "score": 5
+    },
+    {
+        "category": "Item",
+        "language": "Japanese",
+        "word": "PayPay",
+        "alias": "PayPay",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ねとらぼ",
+        "alias": "ねとらぼ",
+        "score": -10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "素数",
+        "alias": "Prime Number",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "著作権",
+        "alias": "Copyright",
+        "score": 3
     }
 ]
