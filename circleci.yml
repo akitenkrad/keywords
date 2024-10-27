@@ -10,6 +10,7 @@ jobs:
       - run: curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
       - run: echo export PATH=$HOME/.cargo/bin:$PATH >> $HOME/.bash_profile && source $HOME/.bash_profile
       - run: echo $PATH
+      - run: cat $HOME/.bash_profile
       - run: rustup install nightly
       - run: cargo install junitify
       - run: cargo +nightly test -- --format=json -Z unstable-options --report-time | junitify --out tests
