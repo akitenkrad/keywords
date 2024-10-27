@@ -7725,91 +7725,147 @@
         "language": "Japanese",
         "word": "発売",
         "alias": "発売",
-        "score": -1
+        "score": -3
     },
     {
         "category": "Topic",
         "language": "Japanese",
         "word": "販売",
         "alias": "販売",
-        "score": -1
+        "score": -3
     },
     {
         "category": "Topic",
         "language": "Japanese",
         "word": "価格",
         "alias": "価格",
-        "score": -1
+        "score": -3
     },
     {
         "category": "Topic",
         "language": "Japanese",
         "word": "税込",
         "alias": "税込",
-        "score": -1
+        "score": -3
     },
     {
         "category": "Topic",
         "language": "Japanese",
-        "word": "おすすめ3選",
-        "alias": "おすすめ3選",
-        "score": -1
+        "word": "3選",
+        "alias": "3選",
+        "score": -3
     },
     {
         "category": "Topic",
         "language": "Japanese",
-        "word": "おすすめ4選",
-        "alias": "おすすめ4選",
-        "score": -1
+        "word": "4選",
+        "alias": "4選",
+        "score": -3
     },
     {
         "category": "Topic",
         "language": "Japanese",
-        "word": "おすすめ5選",
-        "alias": "おすすめ5選",
-        "score": -1
+        "word": "5選",
+        "alias": "5選",
+        "score": -3
     },
     {
         "category": "Topic",
         "language": "Japanese",
-        "word": "おすすめ6選",
-        "alias": "おすすめ6選",
-        "score": -1
+        "word": "6選",
+        "alias": "6選",
+        "score": -3
     },
     {
         "category": "Topic",
         "language": "Japanese",
-        "word": "おすすめ7選",
-        "alias": "おすすめ7選",
-        "score": -1
+        "word": "7選",
+        "alias": "7選",
+        "score": -3
     },
     {
         "category": "Topic",
         "language": "Japanese",
-        "word": "おすすめ8選",
-        "alias": "おすすめ8選",
-        "score": -1
+        "word": "8選",
+        "alias": "8選",
+        "score": -3
     },
     {
         "category": "Topic",
         "language": "Japanese",
-        "word": "おすすめ9選",
-        "alias": "おすすめ9選",
-        "score": -1
+        "word": "9選",
+        "alias": "9選",
+        "score": -3
     },
     {
         "category": "Topic",
         "language": "Japanese",
-        "word": "おすすめ10選",
-        "alias": "おすすめ10選",
-        "score": -1
+        "word": "10選",
+        "alias": "10選",
+        "score": -3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ベスト3",
+        "alias": "ベスト3",
+        "score": -3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ベスト4",
+        "alias": "ベスト4",
+        "score": -3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ベスト5",
+        "alias": "ベスト5",
+        "score": -3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ベスト6",
+        "alias": "ベスト6",
+        "score": -3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ベスト7",
+        "alias": "ベスト7",
+        "score": -3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ベスト8",
+        "alias": "ベスト8",
+        "score": -3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ベスト9",
+        "alias": "ベスト9",
+        "score": -3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ベスト10",
+        "alias": "ベスト10",
+        "score": -3
     },
     {
         "category": "Topic",
         "language": "Japanese",
         "word": "キャンペーン",
         "alias": "キャンペーン",
-        "score": -1
+        "score": -3
     },
     {
         "category": "Organization",
@@ -7865,7 +7921,7 @@
         "language": "Japanese",
         "word": "ラインナップ",
         "alias": "ラインナップ",
-        "score": -1
+        "score": -3
     },
     {
         "category": "Organization",
@@ -7907,28 +7963,28 @@
         "language": "Japanese",
         "word": "配信スタート",
         "alias": "配信スタート",
-        "score": -1
+        "score": -3
     },
     {
         "category": "Topic",
         "language": "Japanese",
         "word": "新着作品",
         "alias": "新着作品",
-        "score": -1
+        "score": -3
     },
     {
         "category": "Topic",
         "language": "Japanese",
         "word": "新型",
         "alias": "新型",
-        "score": -1
+        "score": -3
     },
     {
         "category": "Topic",
         "language": "Japanese",
         "word": "ランキング",
         "alias": "ランキング",
-        "score": -1
+        "score": -3
     },
     {
         "category": "Security",
@@ -7963,21 +8019,21 @@
         "language": "Japanese",
         "word": "%オフ",
         "alias": "%オフ",
-        "score": -1
+        "score": -3
     },
     {
         "category": "Topic",
         "language": "Japanese",
         "word": "％オフ",
         "alias": "％オフ",
-        "score": -1
+        "score": -3
     },
     {
         "category": "Topic",
         "language": "Japanese",
         "word": "ヘッドラインニュース",
         "alias": "ヘッドラインニュース",
-        "score": -1
+        "score": -3
     },
     {
         "category": "Topic",
@@ -8040,14 +8096,14 @@
         "language": "Japanese",
         "word": "レビュー",
         "alias": "レビュー",
-        "score": -1
+        "score": -3
     },
     {
         "category": "Topic",
         "language": "Japanese",
         "word": "比較",
         "alias": "比較",
-        "score": -1
+        "score": -3
     },
     {
         "category": "Security",
@@ -8082,7 +8138,7 @@
         "language": "Japanese",
         "word": "ねとらぼ",
         "alias": "ねとらぼ",
-        "score": -10
+        "score": -30
     },
     {
         "category": "Topic",
@@ -8096,6 +8152,118 @@
         "language": "Japanese",
         "word": "著作権",
         "alias": "Copyright",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "厳選",
+        "alias": "厳選",
+        "score": -3
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Mobility",
+        "alias": "Mobility",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "モビリティ",
+        "alias": "Mobility",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "アジャイル",
+        "alias": "Agile",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "Agile",
+        "alias": "Agile",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "English",
+        "word": "Open AI",
+        "alias": "Open AI",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "宇宙",
+        "alias": "宇宙",
+        "score": 3
+    },
+    {
+        "category": "Item",
+        "language": "English",
+        "word": "AMD",
+        "alias": "AMD",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "CPU",
+        "alias": "CPU",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "GPU",
+        "alias": "GPU",
+        "score": 1
+    },
+    {
+        "category": "Organization",
+        "language": "English",
+        "word": "Weymo",
+        "alias": "Weymo",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "資金調達",
+        "alias": "資金調達",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "TLS",
+        "alias": "TLS",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "MNO",
+        "alias": "Mobile Network Operator",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ドローン",
+        "alias": "Drone",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Drone",
+        "alias": "Drone",
         "score": 3
     }
 ]
