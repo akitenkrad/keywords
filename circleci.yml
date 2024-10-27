@@ -1,5 +1,6 @@
 version: 2.1
-
+orbs:
+  slack: circleci/slack@4.1
 jobs:
   build:
     docker:
@@ -18,4 +19,22 @@ jobs:
       - store_test_results:
           path: tests
 
-  test:
+  notify:
+    docker:
+      - image: cimg/base:stable
+    steps:
+      - slack/notify:
+          event: pass
+          template: basic_success_1
+      - slack/notify:
+          event: fail
+          template: basic_fail_1
+
+workflows:
+  build_and_notify:
+    jobs:
+      - build
+      - notify:
+          requires:
+            - build
+          context: slack-secrets
