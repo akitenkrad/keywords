@@ -35,6 +35,4 @@ workflows:
     jobs:
       - build
       - notify:
-          requires:
-            - build
           context: slack-secrets
