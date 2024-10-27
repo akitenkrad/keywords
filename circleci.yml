@@ -8,7 +8,7 @@ jobs:
       - checkout
       - run: apt update -y && apt upgrade -y && apt install -y curl
       - run: curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
-      - run: source $HOME/.cargo/env >> "$BASH_ENV"
+      - run: echo 'source $HOME/.cargo/env' >> "$BASH_ENV"
       - run: rustup install nightly
       - run: cargo install junitify
       - run: cargo +nightly test -- --format=json -Z unstable-options --report-time | junitify --out tests
