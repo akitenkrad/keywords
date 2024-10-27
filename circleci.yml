@@ -2,8 +2,9 @@ version: 2.1
 
 references:
   docker_hub_authentication: &docker_hub_authentication
-    username: $DOCKER_HUB_USERNAME
-    password: $DOCKER_HUB_PASSWORD
+    auth:
+      username: $DOCKERHUB_USERNAME
+      password: $DOCKERHUB_PASSWORD
 
 jobs:
   build:
