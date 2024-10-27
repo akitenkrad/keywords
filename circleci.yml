@@ -1,9 +1,15 @@
 version: 2.1
 
+references:
+  docker_hub_authentication: &docker_hub_authentication
+    username: $DOCKER_HUB_USERNAME
+    password: $DOCKER_HUB_PASSWORD
+
 jobs:
   build:
     docker:
       - image: circleci/ubuntu-2404:2024.05.1
+        <<: *docker_hub_authentication
     steps:
       - checkout
       - run: sudo apt update -y
