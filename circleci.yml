@@ -13,6 +13,6 @@ jobs:
       - run: cargo install junitify
       - run: cargo +nightly test -- --format=json -Z unstable-options --report-time | junitify --out tests
       - store_test_results:
-        path: tests
+          path: tests
 
   test:

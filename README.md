@@ -28,7 +28,7 @@ pip install git+ssh://git@github.com/akitenkrad/keywords.git
 - calculate metrics
   - specialization factor
 
-        ```python
-        from keywords.metrics import SpecializationFactor
-        factors = SpecializationFactor.calculate(texts)
-        ```
+    ```python
+    from keywords.metrics import SpecializationFactor
+    factors = SpecializationFactor.calculate(texts)
+    ```
