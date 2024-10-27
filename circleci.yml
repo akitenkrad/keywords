@@ -6,7 +6,7 @@ jobs:
       - image: ubuntu:24.04
     steps:
       - checkout
-      - run: sudo apt update -y
+      - run: apt update -y && apt upgrade -y && apt install -y curl
       - run: curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
       - run: source $HOME/.cargo/env
       - run: rustup install nightly
