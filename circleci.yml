@@ -1,16 +1,9 @@
 version: 2.1
 
-references:
-  docker_hub_authentication: &docker_hub_authentication
-    auth:
-      username: $DOCKERHUB_USER
-      password: $DOCKERHUB_PASSWORD
-
 jobs:
   build:
     docker:
-      - image: ubuntu-2404:current
-        <<: *docker_hub_authentication
+      - image: ubuntu:24.04
     steps:
       - checkout
       - run: sudo apt update -y
