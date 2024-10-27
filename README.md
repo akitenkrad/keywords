@@ -1,8 +1,11 @@
 # keywords
 
+[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/X1fiE4koKU88Z9sKwWoPAH/D8z2Q2gapEqvFmMEfhA7cE/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/X1fiE4koKU88Z9sKwWoPAH/D8z2Q2gapEqvFmMEfhA7cE/tree/main)
+
 ## Get Started
 
 ### install
+
 ```bash
 pip install git+ssh://git@github.com/akitenkrad/keywords.git
 ```
@@ -23,7 +26,8 @@ pip install git+ssh://git@github.com/akitenkrad/keywords.git
     ```
 
 - calculate metrics
-    - specialization factor
+  - specialization factor
+
         ```python
         from keywords.metrics import SpecializationFactor
         factors = SpecializationFactor.calculate(texts)
