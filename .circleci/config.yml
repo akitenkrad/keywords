@@ -18,11 +18,6 @@ jobs:
       - run: cargo +nightly test -- --format=json -Z unstable-options --report-time | junitify --out $HOME/tests
       - store_test_results:
           path: $HOME/tests
-
-  notify:
-    docker:
-      - image: cimg/base:stable
-    steps:
       - slack/notify:
           event: pass
           template: basic_success_1
@@ -33,6 +28,5 @@ jobs:
 workflows:
   build_and_notify:
     jobs:
-      - build
-      - notify:
+      - build:
           context: slack-secrets
