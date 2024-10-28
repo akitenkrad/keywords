@@ -8265,5 +8265,47 @@
         "word": "Drone",
         "alias": "Drone",
         "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "新登場",
+        "alias": "新登場",
+        "score": -3
+    },
+    {
+        "category": "Item",
+        "language": "English",
+        "word": "Android",
+        "alias": "Android",
+        "score": 2
+    },
+    {
+        "category": "Item",
+        "language": "English",
+        "word": "iOS",
+        "alias": "iOS",
+        "score": 2
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "データ",
+        "alias": "データ",
+        "score": 1
+    },
+    {
+        "category": "Security",
+        "language": "Japanese",
+        "word": "スミッシング",
+        "alias": "Smishing",
+        "score": 10
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Smishing",
+        "alias": "Smishing",
+        "score": 10
     }
 ]
