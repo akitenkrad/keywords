@@ -8307,5 +8307,243 @@
         "word": "Smishing",
         "alias": "Smishing",
         "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "アスキー",
+        "alias": "アスキー",
+        "score": -1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ケータイ Watch",
+        "alias": "ケータイ Watch",
+        "score": -1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ブロックチェーン",
+        "alias": "Blockchain",
+        "score": 5
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Blockchain",
+        "alias": "Blockchain",
+        "score": 5
+    },
+    {
+        "category": "Item",
+        "language": "Japanese",
+        "word": "ステーブルコイン",
+        "alias": "Stablecoin",
+        "score": 3
+    },
+    {
+        "category": "Item",
+        "language": "English",
+        "word": "Stablecoin",
+        "alias": "Stablecoin",
+        "score": 3
+    },
+    {
+        "category": "Item",
+        "language": "English",
+        "word": "Spotify",
+        "alias": "Spotify",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "CEO",
+        "alias": "CEO",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "CTO",
+        "alias": "CTO",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "PC Watch",
+        "alias": "PC Watch",
+        "score": -1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "Impress Watch",
+        "alias": "Impress Watch",
+        "score": -1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "基幹システム",
+        "alias": "基幹システム",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "Webサーバ",
+        "alias": "Webサーバ",
+        "score": 1
+    },
+    {
+        "category": "Organization",
+        "language": "Japanese",
+        "word": "アクセンチュア",
+        "alias": "Accenture",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "English",
+        "word": "Accenture",
+        "alias": "Accenture",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "システム障害",
+        "alias": "システム障害",
+        "score": 1
+    },
+    {
+        "category": "Organization",
+        "language": "Japanese",
+        "word": "ルネサス",
+        "alias": "Renesas",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "English",
+        "word": "Renesas",
+        "alias": "Renesas",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "Japanese",
+        "word": "富士通",
+        "alias": "Fujitsu",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "English",
+        "word": "Fujitsu",
+        "alias": "Fujitsu",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "Japanese",
+        "word": "米アップル",
+        "alias": "Apple",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "Japanese",
+        "word": "エイサー",
+        "alias": "Acer",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "English",
+        "word": "Acer",
+        "alias": "Acer",
+        "score": 3
+    },
+    {
+        "category": "Item",
+        "language": "English",
+        "word": "VMware",
+        "alias": "VMware",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "クラウド",
+        "alias": "Cloud",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Python",
+        "alias": "Python",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "C言語",
+        "alias": "C言語",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "C+",
+        "alias": "C++",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Wikipedia",
+        "alias": "Wikipedia",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "API",
+        "alias": "API",
+        "score": 1
+    },
+    {
+        "category": "Item",
+        "language": "English",
+        "word": "Snowflake",
+        "alias": "Snowflake",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "React",
+        "alias": "React",
+        "score": 1
+    },
+    {
+        "category": "Organization",
+        "language": "English",
+        "word": "CloudStrike",
+        "alias": "CloudStrike",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "勘定系システム",
+        "alias": "勘定系システム",
+        "score": 1
     }
 ]
