@@ -5646,14 +5646,14 @@
         "language": "English",
         "word": "Instagram",
         "alias": "Instagram",
-        "score": 5
+        "score": 1
     },
     {
         "category": "Topic",
         "language": "English",
         "word": "Bluesky",
         "alias": "Bluesky",
-        "score": 5
+        "score": 1
     },
     {
         "category": "Topic",
@@ -8545,5 +8545,75 @@
         "word": "勘定系システム",
         "alias": "勘定系システム",
         "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "フラグシップモデル",
+        "alias": "フラグシップモデル",
+        "score": -1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ギズモード・ジャパン",
+        "alias": "ギズモード・ジャパン",
+        "score": -1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ドージコイン",
+        "alias": "Dogecoin",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Dogecoin",
+        "alias": "Dogecoin",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "イーサリアム",
+        "alias": "Ethereum",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Ethereum",
+        "alias": "Ethereum",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Security Next",
+        "alias": "Security Next",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "ITmedia PC USER",
+        "alias": "ITMedia PC USER",
+        "score": -1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "上方修正",
+        "alias": "上方修正",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "すまほん",
+        "alias": "すまほん",
+        "score": -1
     }
 ]
