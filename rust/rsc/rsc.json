@@ -8748,5 +8748,110 @@
         "word": "3Dデータ",
         "alias": "3Dデータ",
         "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "バッチジョブ",
+        "alias": "Batch Job",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Batch Job",
+        "alias": "Batch Job",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "スケーラビリティ",
+        "alias": "Scalability",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Scalability",
+        "alias": "Scalability",
+        "score": 1
+    },
+    {
+        "category": "Organization",
+        "language": "English",
+        "word": "Sansan",
+        "alias": "Sansan",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "自動化",
+        "alias": "Automation",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Automation",
+        "alias": "Automation",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "個人情報保護",
+        "alias": "Personal Information Protection",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Personal Information Protection",
+        "alias": "Personal Information Protection",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "GDPR",
+        "alias": "GDPR",
+        "score": 1
+    },
+    {
+        "category": "Organization",
+        "language": "Japanese",
+        "word": "東京メトロ",
+        "alias": "東京メトロ",
+        "score": 3
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Many-Shot In-Context Learning",
+        "alias": "Many-Shot ICL",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Many-Shot ICL",
+        "alias": "Many-Shot ICL",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Long-Context In-Context Learning",
+        "alias": "Long-Context ICL",
+        "score": 10
+    },
+    {
+        "category": "NaturalLanguageProcessing",
+        "language": "English",
+        "word": "Long-Context ICL",
+        "alias": "Long-Context ICL",
+        "score": 10
     }
 ]
