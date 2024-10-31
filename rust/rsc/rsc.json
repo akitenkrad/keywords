@@ -8615,5 +8615,138 @@
         "word": "すまほん",
         "alias": "すまほん",
         "score": -1
+    },
+    {
+        "category": "Organization",
+        "language": "Japanese",
+        "word": "国土地理院",
+        "alias": "国土地理院",
+        "score": 3
+    },
+    {
+        "category": "Security",
+        "language": "Japanese",
+        "word": "不正アクセス",
+        "alias": "Unauthorized Access",
+        "score": 3
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Unauthorized Access",
+        "alias": "Unauthorized Access",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "サプライチェーン",
+        "alias": "Supply Chain",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Supply Chain",
+        "alias": "Supply Chain",
+        "score": 1
+    },
+    {
+        "category": "Organization",
+        "language": "Japanese",
+        "word": "ソラコム",
+        "alias": "SORACOM",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "English",
+        "word": "SORACOM",
+        "alias": "SORACOM",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "SIM",
+        "alias": "SIM",
+        "score": 1
+    },
+    {
+        "category": "Security",
+        "language": "Japanese",
+        "word": "詐欺",
+        "alias": "Fraud",
+        "score": 1
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "Fraud",
+        "alias": "Fraud",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "JavaScript",
+        "alias": "JavaScript",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "TypeScript",
+        "alias": "TypeScript",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "PowerShell",
+        "alias": "PowerShell",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "仮想マシン",
+        "alias": "Virtual Machine",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Virtual Machine",
+        "alias": "Virtual Machine",
+        "score": 1
+    },
+    {
+        "category": "Security",
+        "language": "Japanese",
+        "word": "不正侵入",
+        "alias": "Unauthorized Access",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "Japanese",
+        "word": "マネーフォワード",
+        "alias": "Money Forward",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "English",
+        "word": "Money Forward",
+        "alias": "Money Forward",
+        "score": 3
+    },
+    {
+        "category": "Item",
+        "language": "Japanese",
+        "word": "3Dデータ",
+        "alias": "3Dデータ",
+        "score": 1
     }
 ]
