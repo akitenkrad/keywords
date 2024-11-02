@@ -7949,7 +7949,7 @@
         "language": "English",
         "word": "TikTok",
         "alias": "TikTok",
-        "score": 5
+        "score": 2
     },
     {
         "category": "Item",
@@ -8052,6 +8052,13 @@
     {
         "category": "Item",
         "language": "English",
+        "word": "Raspberry Pi",
+        "alias": "Raspberry Pi",
+        "score": 1
+    },
+    {
+        "category": "Item",
+        "language": "Japanese",
         "word": "Raspberry Pi",
         "alias": "Raspberry Pi",
         "score": 1
@@ -8193,7 +8200,21 @@
         "category": "Organization",
         "language": "English",
         "word": "Open AI",
-        "alias": "Open AI",
+        "alias": "OpenAI",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "Japanese",
+        "word": "Open AI",
+        "alias": "OpenAI",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "English",
+        "word": "OpenAI",
+        "alias": "OpenAI",
         "score": 3
     },
     {
@@ -8590,14 +8611,14 @@
     },
     {
         "category": "Topic",
-        "language": "English",
+        "language": "Japanese",
         "word": "Security Next",
         "alias": "Security Next",
         "score": 1
     },
     {
         "category": "Topic",
-        "language": "English",
+        "language": "Japanese",
         "word": "ITmedia PC USER",
         "alias": "ITMedia PC USER",
         "score": -1
@@ -8853,5 +8874,19 @@
         "word": "Long-Context ICL",
         "alias": "Long-Context ICL",
         "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "携帯電話事業者",
+        "alias": "携帯電話事業者",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "ADHD",
+        "alias": "ADHD",
+        "score": 1
     }
 ]
