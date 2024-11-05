@@ -8888,5 +8888,61 @@
         "word": "ADHD",
         "alias": "ADHD",
         "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "市民開発",
+        "alias": "市民開発",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "内製",
+        "alias": "内製",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ミッションクリティカル",
+        "alias": "Mission-Critical",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Mission-Critical",
+        "alias": "Mission-Critical",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "電子ペーパー",
+        "alias": "Electronic Paper",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Electromic Paper",
+        "alias": "Electronic Paper",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Router",
+        "alias": "Router",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "ルーター",
+        "alias": "ルーター",
+        "score": 1
     }
 ]
