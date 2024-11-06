@@ -35,7 +35,7 @@ pub enum Category {
 pub struct Keyword {
     pub word: String,
     pub alias: String,
-    pub score: i8,
+    pub score: isize,
     pub language: Language,
     pub category: Category,
 }
@@ -80,7 +80,7 @@ impl Keyword {
         let mut hasher = std::collections::hash_map::DefaultHasher::new();
         hasher.write(&self.word.as_bytes());
         hasher.write(&self.alias.as_bytes());
-        hasher.write_i8(self.score);
+        hasher.write_isize(self.score);
         return hasher.finish();
     }
     fn word(&self) -> String {
@@ -89,7 +89,7 @@ impl Keyword {
     fn alias(&self) -> String {
         return self.alias.clone();
     }
-    fn score(&self) -> i8 {
+    fn score(&self) -> isize {
         return self.score;
     }
     fn language(&self) -> String {
