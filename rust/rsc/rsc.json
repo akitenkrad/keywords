@@ -8944,5 +8944,19 @@
         "word": "ルーター",
         "alias": "ルーター",
         "score": 1
+    },
+    {
+        "category": "Organization",
+        "language": "English",
+        "word": "Palantir",
+        "alias": "Palantir",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "English",
+        "word": "Gartner",
+        "alias": "Gartner",
+        "score": 3
     }
 ]
