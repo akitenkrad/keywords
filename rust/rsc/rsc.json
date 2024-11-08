@@ -8958,5 +8958,40 @@
         "word": "Gartner",
         "alias": "Gartner",
         "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Startup",
+        "alias": "Startup",
+        "score": 1
+    },
+    {
+        "category": "Organization",
+        "language": "Japanese",
+        "word": "トヨタ",
+        "alias": "Toyota",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "English",
+        "word": "Toyota",
+        "alias": "Toyota",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "特許",
+        "alias": "Patent",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Patent",
+        "alias": "Patent",
+        "score": 3
     }
 ]
