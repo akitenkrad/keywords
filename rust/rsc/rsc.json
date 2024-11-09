@@ -8993,5 +8993,12 @@
         "word": "Patent",
         "alias": "Patent",
         "score": 3
+    },
+    {
+        "category": "Security",
+        "language": "English",
+        "word": "CSIRT",
+        "alias": "CSIRT",
+        "score": 3
     }
 ]
