@@ -8521,13 +8521,6 @@
     {
         "category": "Topic",
         "language": "English",
-        "word": "C+",
-        "alias": "C++",
-        "score": 1
-    },
-    {
-        "category": "Topic",
-        "language": "English",
         "word": "Wikipedia",
         "alias": "Wikipedia",
         "score": 1
@@ -8999,6 +8992,55 @@
         "language": "English",
         "word": "CSIRT",
         "alias": "CSIRT",
+        "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Fintech",
+        "alias": "Fintech",
+        "score": 1
+    },
+    {
+        "category": "Organization",
+        "language": "English",
+        "word": "SpaceX",
+        "alias": "SpaceX",
+        "score": 3
+    },
+    {
+        "category": "Organization",
+        "language": "Japanese",
+        "word": "国土交通省",
+        "alias": "国土交通省",
+        "score": 3
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Machine Learning",
+        "alias": "Machine Learning",
+        "score": 3
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "GenAI",
+        "alias": "Generative AI",
+        "score": 10
+    },
+    {
+        "category": "MachineLearning",
+        "language": "English",
+        "word": "Gen AI",
+        "alias": "Generative AI",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "EdTech",
+        "alias": "EdTech",
         "score": 3
     }
 ]
