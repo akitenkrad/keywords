@@ -9042,5 +9042,19 @@
         "word": "EdTech",
         "alias": "EdTech",
         "score": 3
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "持続可能",
+        "alias": "持続可能",
+        "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "考古学",
+        "alias": "考古学",
+        "score": 1
     }
 ]
