@@ -9056,5 +9056,26 @@
         "word": "考古学",
         "alias": "考古学",
         "score": 1
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "エッジ AI",
+        "alias": "Edge AI",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "Japanese",
+        "word": "エッジAI",
+        "alias": "Edge AI",
+        "score": 10
+    },
+    {
+        "category": "Topic",
+        "language": "English",
+        "word": "Edge AI",
+        "alias": "Edge AI",
+        "score": 10
     }
 ]
