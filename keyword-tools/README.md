@@ -2,7 +2,7 @@
 
 # keywords
 
-<img src="LOGO.png" alt="LOGO" width=150, height=150 />
+<img src="../LOGO.png" alt="LOGO" width=150, height=150 />
 
 ## Get Started
 
