@@ -9,7 +9,7 @@ license.workspace = true
 
 [lib]
 name = "keywords"
-path = "keyword-tools/lib.rs"
+path = "lib.rs"
 crate-type = ["cdylib", "lib"]
 
 [dependencies]
