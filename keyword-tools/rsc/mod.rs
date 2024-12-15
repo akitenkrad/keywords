@@ -110,13 +110,13 @@ pub fn extract_keywords(text: &str, keywords: Vec<Keyword>, lang: Language) -> V
     let mut extracted_keywords: Vec<Keyword> = Vec::new();
 
     if lang == Language::English {
-        for keyword in keywords {
+        keywords.iter().for_each(|keyword| {
             let re_str = keyword.get_keyword_ptn();
             let re = Regex::new(&re_str).unwrap();
             if re.is_match(text) {
                 extracted_keywords.push(keyword.clone());
             }
-        }
+        });
     } else if lang == Language::Japanese {
         let tokens = mecab_tokenize(text);
         let mecabed_text = tokens
@@ -124,7 +124,7 @@ pub fn extract_keywords(text: &str, keywords: Vec<Keyword>, lang: Language) -> V
             .map(|t| t.surface.clone())
             .collect::<Vec<String>>()
             .join(" ");
-        for keyword in keywords {
+        keywords.iter().for_each(|keyword| {
             let re_str = keyword.get_keyword_ptn();
             let re = Regex::new(&re_str).unwrap();
             if text.contains(&keyword.word) {
@@ -132,8 +132,8 @@ pub fn extract_keywords(text: &str, keywords: Vec<Keyword>, lang: Language) -> V
             } else if re.is_match(&mecabed_text) {
                 extracted_keywords.push(keyword.clone());
             }
-        }
-    }
+        });
+   }
 
     return extracted_keywords;
 }
