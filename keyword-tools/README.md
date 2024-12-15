@@ -74,6 +74,12 @@ If you want to use your own keywords, just create your a JSON file according to 
 ]
 ```
 
+Then, load the keywords.
+
+```rust
+let kws = load_keywords_from_rsc("PATH_TO_YOUR JSON_FILE")
+```
+
 The JSON file defines a collection of topic entries used by the crate. Each entry is an object with the following fields:
 
 ### category
