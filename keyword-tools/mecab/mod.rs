@@ -72,21 +72,29 @@ fn get_tokenizer() -> Tokenizer {
 
     // wait until the dictionary is downloaded
     {
-        let bar = ProgressBar::new(300);
+        let pb = ProgressBar::new(300);
+        pb.set_style(
+            indicatif::ProgressStyle::default_bar()
+                .template(
+                    "{spinner:.green} [{elapsed_precise}] [{bar:40.green/cyan}] {pos}/{len} {msg}",
+                )
+                .unwrap()
+                .progress_chars("#>-"),
+        );
+        let mut retry_count = 300;
         loop {
-            let mut retry_count = 300;
             if fs::exists(mecab_dic_path.as_str()).unwrap() {
                 break;
             }
             std::thread::sleep(std::time::Duration::from_secs(1));
             retry_count -= 1;
-            bar.inc(1);
+            pb.inc(1);
 
             if retry_count == 0 {
                 panic!("Failed to download MeCab dictionary");
             }
         }
-        bar.finish();
+        pb.finish_and_clear();
     }
 
     let reader = zstd::Decoder::new(fs::File::open(mecab_dic_path).unwrap()).unwrap();
