@@ -5,7 +5,7 @@ edition = "2021"
 
 [lib]
 name = "keywords"
-path = "rust/lib.rs"
+path = "keyword-tools/lib.rs"
 crate-type = ["cdylib", "lib"]
 
 [dependencies]

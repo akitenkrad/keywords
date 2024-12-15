@@ -106,6 +106,12 @@ pub fn load_keywords() -> Vec<Keyword> {
 }
 
 #[pyfunction]
+pub fn load_keywords_from_rsc(rsc: &str) -> Vec<Keyword> {
+    let src_json = std::fs::read_to_string(rsc).expect("Unable to read file");
+    return serde_json::from_str(&src_json).expect("Unable to parse json");
+}
+
+#[pyfunction]
 pub fn extract_keywords(text: &str, keywords: Vec<Keyword>, lang: Language) -> Vec<Keyword> {
     let mut extracted_keywords: Vec<Keyword> = Vec::new();
 
@@ -133,7 +139,7 @@ pub fn extract_keywords(text: &str, keywords: Vec<Keyword>, lang: Language) -> V
                 extracted_keywords.push(keyword.clone());
             }
         });
-   }
+    }
 
     return extracted_keywords;
 }

@@ -8,6 +8,14 @@ fn test_keywords_load() {
 }
 
 #[test]
+fn test_keywords_load_with_rsc() {
+    let rsc = "keyword-tools/rsc/rsc.json";
+    let keywords = load_keywords_from_rsc(rsc);
+    println!("{}", keywords.len());
+    assert!(keywords.len() > 0);
+}
+
+#[test]
 fn test_keyword_get_keyword_ptn() {
     let keyword = Keyword {
         word: "Transformer".to_string(),
@@ -77,4 +85,15 @@ fn test_each_keywords() {
             );
         }
     }
+}
+
+#[test]
+fn test_sample_text() {
+    let keywords = load_keywords();
+    let text = "After the introduction of Large Language Models (LLMs), there have been substantial improvements in the performance of Natural Language Generation (NLG) tasks, including Text Summarization and Machine Translation.";
+
+    let extracted_kwds = extract_keywords(text, keywords, Language::English);
+
+    println!("{:?}", extracted_kwds);
+    assert!(extracted_kwds.len() > 0);
 }

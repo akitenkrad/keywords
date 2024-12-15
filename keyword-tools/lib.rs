@@ -13,6 +13,7 @@ fn keywords(m: &Bound<'_, PyModule>) -> PyResult<()> {
     m.add_class::<rsc::Category>()?;
     m.add_class::<rsc::Keyword>()?;
     m.add_function(wrap_pyfunction!(rsc::load_keywords, m)?)?;
+    m.add_function(wrap_pyfunction!(rsc::load_keywords_from_rsc, m)?)?;
     m.add_function(wrap_pyfunction!(rsc::extract_keywords, m)?)?;
     Ok(())
 }
