@@ -3,7 +3,7 @@ resolver = "2"
 members = ["keyword-tools"]
 
 [workspace.package]
-version = "0.2.2"
+version = "0.1.0"
 edition = "2021"
 authors = ["akitenkrad"]
 description = "Rust tools for keyword extraction and similarity search"
