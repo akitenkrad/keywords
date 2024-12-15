@@ -9,7 +9,7 @@ fn test_keywords_load() {
 
 #[test]
 fn test_keywords_load_with_rsc() {
-    let rsc = "keyword-tools/rsc/rsc.json";
+    let rsc = "rsc/rsc.json";
     let keywords = load_keywords_from_rsc(rsc);
     println!("{}", keywords.len());
     assert!(keywords.len() > 0);
